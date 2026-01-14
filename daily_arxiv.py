@@ -125,27 +125,24 @@ def get_daily_papers(
     json_file: str | Path | None = None,
     start_date: str = "2024-01-01",
 ):
-    """
-    Fetch arXiv + PapersWithCode metadata and return them as markdown table rows.
-    """
+    """Fetch arXiv + PapersWithCode metadata and return them as markdown rows."""
     content: dict[str, str] = {}
     existing_ids: set[str] = set()
     if json_file is not None:
         existing_ids = _load_existing_ids(json_file, topic)
 
-    # Apply date range to capture "2024 -> now"
-    query_with_date = _build_date_range_query(query, start_date=start_date)
-
     total_seen = 0
     total_kept = 0
     total_new = 0
 
-    # 1. arxiv client
     client = arxiv.Client(
         page_size=100,    
         delay_seconds=3,  
         num_retries=5    
     )
+
+    # Single query (no batching)
+    query_with_date = _build_date_range_query(query, start_date=start_date)
 
     search = arxiv.Search(
         query=query_with_date,
@@ -153,7 +150,6 @@ def get_daily_papers(
         sort_by=arxiv.SortCriterion.SubmittedDate
     )
 
-    # 2. iterate over results
     for res in iter_results_safe(client, search):
         total_seen += 1
 
@@ -163,24 +159,15 @@ def get_daily_papers(
         paper_title    = res.title
         paper_url      = res.entry_id
         paper_abstract = res.summary.replace("\n", " ")
-        # Normalize abstract text for matching graphrag-related keywords
         norm_abs = re.sub(r"[\s\-]", "", paper_abstract.lower())
 
-        cats = res.categories                 # e.g. ['cs.CL', 'cs.LG']
-
-        # Filtering rules:
-        # 1) Original logic: focus on categories in KEEP and exclude those in BLOCKS.
-        # 2) Relaxed rule: if the abstract contains graphrag / graph-rag / graph rag
-        #    (all normalized to "graphrag"), keep the paper even if it is not in KEEP
-        #    or falls into BLOCKS.
+        cats = res.categories
         has_keep_cat   = any(c in KEEP for c in cats)
         has_block_cat  = any(c in BLOCKS for c in cats)
         has_graphrag_k = "graphrag" in norm_abs
 
-        # Skip if it is not in the target categories and the abstract does not contain graphrag
         if (not has_keep_cat) and (not has_graphrag_k):
             continue
-        # Skip if it hits blocked categories and the abstract does not contain graphrag
         if has_block_cat and (not has_graphrag_k):
             continue
 
@@ -192,21 +179,18 @@ def get_daily_papers(
         paper_labels   = ", ".join(cats)
 
         repo_url = "null"
-        try:
-            r = requests.get(BASE_URL + paper_id_full, timeout=10).json()
-            if r.get("official"):
-                repo_url = r["official"]["url"]
-        except requests.exceptions.SSLError as e:
-            # Only print SSL error once to avoid spam
-            global _pwc_ssl_warned
-            if not _pwc_ssl_warned:
+        global _pwc_ssl_warned
+        if not _pwc_ssl_warned:
+            try:
+                r = requests.get(BASE_URL + paper_id_full, timeout=5).json()
+                if r.get("official"):
+                    repo_url = r["official"]["url"]
+            except requests.exceptions.SSLError as e:
                 print(f"[PwC] SSL handshake failed in this environment, will skip PwC lookups. Example: {e}")
                 _pwc_ssl_warned = True
-        except Exception as e:
-            print(f"PwC lookup failed for {paper_id_full}: {e}")
+            except Exception as e:
+                print(f"PwC lookup failed for {paper_id_full}: {e}")
 
-        # If PwC does not provide an official repo, try to extract the last URL
-        # from the abstract as a potential code link.
         if repo_url == "null":
             abs_url = extract_last_url(paper_abstract)
             if abs_url:
@@ -220,14 +204,14 @@ def get_daily_papers(
 
         content[paper_id] = md_row
 
-    # Summary for this topic/run
+    batches_info = ""
     if json_file is None:
         print(
-            f"[{topic}] arXiv fetched={total_seen} (max_results={max_results}, since={start_date}); kept={total_kept}"
+            f"[{topic}] arXiv fetched={total_seen} (max_results={max_results}, since={start_date}){batches_info}; kept={total_kept}"
         )
     else:
         print(
-            f"[{topic}] arXiv fetched={total_seen} (max_results={max_results}, since={start_date}); "
+            f"[{topic}] arXiv fetched={total_seen} (max_results={max_results}, since={start_date}){batches_info}; "
             f"kept={total_kept}; new={total_new}; already_have={len(existing_ids)}"
         )
 
@@ -253,7 +237,6 @@ def wrap_old_row(md_row: str) -> str:
     return "|".join(cells) + newline
 
 def update_json_file(filename, data_all):
-    # Initialize with empty dict if file does not exist or is empty
     if os.path.exists(filename):
         with open(filename, "r") as f:
             content = f.read().strip()
@@ -279,16 +262,12 @@ def json_to_md(filename, md_filename,
                show_badge=True):
     """
     Convert the JSON file into a markdown README.
-
-    @param filename: path to the input JSON
-    @param md_filename: path to the output markdown file
     """
 
     DateNow = dt.date.today()
     DateNow = str(DateNow)
     DateNow = DateNow.replace('-', '.')
 
-    # Initialize with empty dict if file does not exist or is empty
     if os.path.exists(filename):
         with open(filename, "r") as f:
             content = f.read()
@@ -299,11 +278,9 @@ def json_to_md(filename, md_filename,
     else:
         data = {}
 
-    # Clean README.md if it already exists, otherwise create it
     with open(md_filename, "w+") as f:
         pass
 
-    # Write data into README.md
     with open(md_filename, "a+") as f:
 
         if (use_title == True) and (to_web == True):
@@ -315,7 +292,6 @@ def json_to_md(filename, md_filename,
             f.write(f"[![Stargazers][stars-shield]][stars-url]\n")
             f.write(f"[![Issues][issues-shield]][issues-url]\n\n")
 
-        # Add short description of this repository
         f.write("This repository tracks the latest GraphRAG related papers from arXiv.\n\n")
 
         if use_title == True:
@@ -329,7 +305,6 @@ def json_to_md(filename, md_filename,
             day_content = data[keyword]
             if not day_content:
                 continue
-            # Section header for each topic
             f.write(f"## {keyword}\n\n")
 
             if use_title == True:
@@ -339,7 +314,6 @@ def json_to_md(filename, md_filename,
                     f.write("| Date | Title | label | Abstract | PDF | Code |\n")
                     f.write("|:---------|:---------------|:-------|:------------------|:------|:------|\n")
 
-            # Sort papers by date
             day_content = sort_papers(day_content)
 
             for _, v in day_content.items():
@@ -349,13 +323,11 @@ def json_to_md(filename, md_filename,
 
             f.write(f"\n")
 
-            # Add: back-to-top link
             top_info = f"#Updated on {DateNow}"
             top_info = top_info.replace(' ', '-').replace('.', '')
             f.write(f"<p align=right>(<a href={top_info}>back to top</a>)</p>\n\n")
 
         if show_badge == True:
-            # Badge definitions
             f.write(
                 f"[contributors-shield]: https://img.shields.io/github/contributors/bansky-cl/graphrag-arxiv-daily-paper.svg?style=for-the-badge\n")
             f.write(f"[contributors-url]: https://github.com/bansky-cl/graphrag-arxiv-daily-paper/graphs/contributors\n")
@@ -375,7 +347,6 @@ def json_to_trend(json_file: str | Path, img_file: str | Path) -> None:
     json_file = Path(json_file).expanduser().resolve()
     img_file  = Path(img_file).expanduser().resolve()
 
-    # Initialize with empty dict if JSON file does not exist or is empty
     if not json_file.exists():
         data = {}
     else:
@@ -423,8 +394,6 @@ def json_to_trend(json_file: str | Path, img_file: str | Path) -> None:
 if __name__ == "__main__":
 
     data_collector = []
-
-    # Keywords for the arXiv search query
     keywords = dict[Any, Any]()
     search_terms = [
         # ---  GraphRAG (core terms) ---
@@ -437,21 +406,6 @@ if __name__ == "__main__":
         # --- Subgraph RAG / Subgraph-level methods ---
         "subgraph rag", "sub-graph rag",
         "subgraph-level rag", "sub-graph-level rag",
-
-        # --- Node-level retrieval / augmentation ---
-        "node rag", "node-level rag",
-        "node-level retrieval-augmented generation",
-        "node retrieval-augmented generation",
-
-        # --- Triplet / triple-level retrieval / augmentation ---
-        "triplet rag", "triple rag",
-        "triple-level rag", "triplet-level rag",
-        "triplet retrieval-augmented generation",
-
-        # --- Path-level retrieval / augmentation ---
-        "path rag", "path-based rag",
-        "path-level rag",
-        "path retrieval-augmented generation",
 
         # --- Hybrid graph-text / hybrid retrieval ---
         "hybrid rag", "hybrid graph rag",
@@ -483,22 +437,30 @@ if __name__ == "__main__":
     img_file = "imgs/trend.png"
     md_file = "README.md"
 
-    # If JSON is empty / missing: bootstrap from 2024-01-01 with a larger cap
-    # If JSON already has data: daily incremental with 200 and no date filter
     json_path = Path(json_file)
     if json_path.exists():
         content = json_path.read_text(encoding="utf-8").strip()
-        is_bootstrap = len(content) == 0
+        if not content:
+            is_bootstrap = True
+        else:
+            try:
+                data = json.loads(content)
+                if isinstance(data, dict):
+                    has_any_papers = any(isinstance(v, dict) and len(v) > 0 for v in data.values())
+                    is_bootstrap = not has_any_papers
+                else:
+                    is_bootstrap = False
+            except Exception:
+                is_bootstrap = False
     else:
         is_bootstrap = True
 
-    fetch_start_date = "2024-01-01" if is_bootstrap else None
+    fetch_start_date = None
     fetch_max_results = 500 if is_bootstrap else 200
 
     for topic, keyword in keywords.items():
         print("Keyword: " + topic)
 
-        # Note: bootstrap mode fetches more and adds date filter; daily mode is lighter
         data = get_daily_papers(
             topic,
             query=keyword,
