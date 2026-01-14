@@ -20,7 +20,7 @@ arxiv_url = "http://arxiv.org/"
 
 BASE_URL = "https://arxiv.paperswithcode.com/api/v0/papers/"
 
-# 只关注以下几个主要方向
+# Only keep the main research areas we care about
 KEEP   = {"cs.CL", "cs.AI", "cs.LG", "cs.IR"}
 BLOCKS = {"cs.CV", "eess.AS", "cs.SD", "eess.SP", "q-bio.BM"}
 
@@ -54,10 +54,10 @@ def sort_papers(papers):
 
 def extract_last_url(text: str) -> str | None:
     """
-    从文本中抽取最后一个 URL（如果存在）。
-    主要用于处理“Code is available at https://xxx”这类摘要里的链接。
+    Extract the last URL from the text (if any).
+    Mainly used for catching links like "Code is available at https://xxx" in abstracts.
     """
-    # 匹配 http/https 开头的连续非空白字符串
+    # Match continuous non-whitespace strings starting with http/https
     urls = re.findall(r"https?://\S+", text)
     if not urls:
         return None
@@ -78,7 +78,7 @@ def iter_results_safe(client, search):
 
 def get_daily_papers(topic, query, max_results=200):
     """
-    抓取 arXiv + PapersWithCode 信息并按 markdown 表格行返回
+    Fetch arXiv + PapersWithCode metadata and return them as markdown table rows.
     """
     content: dict[str, str] = {}
 
@@ -95,13 +95,8 @@ def get_daily_papers(topic, query, max_results=200):
         sort_by=arxiv.SortCriterion.SubmittedDate
     )
 
-    # 2. iter_results
+    # 2. iterate over results
     for res in iter_results_safe(client, search):
-
-        cats = res.categories                 # e.g. ['cs.CL', 'cs.LG']
-        # 仅保留包含关注领域之一且不在 BLOCKS 中的论文
-        if (not any(c in KEEP for c in cats)) or any(c in cats for c in BLOCKS):
-            continue
 
         paper_id_full  = res.get_short_id()  
         paper_id       = paper_id_full.split("v")[0]  
@@ -109,6 +104,27 @@ def get_daily_papers(topic, query, max_results=200):
         paper_title    = res.title
         paper_url      = res.entry_id
         paper_abstract = res.summary.replace("\n", " ")
+        # Normalize abstract text for matching graphrag-related keywords
+        norm_abs = re.sub(r"[\s\-]", "", paper_abstract.lower())
+
+        cats = res.categories                 # e.g. ['cs.CL', 'cs.LG']
+
+        # Filtering rules:
+        # 1) Original logic: focus on categories in KEEP and exclude those in BLOCKS.
+        # 2) Relaxed rule: if the abstract contains graphrag / graph-rag / graph rag
+        #    (all normalized to "graphrag"), keep the paper even if it is not in KEEP
+        #    or falls into BLOCKS.
+        has_keep_cat   = any(c in KEEP for c in cats)
+        has_block_cat  = any(c in BLOCKS for c in cats)
+        has_graphrag_k = "graphrag" in norm_abs
+
+        # Skip if it is not in the target categories and the abstract does not contain graphrag
+        if (not has_keep_cat) and (not has_graphrag_k):
+            continue
+        # Skip if it hits blocked categories and the abstract does not contain graphrag
+        if has_block_cat and (not has_graphrag_k):
+            continue
+
         collapsed_abs = make_collapsible(paper_abstract)      
         paper_labels   = ", ".join(cats)
 
@@ -120,7 +136,8 @@ def get_daily_papers(topic, query, max_results=200):
         except Exception as e:
             print(f"PwC lookup failed for {paper_id_full}: {e}")
 
-        # 如果 PwC 没有给出官方仓库，则尝试从摘要中抽取最后一个 URL 作为代码链接
+        # If PwC does not provide an official repo, try to extract the last URL
+        # from the abstract as a potential code link.
         if repo_url == "null":
             abs_url = extract_last_url(paper_abstract)
             if abs_url:
@@ -156,7 +173,7 @@ def wrap_old_row(md_row: str) -> str:
     return "|".join(cells) + newline
 
 def update_json_file(filename, data_all):
-    # 如果文件不存在或为空，初始化为空字典
+    # Initialize with empty dict if file does not exist or is empty
     if os.path.exists(filename):
         with open(filename, "r") as f:
             content = f.read().strip()
@@ -181,16 +198,17 @@ def json_to_md(filename, md_filename,
                use_tc=True,
                show_badge=True):
     """
-    @param filename: str
-    @param md_filename: str
-    @return None
+    Convert the JSON file into a markdown README.
+
+    @param filename: path to the input JSON
+    @param md_filename: path to the output markdown file
     """
 
     DateNow = dt.date.today()
     DateNow = str(DateNow)
     DateNow = DateNow.replace('-', '.')
 
-    # 如果文件不存在或为空，初始化为空字典
+    # Initialize with empty dict if file does not exist or is empty
     if os.path.exists(filename):
         with open(filename, "r") as f:
             content = f.read()
@@ -201,11 +219,11 @@ def json_to_md(filename, md_filename,
     else:
         data = {}
 
-    # clean README.md if daily already exist else create it
+    # Clean README.md if it already exists, otherwise create it
     with open(md_filename, "w+") as f:
         pass
 
-    # write data into README.md
+    # Write data into README.md
     with open(md_filename, "a+") as f:
 
         if (use_title == True) and (to_web == True):
@@ -217,7 +235,7 @@ def json_to_md(filename, md_filename,
             f.write(f"[![Stargazers][stars-shield]][stars-url]\n")
             f.write(f"[![Issues][issues-shield]][issues-url]\n\n")
 
-        # add another code repository link
+        # Add short description of this repository
         f.write("This repository tracks the latest GraphRAG related papers from arXiv.\n\n")
 
         if use_title == True:
@@ -231,7 +249,7 @@ def json_to_md(filename, md_filename,
             day_content = data[keyword]
             if not day_content:
                 continue
-            # the head of each part
+            # Section header for each topic
             f.write(f"## {keyword}\n\n")
 
             if use_title == True:
@@ -241,7 +259,7 @@ def json_to_md(filename, md_filename,
                     f.write("| Date | Title | label | Abstract | PDF | Code |\n")
                     f.write("|:---------|:---------------|:-------|:------------------|:------|:------|\n")
 
-            # sort papers by date
+            # Sort papers by date
             day_content = sort_papers(day_content)
 
             for _, v in day_content.items():
@@ -251,13 +269,13 @@ def json_to_md(filename, md_filename,
 
             f.write(f"\n")
 
-            # Add: back to top
+            # Add: back-to-top link
             top_info = f"#Updated on {DateNow}"
             top_info = top_info.replace(' ', '-').replace('.', '')
             f.write(f"<p align=right>(<a href={top_info}>back to top</a>)</p>\n\n")
 
         if show_badge == True:
-            # unk
+            # Badge definitions
             f.write(
                 f"[contributors-shield]: https://img.shields.io/github/contributors/bansky-cl/graphrag-paper-arxiv.svg?style=for-the-badge\n")
             f.write(f"[contributors-url]: https://github.com/bansky-cl/graphrag-paper-arxiv/graphs/contributors\n")
@@ -277,7 +295,7 @@ def json_to_trend(json_file: str | Path, img_file: str | Path) -> None:
     json_file = Path(json_file).expanduser().resolve()
     img_file  = Path(img_file).expanduser().resolve()
 
-    # 如果文件不存在或为空，初始化为空字典
+    # Initialize with empty dict if JSON file does not exist or is empty
     if not json_file.exists():
         data = {}
     else:
@@ -304,34 +322,9 @@ def json_to_trend(json_file: str | Path, img_file: str | Path) -> None:
     ym_dates = {datetime.strptime(k, "%Y-%m"): k for k in counts}
     sorted_keys = [ym_dates[d] for d in sorted(ym_dates)]
     values = [counts[k] for k in sorted_keys]
-    idx_map = {k: i for i, k in enumerate(sorted_keys)}
-
-    year_tot, year_months = defaultdict(int), defaultdict(int)
-    for k, v in counts.items():
-        y = k[:4]
-        year_tot[y]   += v
-        year_months[y] += 1
-    year_avg = {y: year_tot[y] / year_months[y] for y in year_tot}
-
-    year_span = defaultdict(list)
-    for k in sorted_keys:
-        year_span[k[:4]].append(idx_map[k])
 
     plt.figure(figsize=(9, 4))
     plt.plot(sorted_keys, values, marker="o", linewidth=1, label="Monthly count")
-
-    first_bar = True
-    for y, avg in year_avg.items():
-        xs = year_span[y]
-        xmin, xmax = min(xs), max(xs)
-        bar_x = (xmin + xmax) / 2
-        bar_w = (xmax - xmin + 1) * 0.8    
-        plt.bar(bar_x, avg,
-                width=bar_w,
-                color="C1",
-                alpha=0.2,
-                label=f"Anual avg" if first_bar else None)
-        first_bar = False 
 
     plt.title("ArXiv Papers per Month")
     # plt.xlabel("Month")
@@ -351,7 +344,7 @@ if __name__ == "__main__":
 
     data_collector = []
 
-    # my keyword
+    # Keywords for the arXiv search query
     keywords = dict[Any, Any]()
     search_terms = [
         # ---  GraphRAG ---
