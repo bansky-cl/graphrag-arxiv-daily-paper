@@ -1,0 +1,12 @@
+title: GraphRAG Arxiv Daily
+description: Automatically update GraphRAG related papers (refresh every 8 hours)
+show_downloads: true
+#theme: jekyll-theme-slate
+
+remote_theme: pages-themes/slate@v0.2.0
+plugins:
+- jekyll-remote-theme 
+
+github:
+  zip_url: https://github.com/bansky-cl/graphrag-paper-arxiv
+  another_url: https://github.com/bansky-cl/graphrag-paper-arxiv
