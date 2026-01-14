@@ -24,6 +24,9 @@ BASE_URL = "https://arxiv.paperswithcode.com/api/v0/papers/"
 KEEP   = {"cs.CL", "cs.AI", "cs.LG", "cs.IR"}
 BLOCKS = {"cs.CV", "eess.AS", "cs.SD", "eess.SP", "q-bio.BM"}
 
+# Track SSL warnings to avoid spam
+_pwc_ssl_warned = False
+
 
 def get_authors(authors, first_author=False):
     output = str()
@@ -76,7 +79,7 @@ def iter_results_safe(client, search):
         except StopIteration:
             break
 
-def get_daily_papers(topic, query, max_results=200):
+def get_daily_papers(topic, query, max_results=500):
     """
     Fetch arXiv + PapersWithCode metadata and return them as markdown table rows.
     """
@@ -133,6 +136,12 @@ def get_daily_papers(topic, query, max_results=200):
             r = requests.get(BASE_URL + paper_id_full, timeout=10).json()
             if r.get("official"):
                 repo_url = r["official"]["url"]
+        except requests.exceptions.SSLError as e:
+            # Only print SSL error once to avoid spam
+            global _pwc_ssl_warned
+            if not _pwc_ssl_warned:
+                print(f"[PwC] SSL handshake failed in this environment, will skip PwC lookups. Example: {e}")
+                _pwc_ssl_warned = True
         except Exception as e:
             print(f"PwC lookup failed for {paper_id_full}: {e}")
 
@@ -347,25 +356,53 @@ if __name__ == "__main__":
     # Keywords for the arXiv search query
     keywords = dict[Any, Any]()
     search_terms = [
-        # ---  GraphRAG ---
+        # ---  GraphRAG (core terms) ---
         "graphrag", "graph-rag", "graph rag",
         "grag", "g-rag",
-        
+
         # --- KG-RAG  ---
         "kgrag", "kg-rag", "kg rag",
-        
-        # --- Subgraph RAG ---
+
+        # --- Subgraph RAG / Subgraph-level methods ---
         "subgraph rag", "sub-graph rag",
-        
-        # --- Retrieval & Augmentation ---
+        "subgraph-level rag", "sub-graph-level rag",
+
+        # --- Node-level retrieval / augmentation ---
+        "node rag", "node-level rag",
+        "node-level retrieval-augmented generation",
+        "node retrieval-augmented generation",
+
+        # --- Triplet / triple-level retrieval / augmentation ---
+        "triplet rag", "triple rag",
+        "triple-level rag", "triplet-level rag",
+        "triplet retrieval-augmented generation",
+
+        # --- Path-level retrieval / augmentation ---
+        "path rag", "path-based rag",
+        "path-level rag",
+        "path retrieval-augmented generation",
+
+        # --- Hybrid graph-text / hybrid retrieval ---
+        "hybrid rag", "hybrid graph rag",
+        "hybrid retrieval-augmented generation",
+        "hybrid graph retrieval",
+
+        # --- Retrieval & Augmentation around subgraphs / graphs ---
         "subgraph retrieval", "sub-graph retrieval",
-        "retrieving subgraph", 
+        "retrieving subgraph",
+        "graph retrieval-augmented generation",
+        "graph-augmented generation", "graph augmented generation",
+        "graph-enhanced generation", "graph enhanced generation",
+
+        # --- Enhancement / augmentation wording for subgraphs / graphs ---
         "subgraph augmented", "sub-graph augmented",
         "subgraph enhanced",  "sub-graph enhanced",
-        
-        # Reasoning & Completion ---
-        "subgraph reasoning",
-        "subgraph completion" 
+        "graph augmented", "graph-augmented",
+        "graph enhanced",  "graph-enhanced",
+
+        # --- Reasoning & Completion ---
+        "subgraph reasoning", "graph reasoning",
+        "subgraph completion", "graph completion",
         ]
 
     keywords["graphrag"] = " OR ".join([f'ti:"{term}"' for term in search_terms])
