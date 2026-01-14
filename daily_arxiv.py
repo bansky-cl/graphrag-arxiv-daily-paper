@@ -175,7 +175,9 @@ def get_daily_papers(
         if paper_id not in existing_ids:
             total_new += 1
 
-        collapsed_abs = make_collapsible(paper_abstract)      
+        collapsed_abs = make_collapsible(paper_abstract)
+        # Markdown 表格中不允许原始的 `|`，否则会打乱列对齐
+        safe_title     = str(paper_title).replace("|", "\\|")
         paper_labels   = ", ".join(cats)
 
         repo_url = "null"
@@ -197,7 +199,7 @@ def get_daily_papers(
                 repo_url = abs_url
 
         md_row = (
-            f"|**{update_time}**|**{paper_title}**|{paper_labels}| "
+            f"|**{update_time}**|**{safe_title}**|{paper_labels}| "
             f"{collapsed_abs}|[{paper_id_full}]({paper_url})| "
         )
         md_row += f"**[code]({repo_url})**|" if repo_url != "null" else "null|"
@@ -259,7 +261,8 @@ def json_to_md(filename, md_filename,
                to_web=False,
                use_title=True,
                use_tc=True,
-               show_badge=True):
+               show_badge=True,
+               show_label_and_abstract=True):
     """
     Convert the JSON file into a markdown README.
     """
@@ -309,17 +312,34 @@ def json_to_md(filename, md_filename,
 
             if use_title == True:
                 if to_web == False:
-                    f.write("|Date|Title|label|Abstract|PDF|Code|\n" + "|---|---|---|---|---|---|\n")
+                    if show_label_and_abstract:
+                        f.write("|Date|Title|label|Abstract|PDF|Code|\n" + "|---|---|---|---|---|---|\n")
+                    else:
+                        f.write("|Date|Title|PDF|Code|\n" + "|---|---|---|---|\n")
                 else:
-                    f.write("| Date | Title | label | Abstract | PDF | Code |\n")
-                    f.write("|:---------|:---------------|:-------|:------------------|:------|:------|\n")
+                    if show_label_and_abstract:
+                        f.write("| Date | Title | label | Abstract | PDF | Code |\n")
+                        f.write("|:---------|:---------------|:-------|:------------------|:------|:------|\n")
+                    else:
+                        f.write("| Date | Title | PDF | Code |\n")
+                        f.write("|:---------|:---------------|:------|:------|\n")
 
             day_content = sort_papers(day_content)
 
             for _, v in day_content.items():
                 if not v:       
                     continue
-                f.write(v.rstrip("\n") + "\n")
+                row = v.rstrip("\n")
+                if not show_label_and_abstract:
+                    # 原始行为 6 列: |Date|Title|label|Abstract|PDF|Code|
+                    cells = row.split("|")
+                    if len(cells) >= 7:
+                        # cells 结构: ["", date, title, label, abstract, pdf, code, ""]
+                        kept = [cells[1], cells[2], cells[5], cells[6]]
+                        row = "|" + "|".join(kept) + "|"
+                    # 防止旧数据里摘要（<details>...</details>）被挤进 Title 等单元格
+                    row = re.sub(r"<details>.*?</details>", "", row, flags=re.DOTALL)
+                f.write(row + "\n")
 
             f.write(f"\n")
 
@@ -474,4 +494,5 @@ if __name__ == "__main__":
 
     update_json_file(json_file, data_collector)
     json_to_trend(json_file, img_file)
-    json_to_md(json_file, md_file)
+    # README size limit, so we don't show label and abstract
+    json_to_md(json_file, md_file, show_label_and_abstract=False)
