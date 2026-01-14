@@ -8,5 +8,5 @@ plugins:
 - jekyll-remote-theme 
 
 github:
-  zip_url: https://github.com/bansky-cl/graphrag-paper-arxiv
-  another_url: https://github.com/bansky-cl/graphrag-paper-arxiv
+  zip_url: https://github.com/bansky-cl/graphrag-arxiv-daily-paper
+  another_url: https://github.com/bansky-cl/graphrag-arxiv-daily-paper

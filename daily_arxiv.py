@@ -76,14 +76,69 @@ def iter_results_safe(client, search):
         except UnexpectedEmptyPageError as e:
             print(f"[arXiv] empty page, stop paging: {e}")
             break
+        except arxiv.HTTPError as e:
+            # Handle transient arXiv server errors (e.g., HTTP 500) gracefully
+            print(f"[arXiv] HTTP error while querying API, stop paging: {e}")
+            break
         except StopIteration:
             break
 
-def get_daily_papers(topic, query, max_results=500):
+def _load_existing_ids(json_file: str | Path, topic: str) -> set[str]:
+    """
+    Load existing arXiv IDs for a given topic from the JSON store.
+    Stored keys are version-less IDs like "2401.01234".
+    """
+    json_path = Path(json_file).expanduser()
+    if not json_path.exists():
+        return set()
+    try:
+        content = json_path.read_text(encoding="utf-8").strip()
+        if not content:
+            return set()
+        data = json.loads(content)
+        topic_dict = data.get(topic, {}) if isinstance(data, dict) else {}
+        return set(topic_dict.keys()) if isinstance(topic_dict, dict) else set()
+    except Exception as e:
+        print(f"[warn] failed to load existing ids from {json_path}: {e}")
+        return set()
+
+
+def _build_date_range_query(query: str, start_date: str = "2024-01-01") -> str:
+    """
+    Add an arXiv submittedDate range filter to an existing query.
+    arXiv API format: submittedDate:[YYYYMMDD0000 TO *]
+    """
+    if start_date is None:
+        return query
+    ymd = start_date.replace("-", "")
+    if not (len(ymd) == 8 and ymd.isdigit()):
+        raise ValueError(f"start_date must be YYYY-MM-DD, got: {start_date}")
+    date_filter = f"submittedDate:[{ymd}0000 TO *]"
+    return f"({query}) AND {date_filter}"
+
+
+def get_daily_papers(
+    topic,
+    query,
+    max_results=500,
+    *,
+    json_file: str | Path | None = None,
+    start_date: str = "2024-01-01",
+):
     """
     Fetch arXiv + PapersWithCode metadata and return them as markdown table rows.
     """
     content: dict[str, str] = {}
+    existing_ids: set[str] = set()
+    if json_file is not None:
+        existing_ids = _load_existing_ids(json_file, topic)
+
+    # Apply date range to capture "2024 -> now"
+    query_with_date = _build_date_range_query(query, start_date=start_date)
+
+    total_seen = 0
+    total_kept = 0
+    total_new = 0
 
     # 1. arxiv client
     client = arxiv.Client(
@@ -93,13 +148,14 @@ def get_daily_papers(topic, query, max_results=500):
     )
 
     search = arxiv.Search(
-        query=query,
+        query=query_with_date,
         max_results=max_results,
         sort_by=arxiv.SortCriterion.SubmittedDate
     )
 
     # 2. iterate over results
     for res in iter_results_safe(client, search):
+        total_seen += 1
 
         paper_id_full  = res.get_short_id()  
         paper_id       = paper_id_full.split("v")[0]  
@@ -127,6 +183,10 @@ def get_daily_papers(topic, query, max_results=500):
         # Skip if it hits blocked categories and the abstract does not contain graphrag
         if has_block_cat and (not has_graphrag_k):
             continue
+
+        total_kept += 1
+        if paper_id not in existing_ids:
+            total_new += 1
 
         collapsed_abs = make_collapsible(paper_abstract)      
         paper_labels   = ", ".join(cats)
@@ -159,6 +219,17 @@ def get_daily_papers(topic, query, max_results=500):
         md_row += f"**[code]({repo_url})**|" if repo_url != "null" else "null|"
 
         content[paper_id] = md_row
+
+    # Summary for this topic/run
+    if json_file is None:
+        print(
+            f"[{topic}] arXiv fetched={total_seen} (max_results={max_results}, since={start_date}); kept={total_kept}"
+        )
+    else:
+        print(
+            f"[{topic}] arXiv fetched={total_seen} (max_results={max_results}, since={start_date}); "
+            f"kept={total_kept}; new={total_new}; already_have={len(existing_ids)}"
+        )
 
     return {topic: content}
 
@@ -286,17 +357,17 @@ def json_to_md(filename, md_filename,
         if show_badge == True:
             # Badge definitions
             f.write(
-                f"[contributors-shield]: https://img.shields.io/github/contributors/bansky-cl/graphrag-paper-arxiv.svg?style=for-the-badge\n")
-            f.write(f"[contributors-url]: https://github.com/bansky-cl/graphrag-paper-arxiv/graphs/contributors\n")
+                f"[contributors-shield]: https://img.shields.io/github/contributors/bansky-cl/graphrag-arxiv-daily-paper.svg?style=for-the-badge\n")
+            f.write(f"[contributors-url]: https://github.com/bansky-cl/graphrag-arxiv-daily-paper/graphs/contributors\n")
             f.write(
-                f"[forks-shield]: https://img.shields.io/github/forks/bansky-cl/graphrag-paper-arxiv.svg?style=for-the-badge\n")
-            f.write(f"[forks-url]: https://github.com/bansky-cl/graphrag-paper-arxiv/network/members\n")
+                f"[forks-shield]: https://img.shields.io/github/forks/bansky-cl/graphrag-arxiv-daily-paper.svg?style=for-the-badge\n")
+            f.write(f"[forks-url]: https://github.com/bansky-cl/graphrag-arxiv-daily-paper/network/members\n")
             f.write(
-                f"[stars-shield]: https://img.shields.io/github/stars/bansky-cl/graphrag-paper-arxiv.svg?style=for-the-badge\n")
-            f.write(f"[stars-url]: https://github.com/bansky-cl/graphrag-paper-arxiv/stargazers\n")
+                f"[stars-shield]: https://img.shields.io/github/stars/bansky-cl/graphrag-arxiv-daily-paper.svg?style=for-the-badge\n")
+            f.write(f"[stars-url]: https://github.com/bansky-cl/graphrag-arxiv-daily-paper/stargazers\n")
             f.write(
-                f"[issues-shield]: https://img.shields.io/github/issues/bansky-cl/graphrag-paper-arxiv.svg?style=for-the-badge\n")
-            f.write(f"[issues-url]: https://github.com/bansky-cl/graphrag-paper-arxiv/issues\n\n")
+                f"[issues-shield]: https://img.shields.io/github/issues/bansky-cl/graphrag-arxiv-daily-paper.svg?style=for-the-badge\n")
+            f.write(f"[issues-url]: https://github.com/bansky-cl/graphrag-arxiv-daily-paper/issues\n\n")
 
     print("finished")
 
@@ -407,17 +478,37 @@ if __name__ == "__main__":
 
     keywords["graphrag"] = " OR ".join([f'ti:"{term}"' for term in search_terms])
 
-    for topic, keyword in keywords.items():
-        print("Keyword: " + topic)
-
-        data = get_daily_papers(topic, query=keyword, max_results=200)
-        data_collector.append(data)
-
-        print("\n")
-
+    # Output files
     json_file = "docs/arxiv-daily.json"
     img_file = "imgs/trend.png"
     md_file = "README.md"
+
+    # If JSON is empty / missing: bootstrap from 2024-01-01 with a larger cap
+    # If JSON already has data: daily incremental with 200 and no date filter
+    json_path = Path(json_file)
+    if json_path.exists():
+        content = json_path.read_text(encoding="utf-8").strip()
+        is_bootstrap = len(content) == 0
+    else:
+        is_bootstrap = True
+
+    fetch_start_date = "2024-01-01" if is_bootstrap else None
+    fetch_max_results = 500 if is_bootstrap else 200
+
+    for topic, keyword in keywords.items():
+        print("Keyword: " + topic)
+
+        # Note: bootstrap mode fetches more and adds date filter; daily mode is lighter
+        data = get_daily_papers(
+            topic,
+            query=keyword,
+            max_results=fetch_max_results,
+            json_file=json_file,
+            start_date=fetch_start_date,
+        )
+        data_collector.append(data)
+
+        print("\n")
 
     update_json_file(json_file, data_collector)
     json_to_trend(json_file, img_file)
