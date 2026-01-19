@@ -5,7 +5,7 @@
 
 This repository tracks the latest GraphRAG related papers from arXiv.
 
-## Updated on 2026.01.18
+## Updated on 2026.01.19
 
 ![Monthly Trend](imgs/trend.png)
 
@@ -13,6 +13,8 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-01-16**|**Deep GraphRAG: A Balanced Approach to Hierarchical Retrieval and Adaptive Integration**|[2601.11144v1](http://arxiv.org/abs/2601.11144v1)| null|
+|**2026-01-16**|**CoG: Controllable Graph Reasoning via Relational Blueprints and Failure-Aware Refinement over Knowledge Graphs**|[2601.11047v1](http://arxiv.org/abs/2601.11047v1)| null|
 |**2026-01-14**|**ReGraM: Region-First Knowledge Graph Reasoning for Medical Question Answering**|[2601.09280v1](http://arxiv.org/abs/2601.09280v1)| null|
 |**2026-01-14**|**When to Trust: A Causality-Aware Calibration Framework for Accurate Knowledge Graph Retrieval-Augmented Generation**|[2601.09241v1](http://arxiv.org/abs/2601.09241v1)| null|
 |**2026-01-13**|**Reliable Graph-RAG for Codebases: AST-Derived Graphs vs LLM-Extracted Knowledge Graphs**|[2601.08773v1](http://arxiv.org/abs/2601.08773v1)| null|
@@ -461,7 +463,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2024-03-04**|**Pre-trained Language Model with Prompts for Temporal Knowledge Graph Completion**|[2305.07912v2](http://arxiv.org/abs/2305.07912v2)| null|
 |**2023-09-20**|**ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion**|[2305.06395v3](http://arxiv.org/abs/2305.06395v3)| null|
 
-<p align=right>(<a href=#Updated-on-20260118>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260119>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/bansky-cl/graphrag-arxiv-daily-paper.svg?style=for-the-badge
 [contributors-url]: https://github.com/bansky-cl/graphrag-arxiv-daily-paper/graphs/contributors
