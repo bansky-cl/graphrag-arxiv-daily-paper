@@ -5,7 +5,7 @@
 
 This repository tracks the latest GraphRAG related papers from arXiv.
 
-## Updated on 2026.01.21
+## Updated on 2026.01.22
 
 ![Monthly Trend](imgs/trend.png)
 
@@ -13,6 +13,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-01-21**|**Query-Efficient Agentic Graph Extraction Attacks on GraphRAG Systems**|[2601.14662v1](http://arxiv.org/abs/2601.14662v1)| null|
 |**2026-01-19**|**Graph Reasoning Paradigm: Structured and Symbolic Reasoning with Topology-Aware Reinforcement Learning for Large Language Models**|[2601.12995v1](http://arxiv.org/abs/2601.12995v1)| null|
 |**2026-01-19**|**Augmenting Question Answering with A Hybrid RAG Approach**|[2601.12658v1](http://arxiv.org/abs/2601.12658v1)| null|
 |**2026-01-19**|**Deep GraphRAG: A Balanced Approach to Hierarchical Retrieval and Adaptive Integration**|[2601.11144v2](http://arxiv.org/abs/2601.11144v2)| null|
@@ -61,7 +62,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2025-11-17**|**Hybrid Retrieval-Augmented Generation Agent for Trustworthy Legal Question Answering in Judicial Forensics**|[2511.01668v2](http://arxiv.org/abs/2511.01668v2)| null|
 |**2025-10-30**|**Graph-Enhanced Policy Optimization in LLM Agent Training**|[2510.26270v1](http://arxiv.org/abs/2510.26270v1)| null|
 |**2025-11-25**|**AirFed: A Federated Graph-Enhanced Multi-Agent Reinforcement Learning Framework for Multi-UAV Cooperative Mobile Edge Computing**|[2510.23053v2](http://arxiv.org/abs/2510.23053v2)| null|
-|**2025-10-26**|**Conjugate Relation Modeling for Few-Shot Knowledge Graph Completion**|[2510.22656v1](http://arxiv.org/abs/2510.22656v1)| null|
+|**2026-01-21**|**Conjugate Relation Modeling for Few-Shot Knowledge Graph Completion**|[2510.22656v2](http://arxiv.org/abs/2510.22656v2)| null|
 |**2026-01-06**|**ELMM: Efficient Lightweight Multimodal Large Language Models for Multimodal Knowledge Graph Completion**|[2510.16753v2](http://arxiv.org/abs/2510.16753v2)| null|
 |**2025-10-21**|**Uncertain Knowledge Graph Completion via Semi-Supervised Confidence Distribution Learning**|[2510.16601v2](http://arxiv.org/abs/2510.16601v2)| null|
 |**2025-10-18**|**MGTS-Net: Exploring Graph-Enhanced Multimodal Fusion for Augmented Time Series Forecasting**|[2510.16350v1](http://arxiv.org/abs/2510.16350v1)| null|
@@ -465,7 +466,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2024-03-04**|**Pre-trained Language Model with Prompts for Temporal Knowledge Graph Completion**|[2305.07912v2](http://arxiv.org/abs/2305.07912v2)| null|
 |**2023-09-20**|**ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion**|[2305.06395v3](http://arxiv.org/abs/2305.06395v3)| null|
 
-<p align=right>(<a href=#Updated-on-20260121>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260122>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/bansky-cl/graphrag-arxiv-daily-paper.svg?style=for-the-badge
 [contributors-url]: https://github.com/bansky-cl/graphrag-arxiv-daily-paper/graphs/contributors
