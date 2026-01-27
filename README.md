@@ -5,7 +5,7 @@
 
 This repository tracks the latest GraphRAG related papers from arXiv.
 
-## Updated on 2026.01.26
+## Updated on 2026.01.27
 
 ![Monthly Trend](imgs/trend.png)
 
@@ -13,10 +13,12 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-01-26**|**FastInsight: Fast and Insightful Retrieval via Fusion Operators for Graph RAG**|[2601.18579v1](http://arxiv.org/abs/2601.18579v1)| null|
+|**2026-01-25**|**ProGraph-R1: Progress-aware Reinforcement Learning for Graph Retrieval Augmented Generation**|[2601.17755v1](http://arxiv.org/abs/2601.17755v1)| null|
 |**2026-01-23**|**MAGE-KT: Multi-Agent Graph-Enhanced Knowledge Tracing with Subgraph Retrieval and Asymmetric Fusion**|[2601.16886v1](http://arxiv.org/abs/2601.16886v1)| null|
 |**2026-01-21**|**Query-Efficient Agentic Graph Extraction Attacks on GraphRAG Systems**|[2601.14662v1](http://arxiv.org/abs/2601.14662v1)| null|
 |**2026-01-19**|**Graph Reasoning Paradigm: Structured and Symbolic Reasoning with Topology-Aware Reinforcement Learning for Large Language Models**|[2601.12995v1](http://arxiv.org/abs/2601.12995v1)| null|
-|**2026-01-19**|**Augmenting Question Answering with A Hybrid RAG Approach**|[2601.12658v1](http://arxiv.org/abs/2601.12658v1)| null|
+|**2026-01-25**|**Augmenting Question Answering with A Hybrid RAG Approach**|[2601.12658v2](http://arxiv.org/abs/2601.12658v2)| null|
 |**2026-01-19**|**Deep GraphRAG: A Balanced Approach to Hierarchical Retrieval and Adaptive Integration**|[2601.11144v2](http://arxiv.org/abs/2601.11144v2)| null|
 |**2026-01-16**|**CoG: Controllable Graph Reasoning via Relational Blueprints and Failure-Aware Refinement over Knowledge Graphs**|[2601.11047v1](http://arxiv.org/abs/2601.11047v1)| null|
 |**2026-01-14**|**ReGraM: Region-First Knowledge Graph Reasoning for Medical Question Answering**|[2601.09280v1](http://arxiv.org/abs/2601.09280v1)| null|
@@ -467,7 +469,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2024-03-04**|**Pre-trained Language Model with Prompts for Temporal Knowledge Graph Completion**|[2305.07912v2](http://arxiv.org/abs/2305.07912v2)| null|
 |**2023-09-20**|**ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion**|[2305.06395v3](http://arxiv.org/abs/2305.06395v3)| null|
 
-<p align=right>(<a href=#Updated-on-20260126>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260127>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/bansky-cl/graphrag-arxiv-daily-paper.svg?style=for-the-badge
 [contributors-url]: https://github.com/bansky-cl/graphrag-arxiv-daily-paper/graphs/contributors
