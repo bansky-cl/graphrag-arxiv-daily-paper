@@ -5,7 +5,7 @@
 
 This repository tracks the latest GraphRAG related papers from arXiv.
 
-## Updated on 2026.01.27
+## Updated on 2026.01.28
 
 ![Monthly Trend](imgs/trend.png)
 
@@ -79,7 +79,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2025-10-24**|**SUBQRAG: Sub-Question Driven Dynamic Graph RAG**|[2510.07718v2](http://arxiv.org/abs/2510.07718v2)| null|
 |**2025-10-03**|**StepChain GraphRAG: Reasoning Over Knowledge Graphs for Multi-Hop Question Answering**|[2510.02827v1](http://arxiv.org/abs/2510.02827v1)| null|
 |**2026-01-12**|**SLogic: Subgraph-Informed Logical Rule Learning for Knowledge Graph Completion**|[2510.00279v2](http://arxiv.org/abs/2510.00279v2)| null|
-|**2025-10-09**|**Efficient and Transferable Agentic Knowledge Graph RAG via Reinforcement Learning**|[2509.26383v3](http://arxiv.org/abs/2509.26383v3)| **[code](https://github.com/Jinyeop3110/KG-R1)**|
+|**2026-01-27**|**Efficient and Transferable Agentic Knowledge Graph RAG via Reinforcement Learning**|[2509.26383v4](http://arxiv.org/abs/2509.26383v4)| **[code](https://github.com/Jinyeop3110/KG-R1)**|
 |**2025-09-29**|**Beyond Static Retrieval: Opportunities and Pitfalls of Iterative Retrieval in GraphRAG**|[2509.25530v1](http://arxiv.org/abs/2509.25530v1)| null|
 |**2025-09-29**|**GESA: Graph-Enhanced Semantic Allocation for Generalized, Fair, and Explainable Candidate-Role Matching**|[2509.25435v1](http://arxiv.org/abs/2509.25435v1)| null|
 |**2025-09-27**|**RANGER -- Repository-Level Agent for Graph-Enhanced Retrieval**|[2509.25257v1](http://arxiv.org/abs/2509.25257v1)| null|
@@ -121,7 +121,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2025-08-06**|**AgREE: Agentic Reasoning for Knowledge Graph Completion on Emerging Entities**|[2508.04118v1](http://arxiv.org/abs/2508.04118v1)| null|
 |**2025-08-04**|**Beyond Chunks and Graphs: Retrieval-Augmented Generation through Triplet-Driven Thinking**|[2508.02435v1](http://arxiv.org/abs/2508.02435v1)| **[code](https://github.com/rockcor/T2RAG)**|
 |**2025-08-03**|**T-GRAG: A Dynamic GraphRAG Framework for Resolving Temporal Conflicts and Redundancy in Knowledge Retrieval**|[2508.01680v1](http://arxiv.org/abs/2508.01680v1)| null|
-|**2025-07-31**|**GraphRAG-R1: Graph Retrieval-Augmented Generation with Process-Constrained Reinforcement Learning**|[2507.23581v1](http://arxiv.org/abs/2507.23581v1)| null|
+|**2026-01-27**|**GraphRAG-R1: Graph Retrieval-Augmented Generation with Process-Constrained Reinforcement Learning**|[2507.23581v2](http://arxiv.org/abs/2507.23581v2)| null|
 |**2025-07-29**|**Unifying Post-hoc Explanations of Knowledge Graph Completions**|[2507.22951v1](http://arxiv.org/abs/2507.22951v1)| null|
 |**2025-07-29**|**Graph-R1: Towards Agentic GraphRAG Framework via End-to-end Reinforcement Learning**|[2507.21892v1](http://arxiv.org/abs/2507.21892v1)| null|
 |**2025-07-29**|**DGP: A Dual-Granularity Prompting Framework for Fraud Detection with Graph-Enhanced LLMs**|[2507.21653v1](http://arxiv.org/abs/2507.21653v1)| null|
@@ -469,7 +469,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2024-03-04**|**Pre-trained Language Model with Prompts for Temporal Knowledge Graph Completion**|[2305.07912v2](http://arxiv.org/abs/2305.07912v2)| null|
 |**2023-09-20**|**ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion**|[2305.06395v3](http://arxiv.org/abs/2305.06395v3)| null|
 
-<p align=right>(<a href=#Updated-on-20260127>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260128>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/bansky-cl/graphrag-arxiv-daily-paper.svg?style=for-the-badge
 [contributors-url]: https://github.com/bansky-cl/graphrag-arxiv-daily-paper/graphs/contributors
