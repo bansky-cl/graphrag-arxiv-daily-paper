@@ -5,7 +5,7 @@
 
 This repository tracks the latest GraphRAG related papers from arXiv.
 
-## Updated on 2026.02.03
+## Updated on 2026.02.04
 
 ![Monthly Trend](imgs/trend.png)
 
@@ -13,7 +13,8 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
-|**2026-02-02**|**WildGraphBench: Benchmarking GraphRAG with Wild-Source Corpora**|[2602.02053v1](http://arxiv.org/abs/2602.02053v1)| **[code](https://github.com/BstWPY/WildGraphBench)**|
+|**2026-02-02**|**Graph-Augmented Reasoning with Large Language Models for Tobacco Pest and Disease Management**|[2602.02635v1](http://arxiv.org/abs/2602.02635v1)| null|
+|**2026-02-03**|**WildGraphBench: Benchmarking GraphRAG with Wild-Source Corpora**|[2602.02053v2](http://arxiv.org/abs/2602.02053v2)| **[code](https://github.com/BstWPY/WildGraphBench)**|
 |**2025-11-27**|**Unlocking Electronic Health Records: A Hybrid Graph RAG Approach to Safe Clinical AI for Patient QA**|[2602.00009v1](http://arxiv.org/abs/2602.00009v1)| null|
 |**2026-01-29**|**Bridging Graph Structure and Knowledge-Guided Editing for Interpretable Temporal Knowledge Graph Reasoning**|[2601.21978v1](http://arxiv.org/abs/2601.21978v1)| null|
 |**2026-01-26**|**FastInsight: Fast and Insightful Retrieval via Fusion Operators for Graph RAG**|[2601.18579v1](http://arxiv.org/abs/2601.18579v1)| null|
@@ -25,7 +26,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2026-01-29**|**Deep GraphRAG: A Balanced Approach to Hierarchical Retrieval and Adaptive Integration**|[2601.11144v3](http://arxiv.org/abs/2601.11144v3)| null|
 |**2026-01-16**|**CoG: Controllable Graph Reasoning via Relational Blueprints and Failure-Aware Refinement over Knowledge Graphs**|[2601.11047v1](http://arxiv.org/abs/2601.11047v1)| null|
 |**2026-01-14**|**ReGraM: Region-First Knowledge Graph Reasoning for Medical Question Answering**|[2601.09280v1](http://arxiv.org/abs/2601.09280v1)| null|
-|**2026-01-14**|**When to Trust: A Causality-Aware Calibration Framework for Accurate Knowledge Graph Retrieval-Augmented Generation**|[2601.09241v1](http://arxiv.org/abs/2601.09241v1)| null|
+|**2026-02-03**|**When to Trust: A Causality-Aware Calibration Framework for Accurate Knowledge Graph Retrieval-Augmented Generation**|[2601.09241v2](http://arxiv.org/abs/2601.09241v2)| null|
 |**2026-01-13**|**Reliable Graph-RAG for Codebases: AST-Derived Graphs vs LLM-Extracted Knowledge Graphs**|[2601.08773v1](http://arxiv.org/abs/2601.08773v1)| null|
 |**2026-01-12**|**GROKE: Vision-Free Navigation Instruction Evaluation via Graph Reasoning on OpenStreetMap**|[2601.07375v1](http://arxiv.org/abs/2601.07375v1)| **[code](https://anonymous.4open.science/r/groke)**|
 |**2026-01-12**|**Relink: Constructing Query-Driven Evidence Graph On-the-Fly for GraphRAG**|[2601.07192v1](http://arxiv.org/abs/2601.07192v1)| null|
@@ -47,6 +48,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2025-12-13**|**TA-KAND: Two-stage Attention Triple Enhancement and U-KAN based Diffusion For Few-shot Knowledge Graph Completion**|[2512.12182v1](http://arxiv.org/abs/2512.12182v1)| null|
 |**2025-12-13**|**Citation-Grounded Code Comprehension: Preventing LLM Hallucination Through Hybrid Retrieval and Graph-Augmented Context**|[2512.12117v1](http://arxiv.org/abs/2512.12117v1)| null|
 |**2025-12-15**|**EmeraldMind: A Knowledge Graph-Augmented Framework for Greenwashing Detection**|[2512.11506v2](http://arxiv.org/abs/2512.11506v2)| null|
+|**2026-02-02**|**Encoder-Free Knowledge-Graph Reasoning with LLMs via Hyperdimensional Path Retrieval**|[2512.09369v2](http://arxiv.org/abs/2512.09369v2)| null|
 |**2025-12-09**|**Detecting Hallucinations in Graph Retrieval-Augmented Generation via Attention Patterns and Semantic Alignment**|[2512.09148v1](http://arxiv.org/abs/2512.09148v1)| null|
 |**2025-12-06**|**How Sharp and Bias-Robust is a Model? Dual Evaluation Perspectives on Knowledge Graph Completion**|[2512.06296v1](http://arxiv.org/abs/2512.06296v1)| null|
 |**2025-12-05**|**GRASP: Graph Reasoning Agents for Systems Pharmacology with Human-in-the-Loop**|[2512.05502v1](http://arxiv.org/abs/2512.05502v1)| null|
@@ -472,7 +474,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2024-03-04**|**Pre-trained Language Model with Prompts for Temporal Knowledge Graph Completion**|[2305.07912v2](http://arxiv.org/abs/2305.07912v2)| null|
 |**2023-09-20**|**ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion**|[2305.06395v3](http://arxiv.org/abs/2305.06395v3)| null|
 
-<p align=right>(<a href=#Updated-on-20260203>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260204>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/bansky-cl/graphrag-arxiv-daily-paper.svg?style=for-the-badge
 [contributors-url]: https://github.com/bansky-cl/graphrag-arxiv-daily-paper/graphs/contributors
