@@ -5,7 +5,7 @@
 
 This repository tracks the latest GraphRAG related papers from arXiv.
 
-## Updated on 2026.02.08
+## Updated on 2026.02.09
 
 ![Monthly Trend](imgs/trend.png)
 
@@ -13,6 +13,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-02-06**|**Subgraph Reconstruction Attacks on Graph RAG Deployments with Practical Defenses**|[2602.06495v1](http://arxiv.org/abs/2602.06495v1)| null|
 |**2026-02-02**|**Graph-Augmented Reasoning with Large Language Models for Tobacco Pest and Disease Management**|[2602.02635v1](http://arxiv.org/abs/2602.02635v1)| null|
 |**2026-02-03**|**WildGraphBench: Benchmarking GraphRAG with Wild-Source Corpora**|[2602.02053v2](http://arxiv.org/abs/2602.02053v2)| **[code](https://github.com/BstWPY/WildGraphBench)**|
 |**2025-11-27**|**Unlocking Electronic Health Records: A Hybrid Graph RAG Approach to Safe Clinical AI for Patient QA**|[2602.00009v1](http://arxiv.org/abs/2602.00009v1)| null|
@@ -152,7 +153,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2025-06-27**|**Hyper-modal Imputation Diffusion Embedding with Dual-Distillation for Federated Multimodal Knowledge Graph Completion**|[2506.22036v1](http://arxiv.org/abs/2506.22036v1)| null|
 |**2025-06-15**|**STRuCT-LLM: Unifying Tabular and Graph Reasoning with Reinforcement Learning for Semantic Parsing**|[2506.21575v1](http://arxiv.org/abs/2506.21575v1)| **[code](https://github.com/bouv/STRuCT-LLM)**|
 |**2025-06-24**|**Inference Scaled GraphRAG: Improving Multi Hop Question Answering on Knowledge Graphs**|[2506.19967v1](http://arxiv.org/abs/2506.19967v1)| null|
-|**2025-11-12**|**Conversational Intent-Driven GraphRAG: Enhancing Multi-Turn Dialogue Systems through Adaptive Dual-Retrieval of Flow Patterns and Context Semantics**|[2506.19385v2](http://arxiv.org/abs/2506.19385v2)| null|
+|**2026-02-05**|**Conversational Intent-Driven GraphRAG: Enhancing Multi-Turn Dialogue Systems through Adaptive Dual-Retrieval of Flow Patterns and Context Semantics**|[2506.19385v3](http://arxiv.org/abs/2506.19385v3)| null|
 |**2025-06-18**|**Research on Graph-Retrieval Augmented Generation Based on Historical Text Knowledge Graphs**|[2506.15241v1](http://arxiv.org/abs/2506.15241v1)| null|
 |**2025-06-15**|**Multi-document Summarization through Multi-document Event Relation Graph Reasoning in LLMs: a case study in Framing Bias Mitigation**|[2506.12978v1](http://arxiv.org/abs/2506.12978v1)| null|
 |**2025-06-13**|**GraphRAG-Causal: A novel graph-augmented framework for causal reasoning and annotation in news**|[2506.11600v1](http://arxiv.org/abs/2506.11600v1)| null|
@@ -474,7 +475,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2024-03-04**|**Pre-trained Language Model with Prompts for Temporal Knowledge Graph Completion**|[2305.07912v2](http://arxiv.org/abs/2305.07912v2)| null|
 |**2023-09-20**|**ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion**|[2305.06395v3](http://arxiv.org/abs/2305.06395v3)| null|
 
-<p align=right>(<a href=#Updated-on-20260208>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260209>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/bansky-cl/graphrag-arxiv-daily-paper.svg?style=for-the-badge
 [contributors-url]: https://github.com/bansky-cl/graphrag-arxiv-daily-paper/graphs/contributors
