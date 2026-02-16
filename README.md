@@ -5,7 +5,7 @@
 
 This repository tracks the latest GraphRAG related papers from arXiv.
 
-## Updated on 2026.02.15
+## Updated on 2026.02.16
 
 ![Monthly Trend](imgs/trend.png)
 
@@ -51,7 +51,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2025-12-24**|**Compressed Causal Reasoning: Quantization and GraphRAG Effects on Interventional and Counterfactual Accuracy**|[2512.13725v2](http://arxiv.org/abs/2512.13725v2)| null|
 |**2026-01-09**|**DynaGen: Unifying Temporal Knowledge Graph Reasoning with Dynamic Subgraphs and Generative Regularization**|[2512.12669v2](http://arxiv.org/abs/2512.12669v2)| null|
 |**2025-12-14**|**StruProKGR: A Structural and Probabilistic Framework for Sparse Knowledge Graph Reasoning**|[2512.12613v1](http://arxiv.org/abs/2512.12613v1)| null|
-|**2025-12-13**|**TA-KAND: Two-stage Attention Triple Enhancement and U-KAN based Diffusion For Few-shot Knowledge Graph Completion**|[2512.12182v1](http://arxiv.org/abs/2512.12182v1)| null|
+|**2026-02-13**|**TA-KAND: Two-stage Attention Triple Enhancement and U-KAN based Diffusion For Few-shot Knowledge Graph Completion**|[2512.12182v2](http://arxiv.org/abs/2512.12182v2)| null|
 |**2025-12-13**|**Citation-Grounded Code Comprehension: Preventing LLM Hallucination Through Hybrid Retrieval and Graph-Augmented Context**|[2512.12117v1](http://arxiv.org/abs/2512.12117v1)| null|
 |**2025-12-15**|**EmeraldMind: A Knowledge Graph-Augmented Framework for Greenwashing Detection**|[2512.11506v2](http://arxiv.org/abs/2512.11506v2)| null|
 |**2026-02-02**|**Encoder-Free Knowledge-Graph Reasoning with LLMs via Hyperdimensional Path Retrieval**|[2512.09369v2](http://arxiv.org/abs/2512.09369v2)| null|
@@ -480,7 +480,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2024-03-04**|**Pre-trained Language Model with Prompts for Temporal Knowledge Graph Completion**|[2305.07912v2](http://arxiv.org/abs/2305.07912v2)| null|
 |**2023-09-20**|**ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion**|[2305.06395v3](http://arxiv.org/abs/2305.06395v3)| null|
 
-<p align=right>(<a href=#Updated-on-20260215>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260216>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/bansky-cl/graphrag-arxiv-daily-paper.svg?style=for-the-badge
 [contributors-url]: https://github.com/bansky-cl/graphrag-arxiv-daily-paper/graphs/contributors
