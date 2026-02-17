@@ -5,7 +5,7 @@
 
 This repository tracks the latest GraphRAG related papers from arXiv.
 
-## Updated on 2026.02.16
+## Updated on 2026.02.17
 
 ![Monthly Trend](imgs/trend.png)
 
@@ -13,6 +13,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-02-16**|**LLM-Guided Knowledge Distillation for Temporal Knowledge Graph Reasoning**|[2602.14428v1](http://arxiv.org/abs/2602.14428v1)| null|
 |**2026-02-11**|**SynergyKGC: Reconciling Topological Heterogeneity in Knowledge Graph Completion via Topology-Aware Synergy**|[2602.10845v1](http://arxiv.org/abs/2602.10845v1)| null|
 |**2026-02-10**|**Retrieval Pivot Attacks in Hybrid RAG: Measuring and Mitigating Amplified Leakage from Vector Seeds to Graph Expansion**|[2602.08668v2](http://arxiv.org/abs/2602.08668v2)| null|
 |**2026-02-09**|**SCOUT-RAG: Scalable and Cost-Efficient Unifying Traversal for Agentic Graph-RAG over Distributed Domains**|[2602.08400v1](http://arxiv.org/abs/2602.08400v1)| null|
@@ -81,7 +82,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2025-10-21**|**Uncertain Knowledge Graph Completion via Semi-Supervised Confidence Distribution Learning**|[2510.16601v2](http://arxiv.org/abs/2510.16601v2)| null|
 |**2025-10-18**|**MGTS-Net: Exploring Graph-Enhanced Multimodal Fusion for Augmented Time Series Forecasting**|[2510.16350v1](http://arxiv.org/abs/2510.16350v1)| null|
 |**2025-10-15**|**Knowledge Reasoning Language Model: Unifying Knowledge and Language for Inductive Knowledge Graph Reasoning**|[2510.13909v1](http://arxiv.org/abs/2510.13909v1)| **[code](https://anonymous.4open.science/r/KRLM-EA36)**|
-|**2025-10-15**|**MemoTime: Memory-Augmented Temporal Knowledge Graph Enhanced Large Language Model Reasoning**|[2510.13614v1](http://arxiv.org/abs/2510.13614v1)| null|
+|**2026-02-16**|**MemoTime: Memory-Augmented Temporal Knowledge Graph Enhanced Large Language Model Reasoning**|[2510.13614v2](http://arxiv.org/abs/2510.13614v2)| null|
 |**2025-10-11**|**KG-MAS: Knowledge Graph-Enhanced Multi-Agent Infrastructure for coupling physical and digital robotic environments**|[2510.10325v1](http://arxiv.org/abs/2510.10325v1)| null|
 |**2025-11-09**|**LinearRAG: Linear Graph Retrieval Augmented Generation on Large-scale Corpora**|[2510.10114v4](http://arxiv.org/abs/2510.10114v4)| **[code](https://github.com/DEEP-PolyU/LinearRAG)**|
 |**2025-10-10**|**Semantic-Condition Tuning: Fusing Graph Context with Large Language Models for Knowledge Graph Completion**|[2510.08966v1](http://arxiv.org/abs/2510.08966v1)| null|
@@ -480,7 +481,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2024-03-04**|**Pre-trained Language Model with Prompts for Temporal Knowledge Graph Completion**|[2305.07912v2](http://arxiv.org/abs/2305.07912v2)| null|
 |**2023-09-20**|**ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion**|[2305.06395v3](http://arxiv.org/abs/2305.06395v3)| null|
 
-<p align=right>(<a href=#Updated-on-20260216>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260217>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/bansky-cl/graphrag-arxiv-daily-paper.svg?style=for-the-badge
 [contributors-url]: https://github.com/bansky-cl/graphrag-arxiv-daily-paper/graphs/contributors
