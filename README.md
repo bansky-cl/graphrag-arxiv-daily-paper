@@ -5,7 +5,7 @@
 
 This repository tracks the latest GraphRAG related papers from arXiv.
 
-## Updated on 2026.03.02
+## Updated on 2026.03.03
 
 ![Monthly Trend](imgs/trend.png)
 
@@ -13,6 +13,9 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-03-02**|**GraphScout: Empowering Large Language Models with Intrinsic Exploration Ability for Agentic Graph Reasoning**|[2603.01410v1](http://arxiv.org/abs/2603.01410v1)| **[code](https://github.com/Ying-Yuchen/_GraphScout_})**|
+|**2026-03-01**|**Linking Knowledge to Care: Knowledge Graph-Augmented Medical Follow-Up Question Generation**|[2603.01252v1](http://arxiv.org/abs/2603.01252v1)| null|
+|**2026-02-28**|**MED-COPILOT: A Medical Assistant Powered by GraphRAG and Similar Patient Case Retrieval**|[2603.00460v1](http://arxiv.org/abs/2603.00460v1)| **[code](https://huggingface.co/spaces/Cryo3978/Med_GraphRAG)**|
 |**2025-12-27**|**Democratizing GraphRAG: Linear, CPU-Only Graph Retrieval for Multi-Hop QA**|[2602.23372v1](http://arxiv.org/abs/2602.23372v1)| null|
 |**2025-12-23**|**Domain-Partitioned Hybrid RAG for Legal Reasoning: Toward Modular and Explainable Legal AI for India**|[2602.23371v1](http://arxiv.org/abs/2602.23371v1)| null|
 |**2026-02-07**|**Patient-Centered, Graph-Augmented Artificial Intelligence-Enabled Passive Surveillance for Early Stroke Risk Detection in High-Risk Individuals**|[2602.22228v1](http://arxiv.org/abs/2602.22228v1)| null|
@@ -69,7 +72,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2025-12-06**|**How Sharp and Bias-Robust is a Model? Dual Evaluation Perspectives on Knowledge Graph Completion**|[2512.06296v1](http://arxiv.org/abs/2512.06296v1)| null|
 |**2025-12-05**|**GRASP: Graph Reasoning Agents for Systems Pharmacology with Human-in-the-Loop**|[2512.05502v1](http://arxiv.org/abs/2512.05502v1)| null|
 |**2025-12-01**|**Graph Distance as Surprise: Free Energy Minimization in Knowledge Graph Reasoning**|[2512.01878v1](http://arxiv.org/abs/2512.01878v1)| null|
-|**2025-12-02**|**Knowledge Graph Augmented Large Language Models for Disease Prediction**|[2512.01210v2](http://arxiv.org/abs/2512.01210v2)| null|
+|**2026-03-02**|**Knowledge Graph Augmented Large Language Models for Disease Prediction**|[2512.01210v3](http://arxiv.org/abs/2512.01210v3)| **[code](https://github.com/JonathanWry/KG-guided-LLM-pipeline)**|
 |**2025-12-08**|**Subgoal Graph-Augmented Planning for LLM-Guided Open-World Reinforcement Learning**|[2511.20993v2](http://arxiv.org/abs/2511.20993v2)| null|
 |**2025-12-02**|**PersonaAgent with GraphRAG: Community-Aware Knowledge Graphs for Personalized LLM**|[2511.17467v2](http://arxiv.org/abs/2511.17467v2)| **[code](https://anonymous.4open.science/r/PersonaAgentwGraphRAG-DE6F)**|
 |**2025-12-10**|**PathMind: A Retrieve-Prioritize-Reason Framework for Knowledge Graph Reasoning with Large Language Models**|[2511.14256v2](http://arxiv.org/abs/2511.14256v2)| null|
@@ -490,7 +493,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2024-03-04**|**Pre-trained Language Model with Prompts for Temporal Knowledge Graph Completion**|[2305.07912v2](http://arxiv.org/abs/2305.07912v2)| null|
 |**2023-09-20**|**ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion**|[2305.06395v3](http://arxiv.org/abs/2305.06395v3)| null|
 
-<p align=right>(<a href=#Updated-on-20260302>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260303>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/bansky-cl/graphrag-arxiv-daily-paper.svg?style=for-the-badge
 [contributors-url]: https://github.com/bansky-cl/graphrag-arxiv-daily-paper/graphs/contributors
