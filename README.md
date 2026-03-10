@@ -5,7 +5,7 @@
 
 This repository tracks the latest GraphRAG related papers from arXiv.
 
-## Updated on 2026.03.09
+## Updated on 2026.03.10
 
 ![Monthly Trend](imgs/trend.png)
 
@@ -13,6 +13,9 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-03-08**|**KCoEvo: A Knowledge Graph Augmented Framework for Evolutionary Code Generation**|[2603.07581v1](http://arxiv.org/abs/2603.07581v1)| **[code](https://github.com/kangjz1203/KCoEvo)**|
+|**2026-03-07**|**Retrieving Minimal and Sufficient Reasoning Subgraphs with Graph Foundation Models for Path-aware GraphRAG**|[2603.07179v1](http://arxiv.org/abs/2603.07179v1)| null|
+|**2026-02-20**|**GraphSkill: Documentation-Guided Hierarchical Retrieval-Augmented Coding for Complex Graph Reasoning**|[2603.06620v1](http://arxiv.org/abs/2603.06620v1)| **[code](https://github.com/FairyFali/GraphSkill}{\textcolor{blue}{https://github.com/FairyFali/GraphSkill}}.})**|
 |**2026-03-05**|**Core-based Hierarchies for Efficient GraphRAG**|[2603.05207v1](http://arxiv.org/abs/2603.05207v1)| null|
 |**2026-03-02**|**GraphScout: Empowering Large Language Models with Intrinsic Exploration Ability for Agentic Graph Reasoning**|[2603.01410v1](http://arxiv.org/abs/2603.01410v1)| **[code](https://github.com/Ying-Yuchen/_GraphScout_})**|
 |**2026-03-01**|**Linking Knowledge to Care: Knowledge Graph-Augmented Medical Follow-Up Question Generation**|[2603.01252v1](http://arxiv.org/abs/2603.01252v1)| null|
@@ -28,7 +31,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2026-02-17**|**RUVA: Personalized Transparent On-Device Graph Reasoning**|[2602.15553v1](http://arxiv.org/abs/2602.15553v1)| **[code](http://sisinf00.poliba.it/ruva/)**|
 |**2026-02-16**|**LLM-Guided Knowledge Distillation for Temporal Knowledge Graph Reasoning**|[2602.14428v1](http://arxiv.org/abs/2602.14428v1)| null|
 |**2026-02-11**|**SynergyKGC: Reconciling Topological Heterogeneity in Knowledge Graph Completion via Topology-Aware Synergy**|[2602.10845v1](http://arxiv.org/abs/2602.10845v1)| null|
-|**2026-02-10**|**Retrieval Pivot Attacks in Hybrid RAG: Measuring and Mitigating Amplified Leakage from Vector Seeds to Graph Expansion**|[2602.08668v2](http://arxiv.org/abs/2602.08668v2)| null|
+|**2026-03-08**|**Retrieval Pivot Attacks in Hybrid RAG: Measuring and Mitigating Amplified Leakage from Vector Seeds to Graph Expansion**|[2602.08668v3](http://arxiv.org/abs/2602.08668v3)| null|
 |**2026-02-09**|**SCOUT-RAG: Scalable and Cost-Efficient Unifying Traversal for Agentic Graph-RAG over Distributed Domains**|[2602.08400v1](http://arxiv.org/abs/2602.08400v1)| null|
 |**2026-02-09**|**MemAdapter: Fast Alignment across Agent Memory Paradigms via Generative Subgraph Retrieval**|[2602.08369v1](http://arxiv.org/abs/2602.08369v1)| null|
 |**2026-02-08**|**Graph-Enhanced Deep Reinforcement Learning for Multi-Objective Unrelated Parallel Machine Scheduling**|[2602.08052v1](http://arxiv.org/abs/2602.08052v1)| null|
@@ -494,7 +497,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2024-03-04**|**Pre-trained Language Model with Prompts for Temporal Knowledge Graph Completion**|[2305.07912v2](http://arxiv.org/abs/2305.07912v2)| null|
 |**2023-09-20**|**ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion**|[2305.06395v3](http://arxiv.org/abs/2305.06395v3)| null|
 
-<p align=right>(<a href=#Updated-on-20260309>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260310>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/bansky-cl/graphrag-arxiv-daily-paper.svg?style=for-the-badge
 [contributors-url]: https://github.com/bansky-cl/graphrag-arxiv-daily-paper/graphs/contributors
