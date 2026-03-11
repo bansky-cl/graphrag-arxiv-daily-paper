@@ -81,7 +81,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2025-12-02**|**PersonaAgent with GraphRAG: Community-Aware Knowledge Graphs for Personalized LLM**|[2511.17467v2](http://arxiv.org/abs/2511.17467v2)| **[code](https://anonymous.4open.science/r/PersonaAgentwGraphRAG-DE6F)**|
 |**2025-12-10**|**PathMind: A Retrieve-Prioritize-Reason Framework for Knowledge Graph Reasoning with Large Language Models**|[2511.14256v2](http://arxiv.org/abs/2511.14256v2)| null|
 |**2025-11-26**|**Lost in Serialization: Invariance and Generalization of LLM Graph Reasoners**|[2511.10234v2](http://arxiv.org/abs/2511.10234v2)| null|
-|**2025-11-11**|**Automatic Paper Reviewing with Heterogeneous Graph Reasoning over LLM-Simulated Reviewer-Author Debates**|[2511.08317v1](http://arxiv.org/abs/2511.08317v1)| null|
+|**2026-03-10**|**Automatic Paper Reviewing with Heterogeneous Graph Reasoning over LLM-Simulated Reviewer-Author Debates**|[2511.08317v2](http://arxiv.org/abs/2511.08317v2)| null|
 |**2025-11-11**|**Multi-Agent GraphRAG: A Text-to-Cypher Framework for Labeled Property Graphs**|[2511.08274v1](http://arxiv.org/abs/2511.08274v1)| null|
 |**2025-11-11**|**DANS-KGC: Diffusion Based Adaptive Negative Sampling for Knowledge Graph Completion**|[2511.07901v1](http://arxiv.org/abs/2511.07901v1)| null|
 |**2025-11-06**|**GRIP: In-Parameter Graph Reasoning through Fine-Tuning Large Language Models**|[2511.07457v1](http://arxiv.org/abs/2511.07457v1)| null|
