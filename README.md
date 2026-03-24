@@ -13,6 +13,8 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-03-22**|**KG-Hopper: Empowering Compact Open LLMs with Knowledge Graph Reasoning via Reinforcement Learning**|[2603.21440v1](http://arxiv.org/abs/2603.21440v1)| **[code](https://github.com/Wangshuaiia/KG-Hopper)**|
+|**2026-03-11**|**FinReflectKG -- HalluBench: GraphRAG Hallucination Benchmark for Financial Question Answering Systems**|[2603.20252v1](http://arxiv.org/abs/2603.20252v1)| null|
 |**2026-02-28**|**From Flat to Structural: Enhancing Automated Short Answer Grading with GraphRAG**|[2603.19276v1](http://arxiv.org/abs/2603.19276v1)| null|
 |**2026-02-27**|**Reviewing the Reviewer: Graph-Enhanced LLMs for E-commerce Appeal Adjudication**|[2603.19267v1](http://arxiv.org/abs/2603.19267v1)| null|
 |**2026-03-16**|**Mitigating KG Quality Issues: A Robust Multi-Hop GraphRAG Retrieval Framework**|[2603.14828v1](http://arxiv.org/abs/2603.14828v1)| null|
