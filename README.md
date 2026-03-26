@@ -11,10 +11,11 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 
 ## Recent Month Summary (2026-03)
 
-**19 paper(s)** submitted in 2026-03.
+**20 paper(s)** submitted in 2026-03.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-03-25**|**Hierarchical Spatial-Temporal Graph-Enhanced Model for Map-Matching**|[2603.24054v1](http://arxiv.org/abs/2603.24054v1)| **[code](https://github.com/Nerooo-g/HSTGMatch)**|
 |**2026-03-23**|**GraphRAG for Engineering Diagrams: ChatP&ID Enables LLM Interaction with P&IDs**|[2603.22528v1](http://arxiv.org/abs/2603.22528v1)| null|
 |**2026-03-21**|**Graphs RAG at Scale: Beyond Retrieval-Augmented Generation With Labeled Property Graphs and Resource Description Framework for Complex and Unknown Search Spaces**|[2603.22340v1](http://arxiv.org/abs/2603.22340v1)| null|
 |**2026-03-22**|**KG-Hopper: Empowering Compact Open LLMs with Knowledge Graph Reasoning via Reinforcement Learning**|[2603.21440v1](http://arxiv.org/abs/2603.21440v1)| **[code](https://github.com/Wangshuaiia/KG-Hopper)**|
@@ -39,6 +40,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-03-25**|**Hierarchical Spatial-Temporal Graph-Enhanced Model for Map-Matching**|[2603.24054v1](http://arxiv.org/abs/2603.24054v1)| **[code](https://github.com/Nerooo-g/HSTGMatch)**|
 |**2026-03-23**|**GraphRAG for Engineering Diagrams: ChatP&ID Enables LLM Interaction with P&IDs**|[2603.22528v1](http://arxiv.org/abs/2603.22528v1)| null|
 |**2026-03-21**|**Graphs RAG at Scale: Beyond Retrieval-Augmented Generation With Labeled Property Graphs and Resource Description Framework for Complex and Unknown Search Spaces**|[2603.22340v1](http://arxiv.org/abs/2603.22340v1)| null|
 |**2026-03-22**|**KG-Hopper: Empowering Compact Open LLMs with Knowledge Graph Reasoning via Reinforcement Learning**|[2603.21440v1](http://arxiv.org/abs/2603.21440v1)| **[code](https://github.com/Wangshuaiia/KG-Hopper)**|
