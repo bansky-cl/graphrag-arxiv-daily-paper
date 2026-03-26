@@ -5,9 +5,35 @@
 
 This repository tracks the latest GraphRAG related papers from arXiv.
 
-## Updated on 2026.03.25
+## Updated on 2026.03.26
 
 ![Monthly Trend](imgs/trend.png)
+
+## Recent Month Summary (2026-03)
+
+**19 paper(s)** submitted in 2026-03.
+
+|Date|Title|PDF|Code|
+|---|---|---|---|
+|**2026-03-23**|**GraphRAG for Engineering Diagrams: ChatP&ID Enables LLM Interaction with P&IDs**|[2603.22528v1](http://arxiv.org/abs/2603.22528v1)| null|
+|**2026-03-21**|**Graphs RAG at Scale: Beyond Retrieval-Augmented Generation With Labeled Property Graphs and Resource Description Framework for Complex and Unknown Search Spaces**|[2603.22340v1](http://arxiv.org/abs/2603.22340v1)| null|
+|**2026-03-22**|**KG-Hopper: Empowering Compact Open LLMs with Knowledge Graph Reasoning via Reinforcement Learning**|[2603.21440v1](http://arxiv.org/abs/2603.21440v1)| **[code](https://github.com/Wangshuaiia/KG-Hopper)**|
+|**2026-03-11**|**FinReflectKG -- HalluBench: GraphRAG Hallucination Benchmark for Financial Question Answering Systems**|[2603.20252v1](http://arxiv.org/abs/2603.20252v1)| null|
+|**2026-02-28**|**From Flat to Structural: Enhancing Automated Short Answer Grading with GraphRAG**|[2603.19276v1](http://arxiv.org/abs/2603.19276v1)| null|
+|**2026-02-27**|**Reviewing the Reviewer: Graph-Enhanced LLMs for E-commerce Appeal Adjudication**|[2603.19267v1](http://arxiv.org/abs/2603.19267v1)| null|
+|**2026-03-16**|**Mitigating KG Quality Issues: A Robust Multi-Hop GraphRAG Retrieval Framework**|[2603.14828v1](http://arxiv.org/abs/2603.14828v1)| null|
+|**2026-03-18**|**The Reasoning Bottleneck in Graph-RAG: Structured Prompting and Context Compression for Multi-Hop QA**|[2603.14045v2](http://arxiv.org/abs/2603.14045v2)| null|
+|**2026-03-03**|**Suppressing Domain-Specific Hallucination in Construction LLMs: A Knowledge Graph Foundation for GraphRAG and QLoRA on River and Sediment Control Technical Standards**|[2603.13307v1](http://arxiv.org/abs/2603.13307v1)| null|
+|**2026-02-25**|**Federated Personal Knowledge Graph Completion with Lightweight Large Language Models for Personalized Recommendations**|[2603.13264v1](http://arxiv.org/abs/2603.13264v1)| null|
+|**2026-03-12**|**AGMARL-DKS: An Adaptive Graph-Enhanced Multi-Agent Reinforcement Learning for Dynamic Kubernetes Scheduling**|[2603.12031v1](http://arxiv.org/abs/2603.12031v1)| null|
+|**2026-03-12**|**OMNIA: Closing the Loop by Leveraging LLMs for Knowledge Graph Completion**|[2603.11820v1](http://arxiv.org/abs/2603.11820v1)| null|
+|**2026-03-08**|**KCoEvo: A Knowledge Graph Augmented Framework for Evolutionary Code Generation**|[2603.07581v1](http://arxiv.org/abs/2603.07581v1)| **[code](https://github.com/kangjz1203/KCoEvo)**|
+|**2026-03-07**|**Retrieving Minimal and Sufficient Reasoning Subgraphs with Graph Foundation Models for Path-aware GraphRAG**|[2603.07179v1](http://arxiv.org/abs/2603.07179v1)| null|
+|**2026-02-20**|**GraphSkill: Documentation-Guided Hierarchical Retrieval-Augmented Coding for Complex Graph Reasoning**|[2603.06620v1](http://arxiv.org/abs/2603.06620v1)| **[code](https://github.com/FairyFali/GraphSkill}{\textcolor{blue}{https://github.com/FairyFali/GraphSkill}}.})**|
+|**2026-03-05**|**Core-based Hierarchies for Efficient GraphRAG**|[2603.05207v1](http://arxiv.org/abs/2603.05207v1)| null|
+|**2026-03-02**|**GraphScout: Empowering Large Language Models with Intrinsic Exploration Ability for Agentic Graph Reasoning**|[2603.01410v1](http://arxiv.org/abs/2603.01410v1)| **[code](https://github.com/Ying-Yuchen/_GraphScout_})**|
+|**2026-03-01**|**Linking Knowledge to Care: Knowledge Graph-Augmented Medical Follow-Up Question Generation**|[2603.01252v1](http://arxiv.org/abs/2603.01252v1)| null|
+|**2026-02-28**|**MED-COPILOT: A Medical Assistant Powered by GraphRAG and Similar Patient Case Retrieval**|[2603.00460v1](http://arxiv.org/abs/2603.00460v1)| **[code](https://huggingface.co/spaces/Cryo3978/Med_GraphRAG)**|
 
 ## graphrag
 
@@ -509,7 +535,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2024-03-04**|**Pre-trained Language Model with Prompts for Temporal Knowledge Graph Completion**|[2305.07912v2](http://arxiv.org/abs/2305.07912v2)| null|
 |**2023-09-20**|**ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion**|[2305.06395v3](http://arxiv.org/abs/2305.06395v3)| null|
 
-<p align=right>(<a href=#Updated-on-20260325>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260326>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/bansky-cl/graphrag-arxiv-daily-paper.svg?style=for-the-badge
 [contributors-url]: https://github.com/bansky-cl/graphrag-arxiv-daily-paper/graphs/contributors

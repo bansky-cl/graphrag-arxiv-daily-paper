@@ -304,6 +304,32 @@ def json_to_md(filename, md_filename,
 
         f.write("![Monthly Trend](imgs/trend.png)\n\n")
 
+        # ── Recent-month summary ──────────────────────────────────────────
+        latest_ym, recent_papers = get_recent_month_papers(filename)
+        if recent_papers:
+            f.write(f"## Recent Month Summary ({latest_ym})\n\n")
+            f.write(
+                f"**{len(recent_papers)} paper(s)** submitted in {latest_ym}.\n\n"
+            )
+            if show_label_and_abstract:
+                f.write("|Date|Title|label|Abstract|PDF|Code|\n"
+                        "|---|---|---|---|---|---|\n")
+            else:
+                f.write("|Date|Title|PDF|Code|\n" "|---|---|---|---|\n")
+            for _, md_row in recent_papers:
+                row = md_row.rstrip("\n")
+                if not show_label_and_abstract:
+                    cells = row.split("|")
+                    if len(cells) >= 7:
+                        kept = [cells[1], cells[2], cells[5], cells[6]]
+                        row = "|" + "|".join(kept) + "|"
+                    row = re.sub(
+                        r"<details>.*?</details>", "", row, flags=re.DOTALL
+                    )
+                f.write(row + "\n")
+            f.write("\n")
+        # ─────────────────────────────────────────────────────────────────
+
         for keyword in data.keys():
             day_content = data[keyword]
             if not day_content:
@@ -370,7 +396,7 @@ def json_to_trend(json_file: str | Path, img_file: str | Path) -> None:
     if not json_file.exists():
         data = {}
     else:
-        with json_file.open("r", encoding="utf‑8") as f:
+        with json_file.open("r", encoding="utf-8") as f:
             content = f.read().strip()
             if not content:
                 data = {}
@@ -409,6 +435,45 @@ def json_to_trend(json_file: str | Path, img_file: str | Path) -> None:
     plt.savefig(img_file, dpi=300)
     plt.close()
     print(f"✅ trend save in: {img_file}")
+
+
+def get_recent_month_papers(
+    json_file: str | Path,
+) -> tuple[str, list[tuple[str, str]]]:
+    """
+    Return ``(ym_str, [(arxiv_id, md_row), ...])`` for the most recent month
+    present in the JSON store.  ``ym_str`` is formatted as ``"YYYY-MM"``.
+    """
+    json_path = Path(json_file).expanduser()
+    if not json_path.exists():
+        return ("", [])
+
+    content = json_path.read_text(encoding="utf-8").strip()
+    if not content:
+        return ("", [])
+
+    data = json.loads(content)
+
+    month_papers: dict[str, list[tuple[str, str]]] = defaultdict(list)
+    for topic_dict in data.values():
+        for arxiv_id, md_row in topic_dict.items():
+            yymm = arxiv_id[:4]
+            try:
+                # arXiv IDs use a 2-digit year (YY); assume 21st century (20YY),
+                # which is valid for all papers submitted after 2000.
+                year = 2000 + int(yymm[:2])
+                month = int(yymm[2:])
+                ym_key = f"{year:04d}-{month:02d}"
+                month_papers[ym_key].append((arxiv_id, md_row))
+            except (ValueError, IndexError):
+                continue
+
+    if not month_papers:
+        return ("", [])
+
+    latest_ym = max(month_papers.keys())
+    papers = sorted(month_papers[latest_ym], key=lambda x: x[0], reverse=True)
+    return (latest_ym, papers)
 
 
 if __name__ == "__main__":
