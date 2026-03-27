@@ -5,16 +5,17 @@
 
 This repository tracks the latest GraphRAG related papers from arXiv.
 
-## Updated on 2026.03.26
+## Updated on 2026.03.27
 
 ![Monthly Trend](imgs/trend.png)
 
 ## Recent Month Summary (2026-03)
 
-**20 paper(s)** submitted in 2026-03.
+**21 paper(s)** submitted in 2026-03.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-03-26**|**UniAI-GraphRAG: Synergizing Ontology-Guided Extraction, Multi-Dimensional Clustering, and Dual-Channel Fusion for Robust Multi-Hop Reasoning**|[2603.25152v1](http://arxiv.org/abs/2603.25152v1)| **[code](https://github.com/UnicomAI/wanwu/tree/main/rag/rag_open_source/rag_core/graph)**|
 |**2026-03-25**|**Hierarchical Spatial-Temporal Graph-Enhanced Model for Map-Matching**|[2603.24054v1](http://arxiv.org/abs/2603.24054v1)| **[code](https://github.com/Nerooo-g/HSTGMatch)**|
 |**2026-03-23**|**GraphRAG for Engineering Diagrams: ChatP&ID Enables LLM Interaction with P&IDs**|[2603.22528v1](http://arxiv.org/abs/2603.22528v1)| null|
 |**2026-03-21**|**Graphs RAG at Scale: Beyond Retrieval-Augmented Generation With Labeled Property Graphs and Resource Description Framework for Complex and Unknown Search Spaces**|[2603.22340v1](http://arxiv.org/abs/2603.22340v1)| null|
@@ -40,6 +41,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-03-26**|**UniAI-GraphRAG: Synergizing Ontology-Guided Extraction, Multi-Dimensional Clustering, and Dual-Channel Fusion for Robust Multi-Hop Reasoning**|[2603.25152v1](http://arxiv.org/abs/2603.25152v1)| **[code](https://github.com/UnicomAI/wanwu/tree/main/rag/rag_open_source/rag_core/graph)**|
 |**2026-03-25**|**Hierarchical Spatial-Temporal Graph-Enhanced Model for Map-Matching**|[2603.24054v1](http://arxiv.org/abs/2603.24054v1)| **[code](https://github.com/Nerooo-g/HSTGMatch)**|
 |**2026-03-23**|**GraphRAG for Engineering Diagrams: ChatP&ID Enables LLM Interaction with P&IDs**|[2603.22528v1](http://arxiv.org/abs/2603.22528v1)| null|
 |**2026-03-21**|**Graphs RAG at Scale: Beyond Retrieval-Augmented Generation With Labeled Property Graphs and Resource Description Framework for Complex and Unknown Search Spaces**|[2603.22340v1](http://arxiv.org/abs/2603.22340v1)| null|
@@ -97,7 +99,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2026-01-12**|**TagRAG: Tag-guided Hierarchical Knowledge Graph Retrieval-Augmented Generation**|[2601.05254v2](http://arxiv.org/abs/2601.05254v2)| null|
 |**2026-01-08**|**Self-MedRAG: a Self-Reflective Hybrid Retrieval-Augmented Generation Framework for Reliable Medical Question Answering**|[2601.04531v1](http://arxiv.org/abs/2601.04531v1)| null|
 |**2026-01-01**|**Making Theft Useless: Adulteration-Based Protection of Proprietary Knowledge Graphs in GraphRAG Systems**|[2601.00274v1](http://arxiv.org/abs/2601.00274v1)| null|
-|**2026-01-01**|**From Evidence-Based Medicine to Knowledge Graph: Retrieval-Augmented Generation for Sports Rehabilitation and a Domain Benchmark**|[2601.00216v1](http://arxiv.org/abs/2601.00216v1)| null|
+|**2026-03-26**|**From Evidence-Based Medicine to Knowledge Graph: Retrieval-Augmented Generation for Sports Rehabilitation and a Domain Benchmark**|[2601.00216v2](http://arxiv.org/abs/2601.00216v2)| null|
 |**2026-01-01**|**Knowledge Distillation for Temporal Knowledge Graph Reasoning with Large Language Models**|[2601.00202v1](http://arxiv.org/abs/2601.00202v1)| null|
 |**2026-01-03**|**The Gaining Paths to Investment Success: Information-Driven LLM Graph Reasoning for Venture Capital Prediction**|[2512.23489v2](http://arxiv.org/abs/2512.23489v2)| **[code](https://anonymous.4open.science/r/MIRAGE-VC-323F)**|
 |**2025-12-24**|**LookPlanGraph: Embodied Instruction Following Method with VLM Graph Augmentation**|[2512.21243v1](http://arxiv.org/abs/2512.21243v1)| **[code](https://lookplangraph.github.io)**|
@@ -537,7 +539,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2024-03-04**|**Pre-trained Language Model with Prompts for Temporal Knowledge Graph Completion**|[2305.07912v2](http://arxiv.org/abs/2305.07912v2)| null|
 |**2023-09-20**|**ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion**|[2305.06395v3](http://arxiv.org/abs/2305.06395v3)| null|
 
-<p align=right>(<a href=#Updated-on-20260326>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260327>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/bansky-cl/graphrag-arxiv-daily-paper.svg?style=for-the-badge
 [contributors-url]: https://github.com/bansky-cl/graphrag-arxiv-daily-paper/graphs/contributors
