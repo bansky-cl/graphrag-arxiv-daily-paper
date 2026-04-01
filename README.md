@@ -5,18 +5,21 @@
 
 This repository tracks the latest GraphRAG related papers from arXiv.
 
-## Updated on 2026.03.31
+## Updated on 2026.04.01
 
 ![Monthly Trend](imgs/trend.png)
 
 ## Recent Month Summary (2026-03)
 
-**22 paper(s)** submitted in 2026-03.
+**25 paper(s)** submitted in 2026-03.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-02-06**|**UnWeaving the knots of GraphRAG -- turns out VectorRAG is almost enough**|[2603.29875v1](http://arxiv.org/abs/2603.29875v1)| null|
+|**2026-03-31**|**iPoster: Content-Aware Layout Generation for Interactive Poster Design via Graph-Enhanced Diffusion Models**|[2603.29469v1](http://arxiv.org/abs/2603.29469v1)| null|
+|**2026-01-28**|**UltRAG: a Universal Simple Scalable Recipe for Knowledge Graph RAG**|[2603.28773v1](http://arxiv.org/abs/2603.28773v1)| null|
 |**2026-03-29**|**GAAMA: Graph Augmented Associative Memory for Agents**|[2603.27910v1](http://arxiv.org/abs/2603.27910v1)| null|
-|**2026-03-26**|**UniAI-GraphRAG: Synergizing Ontology-Guided Extraction, Multi-Dimensional Clustering, and Dual-Channel Fusion for Robust Multi-Hop Reasoning**|[2603.25152v1](http://arxiv.org/abs/2603.25152v1)| **[code](https://github.com/UnicomAI/wanwu/tree/main/rag/rag_open_source/rag_core/graph)**|
+|**2026-03-31**|**UniAI-GraphRAG: Synergizing Ontology-Guided Extraction, Multi-Dimensional Clustering, and Dual-Channel Fusion for Robust Multi-Hop Reasoning**|[2603.25152v2](http://arxiv.org/abs/2603.25152v2)| **[code](https://github.com/UnicomAI/wanwu/tree/main/rag/rag_open_source/rag_core/graph)**|
 |**2026-03-25**|**Hierarchical Spatial-Temporal Graph-Enhanced Model for Map-Matching**|[2603.24054v1](http://arxiv.org/abs/2603.24054v1)| **[code](https://github.com/Nerooo-g/HSTGMatch)**|
 |**2026-03-23**|**GraphRAG for Engineering Diagrams: ChatP&ID Enables LLM Interaction with P&IDs**|[2603.22528v1](http://arxiv.org/abs/2603.22528v1)| null|
 |**2026-03-21**|**Graphs RAG at Scale: Beyond Retrieval-Augmented Generation With Labeled Property Graphs and Resource Description Framework for Complex and Unknown Search Spaces**|[2603.22340v1](http://arxiv.org/abs/2603.22340v1)| null|
@@ -42,8 +45,11 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-02-06**|**UnWeaving the knots of GraphRAG -- turns out VectorRAG is almost enough**|[2603.29875v1](http://arxiv.org/abs/2603.29875v1)| null|
+|**2026-03-31**|**iPoster: Content-Aware Layout Generation for Interactive Poster Design via Graph-Enhanced Diffusion Models**|[2603.29469v1](http://arxiv.org/abs/2603.29469v1)| null|
+|**2026-01-28**|**UltRAG: a Universal Simple Scalable Recipe for Knowledge Graph RAG**|[2603.28773v1](http://arxiv.org/abs/2603.28773v1)| null|
 |**2026-03-29**|**GAAMA: Graph Augmented Associative Memory for Agents**|[2603.27910v1](http://arxiv.org/abs/2603.27910v1)| null|
-|**2026-03-26**|**UniAI-GraphRAG: Synergizing Ontology-Guided Extraction, Multi-Dimensional Clustering, and Dual-Channel Fusion for Robust Multi-Hop Reasoning**|[2603.25152v1](http://arxiv.org/abs/2603.25152v1)| **[code](https://github.com/UnicomAI/wanwu/tree/main/rag/rag_open_source/rag_core/graph)**|
+|**2026-03-31**|**UniAI-GraphRAG: Synergizing Ontology-Guided Extraction, Multi-Dimensional Clustering, and Dual-Channel Fusion for Robust Multi-Hop Reasoning**|[2603.25152v2](http://arxiv.org/abs/2603.25152v2)| **[code](https://github.com/UnicomAI/wanwu/tree/main/rag/rag_open_source/rag_core/graph)**|
 |**2026-03-25**|**Hierarchical Spatial-Temporal Graph-Enhanced Model for Map-Matching**|[2603.24054v1](http://arxiv.org/abs/2603.24054v1)| **[code](https://github.com/Nerooo-g/HSTGMatch)**|
 |**2026-03-23**|**GraphRAG for Engineering Diagrams: ChatP&ID Enables LLM Interaction with P&IDs**|[2603.22528v1](http://arxiv.org/abs/2603.22528v1)| null|
 |**2026-03-21**|**Graphs RAG at Scale: Beyond Retrieval-Augmented Generation With Labeled Property Graphs and Resource Description Framework for Complex and Unknown Search Spaces**|[2603.22340v1](http://arxiv.org/abs/2603.22340v1)| null|
@@ -161,7 +167,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2025-09-27**|**Fin-ExBERT: User Intent based Text Extraction in Financial Context using Graph-Augmented BERT and trainable Plugin**|[2509.23259v1](http://arxiv.org/abs/2509.23259v1)| null|
 |**2025-09-30**|**GraphSearch: An Agentic Deep Searching Workflow for Graph Retrieval-Augmented Generation**|[2509.22009v2](http://arxiv.org/abs/2509.22009v2)| null|
 |**2025-09-25**|**Query-Centric Graph Retrieval Augmented Generation**|[2509.21237v1](http://arxiv.org/abs/2509.21237v1)| null|
-|**2025-09-25**|**CLAUSE: Agentic Neuro-Symbolic Knowledge Graph Reasoning via Dynamic Learnable Context Engineering**|[2509.21035v1](http://arxiv.org/abs/2509.21035v1)| null|
+|**2026-03-31**|**CLAUSE: Agentic Neuro-Symbolic Knowledge Graph Reasoning via Dynamic Learnable Context Engineering**|[2509.21035v2](http://arxiv.org/abs/2509.21035v2)| null|
 |**2025-12-16**|**GALAX: Graph-Augmented Language Model for Explainable Reinforcement-Guided Subgraph Reasoning in Precision Medicine**|[2509.20935v2](http://arxiv.org/abs/2509.20935v2)| null|
 |**2025-09-24**|**Uncovering Graph Reasoning in Decoder-only Transformers with Circuit Tracing**|[2509.20336v1](http://arxiv.org/abs/2509.20336v1)| null|
 |**2025-09-22**|**Graph Enhanced Trajectory Anomaly Detection**|[2509.18386v1](http://arxiv.org/abs/2509.18386v1)| null|
@@ -541,7 +547,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2024-03-04**|**Pre-trained Language Model with Prompts for Temporal Knowledge Graph Completion**|[2305.07912v2](http://arxiv.org/abs/2305.07912v2)| null|
 |**2023-09-20**|**ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion**|[2305.06395v3](http://arxiv.org/abs/2305.06395v3)| null|
 
-<p align=right>(<a href=#Updated-on-20260331>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260401>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/bansky-cl/graphrag-arxiv-daily-paper.svg?style=for-the-badge
 [contributors-url]: https://github.com/bansky-cl/graphrag-arxiv-daily-paper/graphs/contributors
