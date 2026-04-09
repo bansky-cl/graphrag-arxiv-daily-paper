@@ -5,22 +5,26 @@
 
 This repository tracks the latest GraphRAG related papers from arXiv.
 
-## Updated on 2026.04.08
+## Updated on 2026.04.09
 
 ![Monthly Trend](imgs/trend.png)
 
 ## Recent Month Summary (2026-04)
 
-**1 paper(s)** submitted in 2026-04.
+**3 paper(s)** submitted in 2026-04.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-04-08**|**A Graph-Enhanced Defense Framework for Explainable Fake News Detection with LLM**|[2604.06666v1](http://arxiv.org/abs/2604.06666v1)| null|
+|**2026-04-07**|**Plasma GraphRAG: Physics-Grounded Parameter Selection for Gyrokinetic Simulations**|[2604.06279v1](http://arxiv.org/abs/2604.06279v1)| null|
 |**2026-04-03**|**LogicPoison: Logical Attacks on Graph Retrieval-Augmented Generation**|[2604.02954v1](http://arxiv.org/abs/2604.02954v1)| **[code](https://github.com/Jord8061/logicPoison)**|
 
 ## graphrag
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-04-08**|**A Graph-Enhanced Defense Framework for Explainable Fake News Detection with LLM**|[2604.06666v1](http://arxiv.org/abs/2604.06666v1)| null|
+|**2026-04-07**|**Plasma GraphRAG: Physics-Grounded Parameter Selection for Gyrokinetic Simulations**|[2604.06279v1](http://arxiv.org/abs/2604.06279v1)| null|
 |**2026-04-03**|**LogicPoison: Logical Attacks on Graph Retrieval-Augmented Generation**|[2604.02954v1](http://arxiv.org/abs/2604.02954v1)| **[code](https://github.com/Jord8061/logicPoison)**|
 |**2026-04-07**|**UnWeaving the knots of GraphRAG -- turns out VectorRAG is almost enough**|[2603.29875v2](http://arxiv.org/abs/2603.29875v2)| null|
 |**2026-03-31**|**iPoster: Content-Aware Layout Generation for Interactive Poster Design via Graph-Enhanced Diffusion Models**|[2603.29469v1](http://arxiv.org/abs/2603.29469v1)| null|
@@ -524,7 +528,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2024-03-04**|**Pre-trained Language Model with Prompts for Temporal Knowledge Graph Completion**|[2305.07912v2](http://arxiv.org/abs/2305.07912v2)| null|
 |**2023-09-20**|**ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion**|[2305.06395v3](http://arxiv.org/abs/2305.06395v3)| null|
 
-<p align=right>(<a href=#Updated-on-20260408>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260409>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/bansky-cl/graphrag-arxiv-daily-paper.svg?style=for-the-badge
 [contributors-url]: https://github.com/bansky-cl/graphrag-arxiv-daily-paper/graphs/contributors
