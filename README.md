@@ -15,7 +15,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
-|**2026-04-01**|**BLEG: LLM Functions as Powerful fMRI Graph-Enhancer for Brain Network Analysis**|[2604.07361v1](http://arxiv.org/abs/2604.07361v1)| null|
+|**2026-04-10**|**BLEG: LLM Functions as Powerful fMRI Graph-Enhancer for Brain Network Analysis**|[2604.07361v2](http://arxiv.org/abs/2604.07361v2)| **[code](https://github.com/KamonRiderDR/BLEG)**|
 |**2026-04-08**|**A Graph-Enhanced Defense Framework for Explainable Fake News Detection with LLM**|[2604.06666v1](http://arxiv.org/abs/2604.06666v1)| null|
 |**2026-04-07**|**Plasma GraphRAG: Physics-Grounded Parameter Selection for Gyrokinetic Simulations**|[2604.06279v1](http://arxiv.org/abs/2604.06279v1)| null|
 |**2026-04-03**|**LogicPoison: Logical Attacks on Graph Retrieval-Augmented Generation**|[2604.02954v1](http://arxiv.org/abs/2604.02954v1)| **[code](https://github.com/Jord8061/logicPoison)**|
@@ -24,7 +24,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
-|**2026-04-01**|**BLEG: LLM Functions as Powerful fMRI Graph-Enhancer for Brain Network Analysis**|[2604.07361v1](http://arxiv.org/abs/2604.07361v1)| null|
+|**2026-04-10**|**BLEG: LLM Functions as Powerful fMRI Graph-Enhancer for Brain Network Analysis**|[2604.07361v2](http://arxiv.org/abs/2604.07361v2)| **[code](https://github.com/KamonRiderDR/BLEG)**|
 |**2026-04-08**|**A Graph-Enhanced Defense Framework for Explainable Fake News Detection with LLM**|[2604.06666v1](http://arxiv.org/abs/2604.06666v1)| null|
 |**2026-04-07**|**Plasma GraphRAG: Physics-Grounded Parameter Selection for Gyrokinetic Simulations**|[2604.06279v1](http://arxiv.org/abs/2604.06279v1)| null|
 |**2026-04-03**|**LogicPoison: Logical Attacks on Graph Retrieval-Augmented Generation**|[2604.02954v1](http://arxiv.org/abs/2604.02954v1)| **[code](https://github.com/Jord8061/logicPoison)**|
