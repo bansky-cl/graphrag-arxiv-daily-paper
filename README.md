@@ -11,10 +11,12 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 
 ## Recent Month Summary (2026-04)
 
-**4 paper(s)** submitted in 2026-04.
+**6 paper(s)** submitted in 2026-04.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-04-01**|**Do We Still Need GraphRAG? Benchmarking RAG and GraphRAG for Agentic Search Systems**|[2604.09666v1](http://arxiv.org/abs/2604.09666v1)| null|
+|**2026-03-09**|**CID-TKG: Collaborative Historical Invariance and Evolutionary Dynamics Learning for Temporal Knowledge Graph Reasoning**|[2604.09600v1](http://arxiv.org/abs/2604.09600v1)| null|
 |**2026-04-10**|**BLEG: LLM Functions as Powerful fMRI Graph-Enhancer for Brain Network Analysis**|[2604.07361v2](http://arxiv.org/abs/2604.07361v2)| **[code](https://github.com/KamonRiderDR/BLEG)**|
 |**2026-04-08**|**A Graph-Enhanced Defense Framework for Explainable Fake News Detection with LLM**|[2604.06666v1](http://arxiv.org/abs/2604.06666v1)| null|
 |**2026-04-07**|**Plasma GraphRAG: Physics-Grounded Parameter Selection for Gyrokinetic Simulations**|[2604.06279v1](http://arxiv.org/abs/2604.06279v1)| null|
@@ -24,6 +26,8 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-04-01**|**Do We Still Need GraphRAG? Benchmarking RAG and GraphRAG for Agentic Search Systems**|[2604.09666v1](http://arxiv.org/abs/2604.09666v1)| null|
+|**2026-03-09**|**CID-TKG: Collaborative Historical Invariance and Evolutionary Dynamics Learning for Temporal Knowledge Graph Reasoning**|[2604.09600v1](http://arxiv.org/abs/2604.09600v1)| null|
 |**2026-04-10**|**BLEG: LLM Functions as Powerful fMRI Graph-Enhancer for Brain Network Analysis**|[2604.07361v2](http://arxiv.org/abs/2604.07361v2)| **[code](https://github.com/KamonRiderDR/BLEG)**|
 |**2026-04-08**|**A Graph-Enhanced Defense Framework for Explainable Fake News Detection with LLM**|[2604.06666v1](http://arxiv.org/abs/2604.06666v1)| null|
 |**2026-04-07**|**Plasma GraphRAG: Physics-Grounded Parameter Selection for Gyrokinetic Simulations**|[2604.06279v1](http://arxiv.org/abs/2604.06279v1)| null|
@@ -94,7 +98,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2026-01-01**|**Knowledge Distillation for Temporal Knowledge Graph Reasoning with Large Language Models**|[2601.00202v1](http://arxiv.org/abs/2601.00202v1)| null|
 |**2026-01-03**|**The Gaining Paths to Investment Success: Information-Driven LLM Graph Reasoning for Venture Capital Prediction**|[2512.23489v2](http://arxiv.org/abs/2512.23489v2)| **[code](https://anonymous.4open.science/r/MIRAGE-VC-323F)**|
 |**2025-12-24**|**LookPlanGraph: Embodied Instruction Following Method with VLM Graph Augmentation**|[2512.21243v1](http://arxiv.org/abs/2512.21243v1)| **[code](https://lookplangraph.github.io)**|
-|**2025-12-24**|**M$^3$KG-RAG: Multi-hop Multimodal Knowledge Graph-enhanced Retrieval-Augmented Generation**|[2512.20136v2](http://arxiv.org/abs/2512.20136v2)| null|
+|**2026-04-13**|**M$^3$KG-RAG: Multi-hop Multimodal Knowledge Graph-enhanced Retrieval-Augmented Generation**|[2512.20136v3](http://arxiv.org/abs/2512.20136v3)| **[code](https://kuai-lab.github.io/cvpr2026m3kgrag/)**|
 |**2025-12-19**|**Grad: Guided Relation Diffusion Generation for Graph Augmentation in Graph Fraud Detection**|[2512.18133v1](http://arxiv.org/abs/2512.18133v1)| **[code](https://github.com/Muyiiiii/WWW25-Grad)**|
 |**2025-11-26**|**Graph-O1 : Monte Carlo Tree Search with Reinforcement Learning for Text-Attributed Graph Reasoning**|[2512.17912v1](http://arxiv.org/abs/2512.17912v1)| null|
 |**2025-12-16**|**GR-Agent: Adaptive Graph Reasoning Agent under Incomplete Knowledge**|[2512.14766v1](http://arxiv.org/abs/2512.14766v1)| null|
