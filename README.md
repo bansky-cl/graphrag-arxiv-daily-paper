@@ -5,16 +5,17 @@
 
 This repository tracks the latest GraphRAG related papers from arXiv.
 
-## Updated on 2026.04.14
+## Updated on 2026.04.15
 
 ![Monthly Trend](imgs/trend.png)
 
 ## Recent Month Summary (2026-04)
 
-**6 paper(s)** submitted in 2026-04.
+**7 paper(s)** submitted in 2026-04.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-04-14**|**KG-Reasoner: A Reinforced Model for End-to-End Multi-Hop Knowledge Graph Reasoning**|[2604.12487v1](http://arxiv.org/abs/2604.12487v1)| **[code](https://github.com/Wangshuaiia/KG-Reasoner)**|
 |**2026-04-01**|**Do We Still Need GraphRAG? Benchmarking RAG and GraphRAG for Agentic Search Systems**|[2604.09666v1](http://arxiv.org/abs/2604.09666v1)| null|
 |**2026-03-09**|**CID-TKG: Collaborative Historical Invariance and Evolutionary Dynamics Learning for Temporal Knowledge Graph Reasoning**|[2604.09600v1](http://arxiv.org/abs/2604.09600v1)| null|
 |**2026-04-10**|**BLEG: LLM Functions as Powerful fMRI Graph-Enhancer for Brain Network Analysis**|[2604.07361v2](http://arxiv.org/abs/2604.07361v2)| **[code](https://github.com/KamonRiderDR/BLEG)**|
@@ -26,6 +27,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-04-14**|**KG-Reasoner: A Reinforced Model for End-to-End Multi-Hop Knowledge Graph Reasoning**|[2604.12487v1](http://arxiv.org/abs/2604.12487v1)| **[code](https://github.com/Wangshuaiia/KG-Reasoner)**|
 |**2026-04-01**|**Do We Still Need GraphRAG? Benchmarking RAG and GraphRAG for Agentic Search Systems**|[2604.09666v1](http://arxiv.org/abs/2604.09666v1)| null|
 |**2026-03-09**|**CID-TKG: Collaborative Historical Invariance and Evolutionary Dynamics Learning for Temporal Knowledge Graph Reasoning**|[2604.09600v1](http://arxiv.org/abs/2604.09600v1)| null|
 |**2026-04-10**|**BLEG: LLM Functions as Powerful fMRI Graph-Enhancer for Brain Network Analysis**|[2604.07361v2](http://arxiv.org/abs/2604.07361v2)| **[code](https://github.com/KamonRiderDR/BLEG)**|
@@ -40,7 +42,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2026-03-25**|**Hierarchical Spatial-Temporal Graph-Enhanced Model for Map-Matching**|[2603.24054v1](http://arxiv.org/abs/2603.24054v1)| **[code](https://github.com/Nerooo-g/HSTGMatch)**|
 |**2026-03-23**|**GraphRAG for Engineering Diagrams: ChatP&ID Enables LLM Interaction with P&IDs**|[2603.22528v1](http://arxiv.org/abs/2603.22528v1)| null|
 |**2026-03-21**|**Graphs RAG at Scale: Beyond Retrieval-Augmented Generation With Labeled Property Graphs and Resource Description Framework for Complex and Unknown Search Spaces**|[2603.22340v1](http://arxiv.org/abs/2603.22340v1)| null|
-|**2026-03-30**|**KG-Hopper: Empowering Compact Open LLMs with Knowledge Graph Reasoning via Reinforcement Learning**|[2603.21440v3](http://arxiv.org/abs/2603.21440v3)| **[code](https://github.com/Wangshuaiia/KG-Hopper)**|
+|**2026-04-14**|**KG-Hopper: Empowering Compact Open LLMs with Knowledge Graph Reasoning via Reinforcement Learning**|[2603.21440v4](http://arxiv.org/abs/2603.21440v4)| **[code](https://github.com/Wangshuaiia/KG-Hopper)**|
 |**2026-03-11**|**FinReflectKG -- HalluBench: GraphRAG Hallucination Benchmark for Financial Question Answering Systems**|[2603.20252v1](http://arxiv.org/abs/2603.20252v1)| null|
 |**2026-02-28**|**From Flat to Structural: Enhancing Automated Short Answer Grading with GraphRAG**|[2603.19276v1](http://arxiv.org/abs/2603.19276v1)| null|
 |**2026-02-27**|**Reviewing the Reviewer: Graph-Enhanced LLMs for E-commerce Appeal Adjudication**|[2603.19267v1](http://arxiv.org/abs/2603.19267v1)| null|
@@ -84,7 +86,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2026-01-19**|**Graph Reasoning Paradigm: Structured and Symbolic Reasoning with Topology-Aware Reinforcement Learning for Large Language Models**|[2601.12995v1](http://arxiv.org/abs/2601.12995v1)| null|
 |**2026-01-25**|**Augmenting Question Answering with A Hybrid RAG Approach**|[2601.12658v2](http://arxiv.org/abs/2601.12658v2)| null|
 |**2026-01-29**|**Deep GraphRAG: A Balanced Approach to Hierarchical Retrieval and Adaptive Integration**|[2601.11144v3](http://arxiv.org/abs/2601.11144v3)| null|
-|**2026-01-16**|**CoG: Controllable Graph Reasoning via Relational Blueprints and Failure-Aware Refinement over Knowledge Graphs**|[2601.11047v1](http://arxiv.org/abs/2601.11047v1)| null|
+|**2026-04-14**|**CoG: Controllable Graph Reasoning via Relational Blueprints and Failure-Aware Refinement over Knowledge Graphs**|[2601.11047v2](http://arxiv.org/abs/2601.11047v2)| null|
 |**2026-01-14**|**ReGraM: Region-First Knowledge Graph Reasoning for Medical Question Answering**|[2601.09280v1](http://arxiv.org/abs/2601.09280v1)| null|
 |**2026-02-03**|**When to Trust: A Causality-Aware Calibration Framework for Accurate Knowledge Graph Retrieval-Augmented Generation**|[2601.09241v2](http://arxiv.org/abs/2601.09241v2)| null|
 |**2026-01-13**|**Reliable Graph-RAG for Codebases: AST-Derived Graphs vs LLM-Extracted Knowledge Graphs**|[2601.08773v1](http://arxiv.org/abs/2601.08773v1)| null|
@@ -534,7 +536,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2024-03-04**|**Pre-trained Language Model with Prompts for Temporal Knowledge Graph Completion**|[2305.07912v2](http://arxiv.org/abs/2305.07912v2)| null|
 |**2023-09-20**|**ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion**|[2305.06395v3](http://arxiv.org/abs/2305.06395v3)| null|
 
-<p align=right>(<a href=#Updated-on-20260414>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260415>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/bansky-cl/graphrag-arxiv-daily-paper.svg?style=for-the-badge
 [contributors-url]: https://github.com/bansky-cl/graphrag-arxiv-daily-paper/graphs/contributors
