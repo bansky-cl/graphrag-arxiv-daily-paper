@@ -11,10 +11,11 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 
 ## Recent Month Summary (2026-04)
 
-**7 paper(s)** submitted in 2026-04.
+**8 paper(s)** submitted in 2026-04.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-04-15**|**FRAGATA: Semantic Retrieval of HPC Support Tickets via Hybrid RAG over 20 Years of Request Tracker History**|[2604.13721v1](http://arxiv.org/abs/2604.13721v1)| null|
 |**2026-04-14**|**KG-Reasoner: A Reinforced Model for End-to-End Multi-Hop Knowledge Graph Reasoning**|[2604.12487v1](http://arxiv.org/abs/2604.12487v1)| **[code](https://github.com/Wangshuaiia/KG-Reasoner)**|
 |**2026-04-01**|**Do We Still Need GraphRAG? Benchmarking RAG and GraphRAG for Agentic Search Systems**|[2604.09666v1](http://arxiv.org/abs/2604.09666v1)| null|
 |**2026-03-09**|**CID-TKG: Collaborative Historical Invariance and Evolutionary Dynamics Learning for Temporal Knowledge Graph Reasoning**|[2604.09600v1](http://arxiv.org/abs/2604.09600v1)| null|
@@ -27,6 +28,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-04-15**|**FRAGATA: Semantic Retrieval of HPC Support Tickets via Hybrid RAG over 20 Years of Request Tracker History**|[2604.13721v1](http://arxiv.org/abs/2604.13721v1)| null|
 |**2026-04-14**|**KG-Reasoner: A Reinforced Model for End-to-End Multi-Hop Knowledge Graph Reasoning**|[2604.12487v1](http://arxiv.org/abs/2604.12487v1)| **[code](https://github.com/Wangshuaiia/KG-Reasoner)**|
 |**2026-04-01**|**Do We Still Need GraphRAG? Benchmarking RAG and GraphRAG for Agentic Search Systems**|[2604.09666v1](http://arxiv.org/abs/2604.09666v1)| null|
 |**2026-03-09**|**CID-TKG: Collaborative Historical Invariance and Evolutionary Dynamics Learning for Temporal Knowledge Graph Reasoning**|[2604.09600v1](http://arxiv.org/abs/2604.09600v1)| null|
@@ -56,7 +58,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2026-03-07**|**Retrieving Minimal and Sufficient Reasoning Subgraphs with Graph Foundation Models for Path-aware GraphRAG**|[2603.07179v1](http://arxiv.org/abs/2603.07179v1)| null|
 |**2026-02-20**|**GraphSkill: Documentation-Guided Hierarchical Retrieval-Augmented Coding for Complex Graph Reasoning**|[2603.06620v1](http://arxiv.org/abs/2603.06620v1)| **[code](https://github.com/FairyFali/GraphSkill}{\textcolor{blue}{https://github.com/FairyFali/GraphSkill}}.})**|
 |**2026-03-05**|**Core-based Hierarchies for Efficient GraphRAG**|[2603.05207v1](http://arxiv.org/abs/2603.05207v1)| null|
-|**2026-03-02**|**GraphScout: Empowering Large Language Models with Intrinsic Exploration Ability for Agentic Graph Reasoning**|[2603.01410v1](http://arxiv.org/abs/2603.01410v1)| **[code](https://github.com/Ying-Yuchen/_GraphScout_})**|
+|**2026-04-15**|**GraphScout: Empowering Large Language Models with Intrinsic Exploration Ability for Agentic Graph Reasoning**|[2603.01410v2](http://arxiv.org/abs/2603.01410v2)| **[code](https://github.com/Ying-Yuchen/_GraphScout_})**|
 |**2026-03-01**|**Linking Knowledge to Care: Knowledge Graph-Augmented Medical Follow-Up Question Generation**|[2603.01252v1](http://arxiv.org/abs/2603.01252v1)| null|
 |**2026-02-28**|**MED-COPILOT: A Medical Assistant Powered by GraphRAG and Similar Patient Case Retrieval**|[2603.00460v1](http://arxiv.org/abs/2603.00460v1)| **[code](https://huggingface.co/spaces/Cryo3978/Med_GraphRAG)**|
 |**2025-12-27**|**Democratizing GraphRAG: Linear, CPU-Only Graph Retrieval for Multi-Hop QA**|[2602.23372v1](http://arxiv.org/abs/2602.23372v1)| null|
