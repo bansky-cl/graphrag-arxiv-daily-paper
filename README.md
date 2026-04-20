@@ -5,7 +5,7 @@
 
 This repository tracks the latest GraphRAG related papers from arXiv.
 
-## Updated on 2026.04.19
+## Updated on 2026.04.20
 
 ![Monthly Trend](imgs/trend.png)
 
@@ -156,7 +156,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2025-09-27**|**RANGER -- Repository-Level Agent for Graph-Enhanced Retrieval**|[2509.25257v1](http://arxiv.org/abs/2509.25257v1)| null|
 |**2025-10-02**|**Rethinking and Benchmarking Large Language Models for Graph Reasoning**|[2509.24260v2](http://arxiv.org/abs/2509.24260v2)| null|
 |**2025-09-28**|**Transformer Tafsir at QIAS 2025 Shared Task: Hybrid Retrieval-Augmented Generation for Islamic Knowledge Question Answering**|[2509.23793v1](http://arxiv.org/abs/2509.23793v1)| null|
-|**2025-09-28**|**Collaboration of Fusion and Independence: Hypercomplex-driven Robust Multi-Modal Knowledge Graph Completion**|[2509.23714v1](http://arxiv.org/abs/2509.23714v1)| null|
+|**2026-04-17**|**Collaboration of Fusion and Independence: Hypercomplex-driven Robust Multi-Modal Knowledge Graph Completion**|[2509.23714v2](http://arxiv.org/abs/2509.23714v2)| null|
 |**2025-09-27**|**Fin-ExBERT: User Intent based Text Extraction in Financial Context using Graph-Augmented BERT and trainable Plugin**|[2509.23259v1](http://arxiv.org/abs/2509.23259v1)| null|
 |**2025-09-30**|**GraphSearch: An Agentic Deep Searching Workflow for Graph Retrieval-Augmented Generation**|[2509.22009v2](http://arxiv.org/abs/2509.22009v2)| null|
 |**2025-09-25**|**Query-Centric Graph Retrieval Augmented Generation**|[2509.21237v1](http://arxiv.org/abs/2509.21237v1)| null|
@@ -540,7 +540,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2024-03-04**|**Pre-trained Language Model with Prompts for Temporal Knowledge Graph Completion**|[2305.07912v2](http://arxiv.org/abs/2305.07912v2)| null|
 |**2023-09-20**|**ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion**|[2305.06395v3](http://arxiv.org/abs/2305.06395v3)| null|
 
-<p align=right>(<a href=#Updated-on-20260419>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260420>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/bansky-cl/graphrag-arxiv-daily-paper.svg?style=for-the-badge
 [contributors-url]: https://github.com/bansky-cl/graphrag-arxiv-daily-paper/graphs/contributors
