@@ -5,16 +5,19 @@
 
 This repository tracks the latest GraphRAG related papers from arXiv.
 
-## Updated on 2026.04.23
+## Updated on 2026.04.24
 
 ![Monthly Trend](imgs/trend.png)
 
 ## Recent Month Summary (2026-04)
 
-**13 paper(s)** submitted in 2026-04.
+**16 paper(s)** submitted in 2026-04.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-04-23**|**GS-Quant: Granular Semantic and Generative Structural Quantization for Knowledge Graph Completion**|[2604.21649v1](http://arxiv.org/abs/2604.21649v1)| **[code](https://github.com/mikumifa/GS-Quant)**|
+|**2026-04-23**|**WPGRec: Wavelet Packet Guided Graph Enhanced Sequential Recommendation**|[2604.21305v1](http://arxiv.org/abs/2604.21305v1)| null|
+|**2026-03-02**|**KGiRAG: An Iterative GraphRAG Approach for Responding Sensemaking Queries**|[2604.20859v1](http://arxiv.org/abs/2604.20859v1)| null|
 |**2026-04-21**|**GraphRAG-IRL: Personalized Recommendation with Graph-Grounded Inverse Reinforcement Learning and LLM Re-ranking**|[2604.19128v1](http://arxiv.org/abs/2604.19128v1)| null|
 |**2026-04-21**|**EHRAG: Bridging Semantic Gaps in Lightweight GraphRAG via Hybrid Hypergraph Construction and Retrieval**|[2604.17458v2](http://arxiv.org/abs/2604.17458v2)| **[code](https://github.com/yfsong00/EHRAG)**|
 |**2026-04-03**|**Injecting Structured Biomedical Knowledge into Language Models: Continual Pretraining vs. GraphRAG**|[2604.16422v1](http://arxiv.org/abs/2604.16422v1)| null|
@@ -33,6 +36,9 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-04-23**|**GS-Quant: Granular Semantic and Generative Structural Quantization for Knowledge Graph Completion**|[2604.21649v1](http://arxiv.org/abs/2604.21649v1)| **[code](https://github.com/mikumifa/GS-Quant)**|
+|**2026-04-23**|**WPGRec: Wavelet Packet Guided Graph Enhanced Sequential Recommendation**|[2604.21305v1](http://arxiv.org/abs/2604.21305v1)| null|
+|**2026-03-02**|**KGiRAG: An Iterative GraphRAG Approach for Responding Sensemaking Queries**|[2604.20859v1](http://arxiv.org/abs/2604.20859v1)| null|
 |**2026-04-21**|**GraphRAG-IRL: Personalized Recommendation with Graph-Grounded Inverse Reinforcement Learning and LLM Re-ranking**|[2604.19128v1](http://arxiv.org/abs/2604.19128v1)| null|
 |**2026-04-21**|**EHRAG: Bridging Semantic Gaps in Lightweight GraphRAG via Hybrid Hypergraph Construction and Retrieval**|[2604.17458v2](http://arxiv.org/abs/2604.17458v2)| **[code](https://github.com/yfsong00/EHRAG)**|
 |**2026-04-03**|**Injecting Structured Biomedical Knowledge into Language Models: Continual Pretraining vs. GraphRAG**|[2604.16422v1](http://arxiv.org/abs/2604.16422v1)| null|
@@ -548,7 +554,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2024-03-04**|**Pre-trained Language Model with Prompts for Temporal Knowledge Graph Completion**|[2305.07912v2](http://arxiv.org/abs/2305.07912v2)| null|
 |**2023-09-20**|**ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion**|[2305.06395v3](http://arxiv.org/abs/2305.06395v3)| null|
 
-<p align=right>(<a href=#Updated-on-20260423>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260424>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/bansky-cl/graphrag-arxiv-daily-paper.svg?style=for-the-badge
 [contributors-url]: https://github.com/bansky-cl/graphrag-arxiv-daily-paper/graphs/contributors
