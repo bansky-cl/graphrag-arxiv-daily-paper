@@ -5,16 +5,17 @@
 
 This repository tracks the latest GraphRAG related papers from arXiv.
 
-## Updated on 2026.04.29
+## Updated on 2026.04.30
 
 ![Monthly Trend](imgs/trend.png)
 
 ## Recent Month Summary (2026-04)
 
-**18 paper(s)** submitted in 2026-04.
+**19 paper(s)** submitted in 2026-04.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-04-29**|**SAGE: A Strategy-Aware Graph-Enhanced Generation Framework For Online Counseling**|[2604.26630v1](http://arxiv.org/abs/2604.26630v1)| null|
 |**2026-04-28**|**RADD: Retrieval-Augmented Discrete Diffusion for Multi-Modal Knowledge Graph Completion**|[2604.25693v1](http://arxiv.org/abs/2604.25693v1)| null|
 |**2026-04-26**|**ComplianceNLP: Knowledge-Graph-Augmented RAG for Multi-Framework Regulatory Gap Detection**|[2604.23585v1](http://arxiv.org/abs/2604.23585v1)| null|
 |**2026-04-23**|**GS-Quant: Granular Semantic and Generative Structural Quantization for Knowledge Graph Completion**|[2604.21649v1](http://arxiv.org/abs/2604.21649v1)| **[code](https://github.com/mikumifa/GS-Quant)**|
@@ -38,6 +39,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-04-29**|**SAGE: A Strategy-Aware Graph-Enhanced Generation Framework For Online Counseling**|[2604.26630v1](http://arxiv.org/abs/2604.26630v1)| null|
 |**2026-04-28**|**RADD: Retrieval-Augmented Discrete Diffusion for Multi-Modal Knowledge Graph Completion**|[2604.25693v1](http://arxiv.org/abs/2604.25693v1)| null|
 |**2026-04-26**|**ComplianceNLP: Knowledge-Graph-Augmented RAG for Multi-Framework Regulatory Gap Detection**|[2604.23585v1](http://arxiv.org/abs/2604.23585v1)| null|
 |**2026-04-23**|**GS-Quant: Granular Semantic and Generative Structural Quantization for Knowledge Graph Completion**|[2604.21649v1](http://arxiv.org/abs/2604.21649v1)| **[code](https://github.com/mikumifa/GS-Quant)**|
@@ -558,7 +560,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2024-03-04**|**Pre-trained Language Model with Prompts for Temporal Knowledge Graph Completion**|[2305.07912v2](http://arxiv.org/abs/2305.07912v2)| null|
 |**2023-09-20**|**ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion**|[2305.06395v3](http://arxiv.org/abs/2305.06395v3)| null|
 
-<p align=right>(<a href=#Updated-on-20260429>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260430>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/bansky-cl/graphrag-arxiv-daily-paper.svg?style=for-the-badge
 [contributors-url]: https://github.com/bansky-cl/graphrag-arxiv-daily-paper/graphs/contributors
