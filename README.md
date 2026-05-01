@@ -5,7 +5,7 @@
 
 This repository tracks the latest GraphRAG related papers from arXiv.
 
-## Updated on 2026.04.30
+## Updated on 2026.05.01
 
 ![Monthly Trend](imgs/trend.png)
 
@@ -26,7 +26,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2026-04-03**|**Injecting Structured Biomedical Knowledge into Language Models: Continual Pretraining vs. GraphRAG**|[2604.16422v1](http://arxiv.org/abs/2604.16422v1)| null|
 |**2026-03-31**|**GraphRAG-Router: Learning Cost-Efficient Routing over GraphRAGs and LLMs with Reinforcement Learning**|[2604.16401v1](http://arxiv.org/abs/2604.16401v1)| null|
 |**2026-04-14**|**Knowledge Graph RAG: Agentic Crawling and Graph Construction in Enterprise Documents**|[2604.14220v1](http://arxiv.org/abs/2604.14220v1)| null|
-|**2026-04-15**|**FRAGATA: Semantic Retrieval of HPC Support Tickets via Hybrid RAG over 20 Years of Request Tracker History**|[2604.13721v1](http://arxiv.org/abs/2604.13721v1)| null|
+|**2026-04-30**|**FRAGATA: Semantic Retrieval of HPC Support Tickets via Hybrid RAG over 20 Years of Request Tracker History**|[2604.13721v2](http://arxiv.org/abs/2604.13721v2)| null|
 |**2026-04-14**|**KG-Reasoner: A Reinforced Model for End-to-End Multi-Hop Knowledge Graph Reasoning**|[2604.12487v1](http://arxiv.org/abs/2604.12487v1)| **[code](https://github.com/Wangshuaiia/KG-Reasoner)**|
 |**2026-04-01**|**Do We Still Need GraphRAG? Benchmarking RAG and GraphRAG for Agentic Search Systems**|[2604.09666v1](http://arxiv.org/abs/2604.09666v1)| null|
 |**2026-03-09**|**CID-TKG: Collaborative Historical Invariance and Evolutionary Dynamics Learning for Temporal Knowledge Graph Reasoning**|[2604.09600v1](http://arxiv.org/abs/2604.09600v1)| null|
@@ -50,7 +50,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2026-04-03**|**Injecting Structured Biomedical Knowledge into Language Models: Continual Pretraining vs. GraphRAG**|[2604.16422v1](http://arxiv.org/abs/2604.16422v1)| null|
 |**2026-03-31**|**GraphRAG-Router: Learning Cost-Efficient Routing over GraphRAGs and LLMs with Reinforcement Learning**|[2604.16401v1](http://arxiv.org/abs/2604.16401v1)| null|
 |**2026-04-14**|**Knowledge Graph RAG: Agentic Crawling and Graph Construction in Enterprise Documents**|[2604.14220v1](http://arxiv.org/abs/2604.14220v1)| null|
-|**2026-04-15**|**FRAGATA: Semantic Retrieval of HPC Support Tickets via Hybrid RAG over 20 Years of Request Tracker History**|[2604.13721v1](http://arxiv.org/abs/2604.13721v1)| null|
+|**2026-04-30**|**FRAGATA: Semantic Retrieval of HPC Support Tickets via Hybrid RAG over 20 Years of Request Tracker History**|[2604.13721v2](http://arxiv.org/abs/2604.13721v2)| null|
 |**2026-04-14**|**KG-Reasoner: A Reinforced Model for End-to-End Multi-Hop Knowledge Graph Reasoning**|[2604.12487v1](http://arxiv.org/abs/2604.12487v1)| **[code](https://github.com/Wangshuaiia/KG-Reasoner)**|
 |**2026-04-01**|**Do We Still Need GraphRAG? Benchmarking RAG and GraphRAG for Agentic Search Systems**|[2604.09666v1](http://arxiv.org/abs/2604.09666v1)| null|
 |**2026-03-09**|**CID-TKG: Collaborative Historical Invariance and Evolutionary Dynamics Learning for Temporal Knowledge Graph Reasoning**|[2604.09600v1](http://arxiv.org/abs/2604.09600v1)| null|
@@ -560,7 +560,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2024-03-04**|**Pre-trained Language Model with Prompts for Temporal Knowledge Graph Completion**|[2305.07912v2](http://arxiv.org/abs/2305.07912v2)| null|
 |**2023-09-20**|**ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion**|[2305.06395v3](http://arxiv.org/abs/2305.06395v3)| null|
 
-<p align=right>(<a href=#Updated-on-20260430>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260501>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/bansky-cl/graphrag-arxiv-daily-paper.svg?style=for-the-badge
 [contributors-url]: https://github.com/bansky-cl/graphrag-arxiv-daily-paper/graphs/contributors
