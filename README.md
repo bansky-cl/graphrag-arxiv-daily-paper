@@ -5,40 +5,23 @@
 
 This repository tracks the latest GraphRAG related papers from arXiv.
 
-## Updated on 2026.05.05
+## Updated on 2026.05.06
 
 ![Monthly Trend](imgs/trend.png)
 
-## Recent Month Summary (2026-04)
+## Recent Month Summary (2026-05)
 
-**19 paper(s)** submitted in 2026-04.
+**1 paper(s)** submitted in 2026-05.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
-|**2026-04-29**|**SAGE: A Strategy-Aware Graph-Enhanced Generation Framework For Online Counseling**|[2604.26630v1](http://arxiv.org/abs/2604.26630v1)| null|
-|**2026-04-28**|**RADD: Retrieval-Augmented Discrete Diffusion for Multi-Modal Knowledge Graph Completion**|[2604.25693v1](http://arxiv.org/abs/2604.25693v1)| null|
-|**2026-04-26**|**ComplianceNLP: Knowledge-Graph-Augmented RAG for Multi-Framework Regulatory Gap Detection**|[2604.23585v1](http://arxiv.org/abs/2604.23585v1)| null|
-|**2026-04-23**|**GS-Quant: Granular Semantic and Generative Structural Quantization for Knowledge Graph Completion**|[2604.21649v1](http://arxiv.org/abs/2604.21649v1)| **[code](https://github.com/mikumifa/GS-Quant)**|
-|**2026-04-23**|**WPGRec: Wavelet Packet Guided Graph Enhanced Sequential Recommendation**|[2604.21305v1](http://arxiv.org/abs/2604.21305v1)| null|
-|**2026-03-02**|**KGiRAG: An Iterative GraphRAG Approach for Responding Sensemaking Queries**|[2604.20859v1](http://arxiv.org/abs/2604.20859v1)| null|
-|**2026-04-21**|**GraphRAG-IRL: Personalized Recommendation with Graph-Grounded Inverse Reinforcement Learning and LLM Re-ranking**|[2604.19128v1](http://arxiv.org/abs/2604.19128v1)| null|
-|**2026-04-21**|**EHRAG: Bridging Semantic Gaps in Lightweight GraphRAG via Hybrid Hypergraph Construction and Retrieval**|[2604.17458v2](http://arxiv.org/abs/2604.17458v2)| **[code](https://github.com/yfsong00/EHRAG)**|
-|**2026-04-03**|**Injecting Structured Biomedical Knowledge into Language Models: Continual Pretraining vs. GraphRAG**|[2604.16422v1](http://arxiv.org/abs/2604.16422v1)| null|
-|**2026-03-31**|**GraphRAG-Router: Learning Cost-Efficient Routing over GraphRAGs and LLMs with Reinforcement Learning**|[2604.16401v1](http://arxiv.org/abs/2604.16401v1)| null|
-|**2026-04-14**|**Knowledge Graph RAG: Agentic Crawling and Graph Construction in Enterprise Documents**|[2604.14220v1](http://arxiv.org/abs/2604.14220v1)| null|
-|**2026-04-30**|**FRAGATA: Semantic Retrieval of HPC Support Tickets via Hybrid RAG over 20 Years of Request Tracker History**|[2604.13721v2](http://arxiv.org/abs/2604.13721v2)| null|
-|**2026-04-14**|**KG-Reasoner: A Reinforced Model for End-to-End Multi-Hop Knowledge Graph Reasoning**|[2604.12487v1](http://arxiv.org/abs/2604.12487v1)| **[code](https://github.com/Wangshuaiia/KG-Reasoner)**|
-|**2026-04-01**|**Do We Still Need GraphRAG? Benchmarking RAG and GraphRAG for Agentic Search Systems**|[2604.09666v1](http://arxiv.org/abs/2604.09666v1)| null|
-|**2026-03-09**|**CID-TKG: Collaborative Historical Invariance and Evolutionary Dynamics Learning for Temporal Knowledge Graph Reasoning**|[2604.09600v1](http://arxiv.org/abs/2604.09600v1)| null|
-|**2026-04-10**|**BLEG: LLM Functions as Powerful fMRI Graph-Enhancer for Brain Network Analysis**|[2604.07361v2](http://arxiv.org/abs/2604.07361v2)| **[code](https://github.com/KamonRiderDR/BLEG)**|
-|**2026-04-08**|**A Graph-Enhanced Defense Framework for Explainable Fake News Detection with LLM**|[2604.06666v1](http://arxiv.org/abs/2604.06666v1)| null|
-|**2026-04-07**|**Plasma GraphRAG: Physics-Grounded Parameter Selection for Gyrokinetic Simulations**|[2604.06279v1](http://arxiv.org/abs/2604.06279v1)| null|
-|**2026-04-03**|**LogicPoison: Logical Attacks on Graph Retrieval-Augmented Generation**|[2604.02954v1](http://arxiv.org/abs/2604.02954v1)| **[code](https://github.com/Jord8061/logicPoison)**|
+|**2026-05-05**|**CuraView: A Multi-Agent Framework for Medical Hallucination Detection with GraphRAG-Enhanced Knowledge Verification**|[2605.03476v1](http://arxiv.org/abs/2605.03476v1)| null|
 
 ## graphrag
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-05-05**|**CuraView: A Multi-Agent Framework for Medical Hallucination Detection with GraphRAG-Enhanced Knowledge Verification**|[2605.03476v1](http://arxiv.org/abs/2605.03476v1)| null|
 |**2026-04-29**|**SAGE: A Strategy-Aware Graph-Enhanced Generation Framework For Online Counseling**|[2604.26630v1](http://arxiv.org/abs/2604.26630v1)| null|
 |**2026-04-28**|**RADD: Retrieval-Augmented Discrete Diffusion for Multi-Modal Knowledge Graph Completion**|[2604.25693v1](http://arxiv.org/abs/2604.25693v1)| null|
 |**2026-04-26**|**ComplianceNLP: Knowledge-Graph-Augmented RAG for Multi-Framework Regulatory Gap Detection**|[2604.23585v1](http://arxiv.org/abs/2604.23585v1)| null|
@@ -117,7 +100,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2026-01-12**|**GROKE: Vision-Free Navigation Instruction Evaluation via Graph Reasoning on OpenStreetMap**|[2601.07375v1](http://arxiv.org/abs/2601.07375v1)| **[code](https://anonymous.4open.science/r/groke)**|
 |**2026-01-12**|**Relink: Constructing Query-Driven Evidence Graph On-the-Fly for GraphRAG**|[2601.07192v1](http://arxiv.org/abs/2601.07192v1)| null|
 |**2026-01-09**|**Cumulative Path-Level Semantic Reasoning for Inductive Knowledge Graph Completion**|[2601.05629v1](http://arxiv.org/abs/2601.05629v1)| null|
-|**2026-01-12**|**TagRAG: Tag-guided Hierarchical Knowledge Graph Retrieval-Augmented Generation**|[2601.05254v2](http://arxiv.org/abs/2601.05254v2)| null|
+|**2026-05-02**|**TagRAG: Tag-guided Hierarchical Knowledge Graph Retrieval-Augmented Generation**|[2601.05254v3](http://arxiv.org/abs/2601.05254v3)| null|
 |**2026-01-08**|**Self-MedRAG: a Self-Reflective Hybrid Retrieval-Augmented Generation Framework for Reliable Medical Question Answering**|[2601.04531v1](http://arxiv.org/abs/2601.04531v1)| null|
 |**2026-01-01**|**Making Theft Useless: Adulteration-Based Protection of Proprietary Knowledge Graphs in GraphRAG Systems**|[2601.00274v1](http://arxiv.org/abs/2601.00274v1)| null|
 |**2026-03-26**|**From Evidence-Based Medicine to Knowledge Graph: Retrieval-Augmented Generation for Sports Rehabilitation and a Domain Benchmark**|[2601.00216v2](http://arxiv.org/abs/2601.00216v2)| null|
@@ -560,7 +543,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2024-03-04**|**Pre-trained Language Model with Prompts for Temporal Knowledge Graph Completion**|[2305.07912v2](http://arxiv.org/abs/2305.07912v2)| null|
 |**2023-09-20**|**ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion**|[2305.06395v3](http://arxiv.org/abs/2305.06395v3)| null|
 
-<p align=right>(<a href=#Updated-on-20260505>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260506>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/bansky-cl/graphrag-arxiv-daily-paper.svg?style=for-the-badge
 [contributors-url]: https://github.com/bansky-cl/graphrag-arxiv-daily-paper/graphs/contributors
