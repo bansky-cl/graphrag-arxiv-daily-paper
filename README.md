@@ -11,16 +11,22 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 
 ## Recent Month Summary (2026-05)
 
-**1 paper(s)** submitted in 2026-05.
+**4 paper(s)** submitted in 2026-05.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-05-06**|**CHE-TKG: Collaborative Historical Evidence and Evolutionary Dynamics Learning for Temporal Knowledge Graph Reasoning**|[2605.04652v1](http://arxiv.org/abs/2605.04652v1)| null|
+|**2026-05-06**|**Graph-Augmented LLMs for Swiss MP Ideology Prediction**|[2605.04643v1](http://arxiv.org/abs/2605.04643v1)| null|
+|**2026-05-06**|**GEM: Graph-Enhanced Mixture-of-Experts with ReAct Agents for Dialogue State Tracking**|[2605.04449v1](http://arxiv.org/abs/2605.04449v1)| null|
 |**2026-05-05**|**CuraView: A Multi-Agent Framework for Medical Hallucination Detection with GraphRAG-Enhanced Knowledge Verification**|[2605.03476v1](http://arxiv.org/abs/2605.03476v1)| null|
 
 ## graphrag
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-05-06**|**CHE-TKG: Collaborative Historical Evidence and Evolutionary Dynamics Learning for Temporal Knowledge Graph Reasoning**|[2605.04652v1](http://arxiv.org/abs/2605.04652v1)| null|
+|**2026-05-06**|**Graph-Augmented LLMs for Swiss MP Ideology Prediction**|[2605.04643v1](http://arxiv.org/abs/2605.04643v1)| null|
+|**2026-05-06**|**GEM: Graph-Enhanced Mixture-of-Experts with ReAct Agents for Dialogue State Tracking**|[2605.04449v1](http://arxiv.org/abs/2605.04449v1)| null|
 |**2026-05-05**|**CuraView: A Multi-Agent Framework for Medical Hallucination Detection with GraphRAG-Enhanced Knowledge Verification**|[2605.03476v1](http://arxiv.org/abs/2605.03476v1)| null|
 |**2026-04-29**|**SAGE: A Strategy-Aware Graph-Enhanced Generation Framework For Online Counseling**|[2604.26630v1](http://arxiv.org/abs/2604.26630v1)| null|
 |**2026-04-28**|**RADD: Retrieval-Augmented Discrete Diffusion for Multi-Modal Knowledge Graph Completion**|[2604.25693v1](http://arxiv.org/abs/2604.25693v1)| null|
