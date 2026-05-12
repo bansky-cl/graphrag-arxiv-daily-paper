@@ -5,16 +5,17 @@
 
 This repository tracks the latest GraphRAG related papers from arXiv.
 
-## Updated on 2026.05.11
+## Updated on 2026.05.12
 
 ![Monthly Trend](imgs/trend.png)
 
 ## Recent Month Summary (2026-05)
 
-**7 paper(s)** submitted in 2026-05.
+**8 paper(s)** submitted in 2026-05.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-05-11**|**EGL-SCA: Structural Credit Assignment for Co-Evolving Instructions and Tools in Graph Reasoning Agents**|[2605.10366v1](http://arxiv.org/abs/2605.10366v1)| null|
 |**2026-05-08**|**AdaTKG: Adaptive Memory for Temporal Knowledge Graph Reasoning**|[2605.07121v1](http://arxiv.org/abs/2605.07121v1)| **[code](https://github.com/seunghan96/AdaTKG)**|
 |**2026-05-07**|**Tatarstan Toponyms: A Bilingual Dataset and Hybrid RAG System for Geospatial Question Answering**|[2605.05962v1](http://arxiv.org/abs/2605.05962v1)| null|
 |**2026-05-07**|**Sheet as Token: A Graph-Enhanced Representation for Multi-Sheet Spreadsheet Understanding**|[2605.05811v1](http://arxiv.org/abs/2605.05811v1)| null|
@@ -27,6 +28,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-05-11**|**EGL-SCA: Structural Credit Assignment for Co-Evolving Instructions and Tools in Graph Reasoning Agents**|[2605.10366v1](http://arxiv.org/abs/2605.10366v1)| null|
 |**2026-05-08**|**AdaTKG: Adaptive Memory for Temporal Knowledge Graph Reasoning**|[2605.07121v1](http://arxiv.org/abs/2605.07121v1)| **[code](https://github.com/seunghan96/AdaTKG)**|
 |**2026-05-07**|**Tatarstan Toponyms: A Bilingual Dataset and Hybrid RAG System for Geospatial Question Answering**|[2605.05962v1](http://arxiv.org/abs/2605.05962v1)| null|
 |**2026-05-07**|**Sheet as Token: A Graph-Enhanced Representation for Multi-Sheet Spreadsheet Understanding**|[2605.05811v1](http://arxiv.org/abs/2605.05811v1)| null|
@@ -555,7 +557,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2024-03-04**|**Pre-trained Language Model with Prompts for Temporal Knowledge Graph Completion**|[2305.07912v2](http://arxiv.org/abs/2305.07912v2)| null|
 |**2023-09-20**|**ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion**|[2305.06395v3](http://arxiv.org/abs/2305.06395v3)| null|
 
-<p align=right>(<a href=#Updated-on-20260511>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260512>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/bansky-cl/graphrag-arxiv-daily-paper.svg?style=for-the-badge
 [contributors-url]: https://github.com/bansky-cl/graphrag-arxiv-daily-paper/graphs/contributors
