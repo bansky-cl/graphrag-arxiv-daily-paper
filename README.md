@@ -5,16 +5,17 @@
 
 This repository tracks the latest GraphRAG related papers from arXiv.
 
-## Updated on 2026.05.14
+## Updated on 2026.05.15
 
 ![Monthly Trend](imgs/trend.png)
 
 ## Recent Month Summary (2026-05)
 
-**12 paper(s)** submitted in 2026-05.
+**13 paper(s)** submitted in 2026-05.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-05-14**|**Why Neighborhoods Matter: Traversal Context and Provenance in Agentic GraphRAG**|[2605.15109v1](http://arxiv.org/abs/2605.15109v1)| null|
 |**2026-05-13**|**Strikingness-Aware Evaluation for Temporal Knowledge Graph Reasoning**|[2605.13153v1](http://arxiv.org/abs/2605.13153v1)| null|
 |**2026-03-31**|**Beyond Individual Mimicry: Constructing Human-Like Social network with Graph-Augmented LLM Agents**|[2605.12512v1](http://arxiv.org/abs/2605.12512v1)| null|
 |**2026-05-12**|**BadSKP: Backdoor Attacks on Knowledge Graph-Enhanced LLMs with Soft Prompts**|[2605.11996v1](http://arxiv.org/abs/2605.11996v1)| null|
@@ -32,6 +33,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-05-14**|**Why Neighborhoods Matter: Traversal Context and Provenance in Agentic GraphRAG**|[2605.15109v1](http://arxiv.org/abs/2605.15109v1)| null|
 |**2026-05-13**|**Strikingness-Aware Evaluation for Temporal Knowledge Graph Reasoning**|[2605.13153v1](http://arxiv.org/abs/2605.13153v1)| null|
 |**2026-03-31**|**Beyond Individual Mimicry: Constructing Human-Like Social network with Graph-Augmented LLM Agents**|[2605.12512v1](http://arxiv.org/abs/2605.12512v1)| null|
 |**2026-05-12**|**BadSKP: Backdoor Attacks on Knowledge Graph-Enhanced LLMs with Soft Prompts**|[2605.11996v1](http://arxiv.org/abs/2605.11996v1)| null|
@@ -95,7 +97,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2026-02-25**|**RABot: Reinforcement-Guided Graph Augmentation for Imbalanced and Noisy Social Bot Detection**|[2602.21749v1](http://arxiv.org/abs/2602.21749v1)| null|
 |**2026-02-24**|**HELP: HyperNode Expansion and Logical Path-Guided Evidence Localization for Accurate and Efficient GraphRAG**|[2602.20926v1](http://arxiv.org/abs/2602.20926v1)| null|
 |**2026-02-23**|**Temporal-Aware Heterogeneous Graph Reasoning with Multi-View Fusion for Temporal Question Answering**|[2602.19569v1](http://arxiv.org/abs/2602.19569v1)| null|
-|**2026-02-20**|**CUICurate: A GraphRAG-based Framework for Automated Clinical Concept Curation for NLP applications**|[2602.17949v1](http://arxiv.org/abs/2602.17949v1)| null|
+|**2026-05-14**|**CUICurate: A GraphRAG-based Framework for Automated Clinical Concept Curation for NLP applications**|[2602.17949v2](http://arxiv.org/abs/2602.17949v2)| null|
 |**2026-02-17**|**RUVA: Personalized Transparent On-Device Graph Reasoning**|[2602.15553v1](http://arxiv.org/abs/2602.15553v1)| **[code](http://sisinf00.poliba.it/ruva/)**|
 |**2026-02-16**|**LLM-Guided Knowledge Distillation for Temporal Knowledge Graph Reasoning**|[2602.14428v1](http://arxiv.org/abs/2602.14428v1)| null|
 |**2026-02-11**|**SynergyKGC: Reconciling Topological Heterogeneity in Knowledge Graph Completion via Topology-Aware Synergy**|[2602.10845v1](http://arxiv.org/abs/2602.10845v1)| null|
@@ -565,7 +567,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2024-03-04**|**Pre-trained Language Model with Prompts for Temporal Knowledge Graph Completion**|[2305.07912v2](http://arxiv.org/abs/2305.07912v2)| null|
 |**2023-09-20**|**ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion**|[2305.06395v3](http://arxiv.org/abs/2305.06395v3)| null|
 
-<p align=right>(<a href=#Updated-on-20260514>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260515>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/bansky-cl/graphrag-arxiv-daily-paper.svg?style=for-the-badge
 [contributors-url]: https://github.com/bansky-cl/graphrag-arxiv-daily-paper/graphs/contributors
