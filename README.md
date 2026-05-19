@@ -5,16 +5,17 @@
 
 This repository tracks the latest GraphRAG related papers from arXiv.
 
-## Updated on 2026.05.18
+## Updated on 2026.05.19
 
 ![Monthly Trend](imgs/trend.png)
 
 ## Recent Month Summary (2026-05)
 
-**13 paper(s)** submitted in 2026-05.
+**14 paper(s)** submitted in 2026-05.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-05-18**|**From Node2Vec to GPT-based GraphRAG: scientific impact prediction across graph and language models**|[2605.18410v1](http://arxiv.org/abs/2605.18410v1)| null|
 |**2026-05-14**|**Why Neighborhoods Matter: Traversal Context and Provenance in Agentic GraphRAG**|[2605.15109v1](http://arxiv.org/abs/2605.15109v1)| null|
 |**2026-05-13**|**Strikingness-Aware Evaluation for Temporal Knowledge Graph Reasoning**|[2605.13153v1](http://arxiv.org/abs/2605.13153v1)| null|
 |**2026-03-31**|**Beyond Individual Mimicry: Constructing Human-Like Social network with Graph-Augmented LLM Agents**|[2605.12512v1](http://arxiv.org/abs/2605.12512v1)| null|
@@ -33,6 +34,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-05-18**|**From Node2Vec to GPT-based GraphRAG: scientific impact prediction across graph and language models**|[2605.18410v1](http://arxiv.org/abs/2605.18410v1)| null|
 |**2026-05-14**|**Why Neighborhoods Matter: Traversal Context and Provenance in Agentic GraphRAG**|[2605.15109v1](http://arxiv.org/abs/2605.15109v1)| null|
 |**2026-05-13**|**Strikingness-Aware Evaluation for Temporal Knowledge Graph Reasoning**|[2605.13153v1](http://arxiv.org/abs/2605.13153v1)| null|
 |**2026-03-31**|**Beyond Individual Mimicry: Constructing Human-Like Social network with Graph-Augmented LLM Agents**|[2605.12512v1](http://arxiv.org/abs/2605.12512v1)| null|
@@ -567,7 +569,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2024-03-04**|**Pre-trained Language Model with Prompts for Temporal Knowledge Graph Completion**|[2305.07912v2](http://arxiv.org/abs/2305.07912v2)| null|
 |**2023-09-20**|**ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion**|[2305.06395v3](http://arxiv.org/abs/2305.06395v3)| null|
 
-<p align=right>(<a href=#Updated-on-20260518>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260519>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/bansky-cl/graphrag-arxiv-daily-paper.svg?style=for-the-badge
 [contributors-url]: https://github.com/bansky-cl/graphrag-arxiv-daily-paper/graphs/contributors
