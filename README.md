@@ -5,16 +5,18 @@
 
 This repository tracks the latest GraphRAG related papers from arXiv.
 
-## Updated on 2026.05.19
+## Updated on 2026.05.20
 
 ![Monthly Trend](imgs/trend.png)
 
 ## Recent Month Summary (2026-05)
 
-**14 paper(s)** submitted in 2026-05.
+**16 paper(s)** submitted in 2026-05.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-04-15**|**Agentic GraphRAG: Navigating Unstructured Financial Data with Collaborative AI**|[2605.18770v1](http://arxiv.org/abs/2605.18770v1)| null|
+|**2026-04-11**|**STAR: Semantic-Tuned and Tail-Adaptive Retriever for Graph-Augmented Generation**|[2605.18765v1](http://arxiv.org/abs/2605.18765v1)| **[code](https://anonymous.4open.science/r/STAR-C583)**|
 |**2026-05-18**|**From Node2Vec to GPT-based GraphRAG: scientific impact prediction across graph and language models**|[2605.18410v1](http://arxiv.org/abs/2605.18410v1)| null|
 |**2026-05-14**|**Why Neighborhoods Matter: Traversal Context and Provenance in Agentic GraphRAG**|[2605.15109v1](http://arxiv.org/abs/2605.15109v1)| null|
 |**2026-05-13**|**Strikingness-Aware Evaluation for Temporal Knowledge Graph Reasoning**|[2605.13153v1](http://arxiv.org/abs/2605.13153v1)| null|
@@ -34,6 +36,8 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-04-15**|**Agentic GraphRAG: Navigating Unstructured Financial Data with Collaborative AI**|[2605.18770v1](http://arxiv.org/abs/2605.18770v1)| null|
+|**2026-04-11**|**STAR: Semantic-Tuned and Tail-Adaptive Retriever for Graph-Augmented Generation**|[2605.18765v1](http://arxiv.org/abs/2605.18765v1)| **[code](https://anonymous.4open.science/r/STAR-C583)**|
 |**2026-05-18**|**From Node2Vec to GPT-based GraphRAG: scientific impact prediction across graph and language models**|[2605.18410v1](http://arxiv.org/abs/2605.18410v1)| null|
 |**2026-05-14**|**Why Neighborhoods Matter: Traversal Context and Provenance in Agentic GraphRAG**|[2605.15109v1](http://arxiv.org/abs/2605.15109v1)| null|
 |**2026-05-13**|**Strikingness-Aware Evaluation for Temporal Knowledge Graph Reasoning**|[2605.13153v1](http://arxiv.org/abs/2605.13153v1)| null|
@@ -79,7 +83,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2026-03-11**|**FinReflectKG -- HalluBench: GraphRAG Hallucination Benchmark for Financial Question Answering Systems**|[2603.20252v1](http://arxiv.org/abs/2603.20252v1)| null|
 |**2026-02-28**|**From Flat to Structural: Enhancing Automated Short Answer Grading with GraphRAG**|[2603.19276v1](http://arxiv.org/abs/2603.19276v1)| null|
 |**2026-02-27**|**Reviewing the Reviewer: Graph-Enhanced LLMs for E-commerce Appeal Adjudication**|[2603.19267v1](http://arxiv.org/abs/2603.19267v1)| null|
-|**2026-03-16**|**Mitigating KG Quality Issues: A Robust Multi-Hop GraphRAG Retrieval Framework**|[2603.14828v1](http://arxiv.org/abs/2603.14828v1)| null|
+|**2026-05-19**|**Toward Robust GraphRAG: Mitigating Retrieval Drift and Hallucination from Imperfect Knowledge Graphs**|[2603.14828v2](http://arxiv.org/abs/2603.14828v2)| **[code](https://github.com/myz12138/CS-RAG/)**|
 |**2026-03-18**|**The Reasoning Bottleneck in Graph-RAG: Structured Prompting and Context Compression for Multi-Hop QA**|[2603.14045v2](http://arxiv.org/abs/2603.14045v2)| null|
 |**2026-03-03**|**Suppressing Domain-Specific Hallucination in Construction LLMs: A Knowledge Graph Foundation for GraphRAG and QLoRA on River and Sediment Control Technical Standards**|[2603.13307v1](http://arxiv.org/abs/2603.13307v1)| null|
 |**2026-02-25**|**Federated Personal Knowledge Graph Completion with Lightweight Large Language Models for Personalized Recommendations**|[2603.13264v1](http://arxiv.org/abs/2603.13264v1)| null|
@@ -569,7 +573,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2024-03-04**|**Pre-trained Language Model with Prompts for Temporal Knowledge Graph Completion**|[2305.07912v2](http://arxiv.org/abs/2305.07912v2)| null|
 |**2023-09-20**|**ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion**|[2305.06395v3](http://arxiv.org/abs/2305.06395v3)| null|
 
-<p align=right>(<a href=#Updated-on-20260519>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260520>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/bansky-cl/graphrag-arxiv-daily-paper.svg?style=for-the-badge
 [contributors-url]: https://github.com/bansky-cl/graphrag-arxiv-daily-paper/graphs/contributors
