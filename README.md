@@ -5,7 +5,7 @@
 
 This repository tracks the latest GraphRAG related papers from arXiv.
 
-## Updated on 2026.05.24
+## Updated on 2026.05.25
 
 ![Monthly Trend](imgs/trend.png)
 
@@ -187,7 +187,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2025-10-24**|**SUBQRAG: Sub-Question Driven Dynamic Graph RAG**|[2510.07718v2](http://arxiv.org/abs/2510.07718v2)| null|
 |**2025-10-03**|**StepChain GraphRAG: Reasoning Over Knowledge Graphs for Multi-Hop Question Answering**|[2510.02827v1](http://arxiv.org/abs/2510.02827v1)| null|
 |**2026-01-12**|**SLogic: Subgraph-Informed Logical Rule Learning for Knowledge Graph Completion**|[2510.00279v2](http://arxiv.org/abs/2510.00279v2)| null|
-|**2026-01-27**|**Efficient and Transferable Agentic Knowledge Graph RAG via Reinforcement Learning**|[2509.26383v4](http://arxiv.org/abs/2509.26383v4)| **[code](https://github.com/Jinyeop3110/KG-R1)**|
+|**2026-05-22**|**Efficient and Transferable Agentic Knowledge Graph RAG via Reinforcement Learning**|[2509.26383v5](http://arxiv.org/abs/2509.26383v5)| null|
 |**2025-09-29**|**Beyond Static Retrieval: Opportunities and Pitfalls of Iterative Retrieval in GraphRAG**|[2509.25530v1](http://arxiv.org/abs/2509.25530v1)| null|
 |**2025-09-29**|**GESA: Graph-Enhanced Semantic Allocation for Generalized, Fair, and Explainable Candidate-Role Matching**|[2509.25435v1](http://arxiv.org/abs/2509.25435v1)| null|
 |**2025-09-27**|**RANGER -- Repository-Level Agent for Graph-Enhanced Retrieval**|[2509.25257v1](http://arxiv.org/abs/2509.25257v1)| null|
@@ -577,7 +577,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2024-03-04**|**Pre-trained Language Model with Prompts for Temporal Knowledge Graph Completion**|[2305.07912v2](http://arxiv.org/abs/2305.07912v2)| null|
 |**2023-09-20**|**ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion**|[2305.06395v3](http://arxiv.org/abs/2305.06395v3)| null|
 
-<p align=right>(<a href=#Updated-on-20260524>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260525>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/bansky-cl/graphrag-arxiv-daily-paper.svg?style=for-the-badge
 [contributors-url]: https://github.com/bansky-cl/graphrag-arxiv-daily-paper/graphs/contributors
