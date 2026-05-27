@@ -5,16 +5,19 @@
 
 This repository tracks the latest GraphRAG related papers from arXiv.
 
-## Updated on 2026.05.26
+## Updated on 2026.05.27
 
 ![Monthly Trend](imgs/trend.png)
 
 ## Recent Month Summary (2026-05)
 
-**18 paper(s)** submitted in 2026-05.
+**21 paper(s)** submitted in 2026-05.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-05-26**|**Traceable Knowledge Graph Reasoning Enables LLM-Assisted Decision Support for Industrial VOCs in the Steel Industry**|[2605.27071v1](http://arxiv.org/abs/2605.27071v1)| null|
+|**2026-05-26**|**Generating Logically Consistent Synthetic Supply Chain Data with LLM-Driven Knowledge Graph Reasoning**|[2605.26823v1](http://arxiv.org/abs/2605.26823v1)| null|
+|**2026-05-26**|**RAGEAR: Retrieval-Augmented Graph-Enhanced Academic Recommender**|[2605.26819v1](http://arxiv.org/abs/2605.26819v1)| null|
 |**2026-05-21**|**Ex-GraphRAG: Interpretable Evidence Routing for Graph-Augmented LLMs**|[2605.21994v1](http://arxiv.org/abs/2605.21994v1)| null|
 |**2026-05-20**|**GraphRAG on Consumer Hardware: Benchmarking Local LLMs for Healthcare EHR Schema Retrieval**|[2605.20815v1](http://arxiv.org/abs/2605.20815v1)| null|
 |**2026-04-15**|**Agentic GraphRAG: Navigating Unstructured Financial Data with Collaborative AI**|[2605.18770v1](http://arxiv.org/abs/2605.18770v1)| null|
@@ -38,6 +41,9 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-05-26**|**Traceable Knowledge Graph Reasoning Enables LLM-Assisted Decision Support for Industrial VOCs in the Steel Industry**|[2605.27071v1](http://arxiv.org/abs/2605.27071v1)| null|
+|**2026-05-26**|**Generating Logically Consistent Synthetic Supply Chain Data with LLM-Driven Knowledge Graph Reasoning**|[2605.26823v1](http://arxiv.org/abs/2605.26823v1)| null|
+|**2026-05-26**|**RAGEAR: Retrieval-Augmented Graph-Enhanced Academic Recommender**|[2605.26819v1](http://arxiv.org/abs/2605.26819v1)| null|
 |**2026-05-21**|**Ex-GraphRAG: Interpretable Evidence Routing for Graph-Augmented LLMs**|[2605.21994v1](http://arxiv.org/abs/2605.21994v1)| null|
 |**2026-05-20**|**GraphRAG on Consumer Hardware: Benchmarking Local LLMs for Healthcare EHR Schema Retrieval**|[2605.20815v1](http://arxiv.org/abs/2605.20815v1)| null|
 |**2026-04-15**|**Agentic GraphRAG: Navigating Unstructured Financial Data with Collaborative AI**|[2605.18770v1](http://arxiv.org/abs/2605.18770v1)| null|
@@ -79,7 +85,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2026-03-31**|**iPoster: Content-Aware Layout Generation for Interactive Poster Design via Graph-Enhanced Diffusion Models**|[2603.29469v1](http://arxiv.org/abs/2603.29469v1)| null|
 |**2026-01-28**|**UltRAG: a Universal Simple Scalable Recipe for Knowledge Graph RAG**|[2603.28773v1](http://arxiv.org/abs/2603.28773v1)| null|
 |**2026-05-13**|**GAAMA: Graph Augmented Associative Memory for Agents**|[2603.27910v2](http://arxiv.org/abs/2603.27910v2)| null|
-|**2026-03-31**|**UniAI-GraphRAG: Synergizing Ontology-Guided Extraction, Multi-Dimensional Clustering, and Dual-Channel Fusion for Robust Multi-Hop Reasoning**|[2603.25152v2](http://arxiv.org/abs/2603.25152v2)| **[code](https://github.com/UnicomAI/wanwu/tree/main/rag/rag_open_source/rag_core/graph)**|
+|**2026-05-26**|**OMD-GraphRAG: Enhancing GraphRAG with Ontology-Guided Extraction, Multi-Dimensional Clustering and Dual-Channel Fusion**|[2603.25152v3](http://arxiv.org/abs/2603.25152v3)| null|
 |**2026-03-25**|**Hierarchical Spatial-Temporal Graph-Enhanced Model for Map-Matching**|[2603.24054v1](http://arxiv.org/abs/2603.24054v1)| **[code](https://github.com/Nerooo-g/HSTGMatch)**|
 |**2026-03-23**|**GraphRAG for Engineering Diagrams: ChatP&ID Enables LLM Interaction with P&IDs**|[2603.22528v1](http://arxiv.org/abs/2603.22528v1)| null|
 |**2026-03-21**|**Graphs RAG at Scale: Beyond Retrieval-Augmented Generation With Labeled Property Graphs and Resource Description Framework for Complex and Unknown Search Spaces**|[2603.22340v1](http://arxiv.org/abs/2603.22340v1)| null|
@@ -577,7 +583,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2024-03-04**|**Pre-trained Language Model with Prompts for Temporal Knowledge Graph Completion**|[2305.07912v2](http://arxiv.org/abs/2305.07912v2)| null|
 |**2023-09-20**|**ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion**|[2305.06395v3](http://arxiv.org/abs/2305.06395v3)| null|
 
-<p align=right>(<a href=#Updated-on-20260526>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260527>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/bansky-cl/graphrag-arxiv-daily-paper.svg?style=for-the-badge
 [contributors-url]: https://github.com/bansky-cl/graphrag-arxiv-daily-paper/graphs/contributors
