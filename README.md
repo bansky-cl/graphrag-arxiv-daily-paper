@@ -5,16 +5,20 @@
 
 This repository tracks the latest GraphRAG related papers from arXiv.
 
-## Updated on 2026.05.27
+## Updated on 2026.05.28
 
 ![Monthly Trend](imgs/trend.png)
 
 ## Recent Month Summary (2026-05)
 
-**21 paper(s)** submitted in 2026-05.
+**25 paper(s)** submitted in 2026-05.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-05-27**|**GraphSteal: Structural Knowledge Stealing from Graph RAG via Traversal Reconstruction**|[2605.28645v1](http://arxiv.org/abs/2605.28645v1)| null|
+|**2026-05-27**|**Mixture-of-Experts Knowledge Graph Retrieval-Augmented Generation for Multi-Agent LLM-based Recommendation**|[2605.28175v1](http://arxiv.org/abs/2605.28175v1)| null|
+|**2026-05-27**|**LegalGraphRAG: Multi-Agent Graph Retrieval-Augmented Generation for Reliable Legal Reasoning**|[2605.28120v1](http://arxiv.org/abs/2605.28120v1)| **[code](https://github.com/XMUDeepLIT/LegalGraphRAG)**|
+|**2026-05-27**|**Beyond Chunk-Local Extraction: Cross-Chunk Graph Augmentation for GraphRAG**|[2605.28004v1](http://arxiv.org/abs/2605.28004v1)| **[code](https://github.com/DonFinliani/CrossAug)**|
 |**2026-05-26**|**Traceable Knowledge Graph Reasoning Enables LLM-Assisted Decision Support for Industrial VOCs in the Steel Industry**|[2605.27071v1](http://arxiv.org/abs/2605.27071v1)| null|
 |**2026-05-26**|**Generating Logically Consistent Synthetic Supply Chain Data with LLM-Driven Knowledge Graph Reasoning**|[2605.26823v1](http://arxiv.org/abs/2605.26823v1)| null|
 |**2026-05-26**|**RAGEAR: Retrieval-Augmented Graph-Enhanced Academic Recommender**|[2605.26819v1](http://arxiv.org/abs/2605.26819v1)| null|
@@ -41,6 +45,10 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-05-27**|**GraphSteal: Structural Knowledge Stealing from Graph RAG via Traversal Reconstruction**|[2605.28645v1](http://arxiv.org/abs/2605.28645v1)| null|
+|**2026-05-27**|**Mixture-of-Experts Knowledge Graph Retrieval-Augmented Generation for Multi-Agent LLM-based Recommendation**|[2605.28175v1](http://arxiv.org/abs/2605.28175v1)| null|
+|**2026-05-27**|**LegalGraphRAG: Multi-Agent Graph Retrieval-Augmented Generation for Reliable Legal Reasoning**|[2605.28120v1](http://arxiv.org/abs/2605.28120v1)| **[code](https://github.com/XMUDeepLIT/LegalGraphRAG)**|
+|**2026-05-27**|**Beyond Chunk-Local Extraction: Cross-Chunk Graph Augmentation for GraphRAG**|[2605.28004v1](http://arxiv.org/abs/2605.28004v1)| **[code](https://github.com/DonFinliani/CrossAug)**|
 |**2026-05-26**|**Traceable Knowledge Graph Reasoning Enables LLM-Assisted Decision Support for Industrial VOCs in the Steel Industry**|[2605.27071v1](http://arxiv.org/abs/2605.27071v1)| null|
 |**2026-05-26**|**Generating Logically Consistent Synthetic Supply Chain Data with LLM-Driven Knowledge Graph Reasoning**|[2605.26823v1](http://arxiv.org/abs/2605.26823v1)| null|
 |**2026-05-26**|**RAGEAR: Retrieval-Augmented Graph-Enhanced Academic Recommender**|[2605.26819v1](http://arxiv.org/abs/2605.26819v1)| null|
@@ -583,7 +591,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2024-03-04**|**Pre-trained Language Model with Prompts for Temporal Knowledge Graph Completion**|[2305.07912v2](http://arxiv.org/abs/2305.07912v2)| null|
 |**2023-09-20**|**ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion**|[2305.06395v3](http://arxiv.org/abs/2305.06395v3)| null|
 
-<p align=right>(<a href=#Updated-on-20260527>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260528>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/bansky-cl/graphrag-arxiv-daily-paper.svg?style=for-the-badge
 [contributors-url]: https://github.com/bansky-cl/graphrag-arxiv-daily-paper/graphs/contributors
