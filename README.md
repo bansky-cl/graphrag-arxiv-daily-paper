@@ -5,7 +5,7 @@
 
 This repository tracks the latest GraphRAG related papers from arXiv.
 
-## Updated on 2026.05.28
+## Updated on 2026.05.29
 
 ![Monthly Trend](imgs/trend.png)
 
@@ -185,7 +185,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2025-11-04**|**Knowledge Graph-enhanced Large Language Model for Incremental Game PlayTesting**|[2511.02534v1](http://arxiv.org/abs/2511.02534v1)| null|
 |**2025-11-03**|**PROPEX-RAG: Enhanced GraphRAG using Prompt-Driven Prompt Execution**|[2511.01802v1](http://arxiv.org/abs/2511.01802v1)| null|
 |**2025-11-17**|**Hybrid Retrieval-Augmented Generation Agent for Trustworthy Legal Question Answering in Judicial Forensics**|[2511.01668v2](http://arxiv.org/abs/2511.01668v2)| null|
-|**2025-10-30**|**Graph-Enhanced Policy Optimization in LLM Agent Training**|[2510.26270v1](http://arxiv.org/abs/2510.26270v1)| null|
+|**2026-05-28**|**Graph-Enhanced Policy Optimization in LLM Agent Training**|[2510.26270v2](http://arxiv.org/abs/2510.26270v2)| null|
 |**2025-11-25**|**AirFed: A Federated Graph-Enhanced Multi-Agent Reinforcement Learning Framework for Multi-UAV Cooperative Mobile Edge Computing**|[2510.23053v2](http://arxiv.org/abs/2510.23053v2)| null|
 |**2026-01-21**|**Conjugate Relation Modeling for Few-Shot Knowledge Graph Completion**|[2510.22656v2](http://arxiv.org/abs/2510.22656v2)| null|
 |**2026-01-06**|**ELMM: Efficient Lightweight Multimodal Large Language Models for Multimodal Knowledge Graph Completion**|[2510.16753v2](http://arxiv.org/abs/2510.16753v2)| null|
@@ -591,7 +591,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2024-03-04**|**Pre-trained Language Model with Prompts for Temporal Knowledge Graph Completion**|[2305.07912v2](http://arxiv.org/abs/2305.07912v2)| null|
 |**2023-09-20**|**ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion**|[2305.06395v3](http://arxiv.org/abs/2305.06395v3)| null|
 
-<p align=right>(<a href=#Updated-on-20260528>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260529>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/bansky-cl/graphrag-arxiv-daily-paper.svg?style=for-the-badge
 [contributors-url]: https://github.com/bansky-cl/graphrag-arxiv-daily-paper/graphs/contributors
