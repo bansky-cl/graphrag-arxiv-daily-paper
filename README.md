@@ -11,12 +11,14 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 
 ## Recent Month Summary (2026-05)
 
-**25 paper(s)** submitted in 2026-05.
+**27 paper(s)** submitted in 2026-05.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-05-29**|**Generating Graph-like Rules for Knowledge Graph Reasoning via Diffusion Models**|[2605.30747v1](http://arxiv.org/abs/2605.30747v1)| **[code](https://github.com/Haoxiang-Cheng/GRiD)**|
+|**2026-05-28**|**Knowledge Graph-Enhanced Zero-Shot Topic Classification: A Multi-Strategy Comparative Study**|[2605.30465v1](http://arxiv.org/abs/2605.30465v1)| null|
 |**2026-05-27**|**GraphSteal: Structural Knowledge Stealing from Graph RAG via Traversal Reconstruction**|[2605.28645v1](http://arxiv.org/abs/2605.28645v1)| null|
-|**2026-05-27**|**Mixture-of-Experts Knowledge Graph Retrieval-Augmented Generation for Multi-Agent LLM-based Recommendation**|[2605.28175v1](http://arxiv.org/abs/2605.28175v1)| null|
+|**2026-05-29**|**Mixture-of-Experts Knowledge Graph Retrieval-Augmented Generation for Multi-Agent LLM-based Recommendation**|[2605.28175v2](http://arxiv.org/abs/2605.28175v2)| null|
 |**2026-05-27**|**LegalGraphRAG: Multi-Agent Graph Retrieval-Augmented Generation for Reliable Legal Reasoning**|[2605.28120v1](http://arxiv.org/abs/2605.28120v1)| **[code](https://github.com/XMUDeepLIT/LegalGraphRAG)**|
 |**2026-05-27**|**Beyond Chunk-Local Extraction: Cross-Chunk Graph Augmentation for GraphRAG**|[2605.28004v1](http://arxiv.org/abs/2605.28004v1)| **[code](https://github.com/DonFinliani/CrossAug)**|
 |**2026-05-26**|**Traceable Knowledge Graph Reasoning Enables LLM-Assisted Decision Support for Industrial VOCs in the Steel Industry**|[2605.27071v1](http://arxiv.org/abs/2605.27071v1)| null|
@@ -45,8 +47,10 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-05-29**|**Generating Graph-like Rules for Knowledge Graph Reasoning via Diffusion Models**|[2605.30747v1](http://arxiv.org/abs/2605.30747v1)| **[code](https://github.com/Haoxiang-Cheng/GRiD)**|
+|**2026-05-28**|**Knowledge Graph-Enhanced Zero-Shot Topic Classification: A Multi-Strategy Comparative Study**|[2605.30465v1](http://arxiv.org/abs/2605.30465v1)| null|
 |**2026-05-27**|**GraphSteal: Structural Knowledge Stealing from Graph RAG via Traversal Reconstruction**|[2605.28645v1](http://arxiv.org/abs/2605.28645v1)| null|
-|**2026-05-27**|**Mixture-of-Experts Knowledge Graph Retrieval-Augmented Generation for Multi-Agent LLM-based Recommendation**|[2605.28175v1](http://arxiv.org/abs/2605.28175v1)| null|
+|**2026-05-29**|**Mixture-of-Experts Knowledge Graph Retrieval-Augmented Generation for Multi-Agent LLM-based Recommendation**|[2605.28175v2](http://arxiv.org/abs/2605.28175v2)| null|
 |**2026-05-27**|**LegalGraphRAG: Multi-Agent Graph Retrieval-Augmented Generation for Reliable Legal Reasoning**|[2605.28120v1](http://arxiv.org/abs/2605.28120v1)| **[code](https://github.com/XMUDeepLIT/LegalGraphRAG)**|
 |**2026-05-27**|**Beyond Chunk-Local Extraction: Cross-Chunk Graph Augmentation for GraphRAG**|[2605.28004v1](http://arxiv.org/abs/2605.28004v1)| **[code](https://github.com/DonFinliani/CrossAug)**|
 |**2026-05-26**|**Traceable Knowledge Graph Reasoning Enables LLM-Assisted Decision Support for Industrial VOCs in the Steel Industry**|[2605.27071v1](http://arxiv.org/abs/2605.27071v1)| null|
