@@ -5,48 +5,31 @@
 
 This repository tracks the latest GraphRAG related papers from arXiv.
 
-## Updated on 2026.06.01
+## Updated on 2026.06.02
 
 ![Monthly Trend](imgs/trend.png)
 
-## Recent Month Summary (2026-05)
+## Recent Month Summary (2026-06)
 
-**27 paper(s)** submitted in 2026-05.
+**5 paper(s)** submitted in 2026-06.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
-|**2026-05-29**|**Generating Graph-like Rules for Knowledge Graph Reasoning via Diffusion Models**|[2605.30747v1](http://arxiv.org/abs/2605.30747v1)| **[code](https://github.com/Haoxiang-Cheng/GRiD)**|
-|**2026-05-28**|**Knowledge Graph-Enhanced Zero-Shot Topic Classification: A Multi-Strategy Comparative Study**|[2605.30465v1](http://arxiv.org/abs/2605.30465v1)| null|
-|**2026-05-27**|**GraphSteal: Structural Knowledge Stealing from Graph RAG via Traversal Reconstruction**|[2605.28645v1](http://arxiv.org/abs/2605.28645v1)| null|
-|**2026-05-29**|**Mixture-of-Experts Knowledge Graph Retrieval-Augmented Generation for Multi-Agent LLM-based Recommendation**|[2605.28175v2](http://arxiv.org/abs/2605.28175v2)| null|
-|**2026-05-27**|**LegalGraphRAG: Multi-Agent Graph Retrieval-Augmented Generation for Reliable Legal Reasoning**|[2605.28120v1](http://arxiv.org/abs/2605.28120v1)| **[code](https://github.com/XMUDeepLIT/LegalGraphRAG)**|
-|**2026-05-27**|**Beyond Chunk-Local Extraction: Cross-Chunk Graph Augmentation for GraphRAG**|[2605.28004v1](http://arxiv.org/abs/2605.28004v1)| **[code](https://github.com/DonFinliani/CrossAug)**|
-|**2026-05-26**|**Traceable Knowledge Graph Reasoning Enables LLM-Assisted Decision Support for Industrial VOCs in the Steel Industry**|[2605.27071v1](http://arxiv.org/abs/2605.27071v1)| null|
-|**2026-05-26**|**Generating Logically Consistent Synthetic Supply Chain Data with LLM-Driven Knowledge Graph Reasoning**|[2605.26823v1](http://arxiv.org/abs/2605.26823v1)| null|
-|**2026-05-26**|**RAGEAR: Retrieval-Augmented Graph-Enhanced Academic Recommender**|[2605.26819v1](http://arxiv.org/abs/2605.26819v1)| null|
-|**2026-05-21**|**Ex-GraphRAG: Interpretable Evidence Routing for Graph-Augmented LLMs**|[2605.21994v1](http://arxiv.org/abs/2605.21994v1)| null|
-|**2026-05-20**|**GraphRAG on Consumer Hardware: Benchmarking Local LLMs for Healthcare EHR Schema Retrieval**|[2605.20815v1](http://arxiv.org/abs/2605.20815v1)| null|
-|**2026-04-15**|**Agentic GraphRAG: Navigating Unstructured Financial Data with Collaborative AI**|[2605.18770v1](http://arxiv.org/abs/2605.18770v1)| null|
-|**2026-04-11**|**STAR: Semantic-Tuned and Tail-Adaptive Retriever for Graph-Augmented Generation**|[2605.18765v1](http://arxiv.org/abs/2605.18765v1)| **[code](https://anonymous.4open.science/r/STAR-C583)**|
-|**2026-05-18**|**From Node2Vec to GPT-based GraphRAG: scientific impact prediction across graph and language models**|[2605.18410v1](http://arxiv.org/abs/2605.18410v1)| null|
-|**2026-05-14**|**Why Neighborhoods Matter: Traversal Context and Provenance in Agentic GraphRAG**|[2605.15109v1](http://arxiv.org/abs/2605.15109v1)| null|
-|**2026-05-13**|**Strikingness-Aware Evaluation for Temporal Knowledge Graph Reasoning**|[2605.13153v1](http://arxiv.org/abs/2605.13153v1)| null|
-|**2026-03-31**|**Beyond Individual Mimicry: Constructing Human-Like Social network with Graph-Augmented LLM Agents**|[2605.12512v1](http://arxiv.org/abs/2605.12512v1)| null|
-|**2026-05-12**|**BadSKP: Backdoor Attacks on Knowledge Graph-Enhanced LLMs with Soft Prompts**|[2605.11996v1](http://arxiv.org/abs/2605.11996v1)| null|
-|**2026-05-11**|**CORE: Cyclic Orthotope Relation Embedding for Knowledge Graph Completion**|[2605.11159v1](http://arxiv.org/abs/2605.11159v1)| null|
-|**2026-05-11**|**EGL-SCA: Structural Credit Assignment for Co-Evolving Instructions and Tools in Graph Reasoning Agents**|[2605.10366v1](http://arxiv.org/abs/2605.10366v1)| null|
-|**2026-05-08**|**AdaTKG: Adaptive Memory for Temporal Knowledge Graph Reasoning**|[2605.07121v1](http://arxiv.org/abs/2605.07121v1)| **[code](https://github.com/seunghan96/AdaTKG)**|
-|**2026-05-07**|**Tatarstan Toponyms: A Bilingual Dataset and Hybrid RAG System for Geospatial Question Answering**|[2605.05962v1](http://arxiv.org/abs/2605.05962v1)| null|
-|**2026-05-07**|**Sheet as Token: A Graph-Enhanced Representation for Multi-Sheet Spreadsheet Understanding**|[2605.05811v1](http://arxiv.org/abs/2605.05811v1)| null|
-|**2026-05-06**|**CHE-TKG: Collaborative Historical Evidence and Evolutionary Dynamics Learning for Temporal Knowledge Graph Reasoning**|[2605.04652v1](http://arxiv.org/abs/2605.04652v1)| null|
-|**2026-05-06**|**Graph-Augmented LLMs for Swiss MP Ideology Prediction**|[2605.04643v1](http://arxiv.org/abs/2605.04643v1)| null|
-|**2026-05-06**|**GEM: Graph-Enhanced Mixture-of-Experts with ReAct Agents for Dialogue State Tracking**|[2605.04449v1](http://arxiv.org/abs/2605.04449v1)| null|
-|**2026-05-05**|**CuraView: A Multi-Agent Framework for Medical Hallucination Detection with GraphRAG-Enhanced Knowledge Verification**|[2605.03476v1](http://arxiv.org/abs/2605.03476v1)| null|
+|**2026-06-01**|**TechGraphRAG: An Agentic Graph-Augmented RAG Framework for Technical Literature Reasoning**|[2606.01613v1](http://arxiv.org/abs/2606.01613v1)| null|
+|**2026-05-31**|**UniD$^3$: A Knowledge Graph-Enhanced RAG Framework for Drug-Disease Discovery and Reasoning**|[2606.01394v1](http://arxiv.org/abs/2606.01394v1)| null|
+|**2026-05-30**|**MemGraphRAG: Memory-based Multi-Agent System for Graph Retrieval-Augmented Generation**|[2606.00610v1](http://arxiv.org/abs/2606.00610v1)| **[code](https://github.com/XMUDeepLIT/MemGraphRAG)**|
+|**2026-05-30**|**EnergyMamba: An Uncertainty-Aware Graph-Enhanced Selective State Space Model for Energy Consumption Prediction**|[2606.00506v1](http://arxiv.org/abs/2606.00506v1)| null|
+|**2026-05-19**|**Graph-Augmented Retrieval for Cross-Entity Financial Sentiment Analysis: A Comparative Study**|[2606.00062v1](http://arxiv.org/abs/2606.00062v1)| null|
 
 ## graphrag
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-06-01**|**TechGraphRAG: An Agentic Graph-Augmented RAG Framework for Technical Literature Reasoning**|[2606.01613v1](http://arxiv.org/abs/2606.01613v1)| null|
+|**2026-05-31**|**UniD$^3$: A Knowledge Graph-Enhanced RAG Framework for Drug-Disease Discovery and Reasoning**|[2606.01394v1](http://arxiv.org/abs/2606.01394v1)| null|
+|**2026-05-30**|**MemGraphRAG: Memory-based Multi-Agent System for Graph Retrieval-Augmented Generation**|[2606.00610v1](http://arxiv.org/abs/2606.00610v1)| **[code](https://github.com/XMUDeepLIT/MemGraphRAG)**|
+|**2026-05-30**|**EnergyMamba: An Uncertainty-Aware Graph-Enhanced Selective State Space Model for Energy Consumption Prediction**|[2606.00506v1](http://arxiv.org/abs/2606.00506v1)| null|
+|**2026-05-19**|**Graph-Augmented Retrieval for Cross-Entity Financial Sentiment Analysis: A Comparative Study**|[2606.00062v1](http://arxiv.org/abs/2606.00062v1)| null|
 |**2026-05-29**|**Generating Graph-like Rules for Knowledge Graph Reasoning via Diffusion Models**|[2605.30747v1](http://arxiv.org/abs/2605.30747v1)| **[code](https://github.com/Haoxiang-Cheng/GRiD)**|
 |**2026-05-28**|**Knowledge Graph-Enhanced Zero-Shot Topic Classification: A Multi-Strategy Comparative Study**|[2605.30465v1](http://arxiv.org/abs/2605.30465v1)| null|
 |**2026-05-27**|**GraphSteal: Structural Knowledge Stealing from Graph RAG via Traversal Reconstruction**|[2605.28645v1](http://arxiv.org/abs/2605.28645v1)| null|
@@ -595,7 +578,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2024-03-04**|**Pre-trained Language Model with Prompts for Temporal Knowledge Graph Completion**|[2305.07912v2](http://arxiv.org/abs/2305.07912v2)| null|
 |**2023-09-20**|**ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion**|[2305.06395v3](http://arxiv.org/abs/2305.06395v3)| null|
 
-<p align=right>(<a href=#Updated-on-20260601>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260602>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/bansky-cl/graphrag-arxiv-daily-paper.svg?style=for-the-badge
 [contributors-url]: https://github.com/bansky-cl/graphrag-arxiv-daily-paper/graphs/contributors
