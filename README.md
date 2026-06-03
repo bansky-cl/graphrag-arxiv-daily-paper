@@ -97,7 +97,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2026-03-08**|**KCoEvo: A Knowledge Graph Augmented Framework for Evolutionary Code Generation**|[2603.07581v1](http://arxiv.org/abs/2603.07581v1)| **[code](https://github.com/kangjz1203/KCoEvo)**|
 |**2026-03-07**|**Retrieving Minimal and Sufficient Reasoning Subgraphs with Graph Foundation Models for Path-aware GraphRAG**|[2603.07179v1](http://arxiv.org/abs/2603.07179v1)| null|
 |**2026-02-20**|**GraphSkill: Documentation-Guided Hierarchical Retrieval-Augmented Coding for Complex Graph Reasoning**|[2603.06620v1](http://arxiv.org/abs/2603.06620v1)| **[code](https://github.com/FairyFali/GraphSkill}{\textcolor{blue}{https://github.com/FairyFali/GraphSkill}}.})**|
-|**2026-03-05**|**Core-based Hierarchies for Efficient GraphRAG**|[2603.05207v1](http://arxiv.org/abs/2603.05207v1)| null|
+|**2026-06-02**|**Core-based Hierarchies for Efficient GraphRAG**|[2603.05207v2](http://arxiv.org/abs/2603.05207v2)| null|
 |**2026-04-15**|**GraphScout: Empowering Large Language Models with Intrinsic Exploration Ability for Agentic Graph Reasoning**|[2603.01410v2](http://arxiv.org/abs/2603.01410v2)| **[code](https://github.com/Ying-Yuchen/_GraphScout_})**|
 |**2026-03-01**|**Linking Knowledge to Care: Knowledge Graph-Augmented Medical Follow-Up Question Generation**|[2603.01252v1](http://arxiv.org/abs/2603.01252v1)| null|
 |**2026-02-28**|**MED-COPILOT: A Medical Assistant Powered by GraphRAG and Similar Patient Case Retrieval**|[2603.00460v1](http://arxiv.org/abs/2603.00460v1)| **[code](https://huggingface.co/spaces/Cryo3978/Med_GraphRAG)**|
