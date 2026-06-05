@@ -5,16 +5,18 @@
 
 This repository tracks the latest GraphRAG related papers from arXiv.
 
-## Updated on 2026.06.04
+## Updated on 2026.06.05
 
 ![Monthly Trend](imgs/trend.png)
 
 ## Recent Month Summary (2026-06)
 
-**5 paper(s)** submitted in 2026-06.
+**7 paper(s)** submitted in 2026-06.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-06-04**|**Beyond Vector Similarity: A Structural Analysis of Graph-Augmented Retrieval for Industrial Knowledge Graphs**|[2606.06003v1](http://arxiv.org/abs/2606.06003v1)| null|
+|**2026-06-04**|**Q-GNN: Query-Conditioned Graph Neural Networks with Type Awareness for Knowledge Graph Completion**|[2606.05639v1](http://arxiv.org/abs/2606.05639v1)| null|
 |**2026-06-01**|**TechGraphRAG: An Agentic Graph-Augmented RAG Framework for Technical Literature Reasoning**|[2606.01613v1](http://arxiv.org/abs/2606.01613v1)| null|
 |**2026-05-31**|**UniD$^3$: A Knowledge Graph-Enhanced RAG Framework for Drug-Disease Discovery and Reasoning**|[2606.01394v1](http://arxiv.org/abs/2606.01394v1)| null|
 |**2026-05-30**|**MemGraphRAG: Memory-based Multi-Agent System for Graph Retrieval-Augmented Generation**|[2606.00610v1](http://arxiv.org/abs/2606.00610v1)| **[code](https://github.com/XMUDeepLIT/MemGraphRAG)**|
@@ -25,12 +27,14 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-06-04**|**Beyond Vector Similarity: A Structural Analysis of Graph-Augmented Retrieval for Industrial Knowledge Graphs**|[2606.06003v1](http://arxiv.org/abs/2606.06003v1)| null|
+|**2026-06-04**|**Q-GNN: Query-Conditioned Graph Neural Networks with Type Awareness for Knowledge Graph Completion**|[2606.05639v1](http://arxiv.org/abs/2606.05639v1)| null|
 |**2026-06-01**|**TechGraphRAG: An Agentic Graph-Augmented RAG Framework for Technical Literature Reasoning**|[2606.01613v1](http://arxiv.org/abs/2606.01613v1)| null|
 |**2026-05-31**|**UniD$^3$: A Knowledge Graph-Enhanced RAG Framework for Drug-Disease Discovery and Reasoning**|[2606.01394v1](http://arxiv.org/abs/2606.01394v1)| null|
 |**2026-05-30**|**MemGraphRAG: Memory-based Multi-Agent System for Graph Retrieval-Augmented Generation**|[2606.00610v1](http://arxiv.org/abs/2606.00610v1)| **[code](https://github.com/XMUDeepLIT/MemGraphRAG)**|
 |**2026-05-30**|**EnergyMamba: An Uncertainty-Aware Graph-Enhanced Selective State Space Model for Energy Consumption Prediction**|[2606.00506v1](http://arxiv.org/abs/2606.00506v1)| null|
 |**2026-05-19**|**Graph-Augmented Retrieval for Cross-Entity Financial Sentiment Analysis: A Comparative Study**|[2606.00062v1](http://arxiv.org/abs/2606.00062v1)| null|
-|**2026-05-29**|**Generating Graph-like Rules for Knowledge Graph Reasoning via Diffusion Models**|[2605.30747v1](http://arxiv.org/abs/2605.30747v1)| **[code](https://github.com/Haoxiang-Cheng/GRiD)**|
+|**2026-06-04**|**Generating Graph-Like Logical Rules for Knowledge Graph Reasoning via Diffusion Models**|[2605.30747v2](http://arxiv.org/abs/2605.30747v2)| **[code](https://github.com/Haoxiang-Cheng/GRiD)**|
 |**2026-05-28**|**Knowledge Graph-Enhanced Zero-Shot Topic Classification: A Multi-Strategy Comparative Study**|[2605.30465v1](http://arxiv.org/abs/2605.30465v1)| null|
 |**2026-05-27**|**GraphSteal: Structural Knowledge Stealing from Graph RAG via Traversal Reconstruction**|[2605.28645v1](http://arxiv.org/abs/2605.28645v1)| null|
 |**2026-05-29**|**Mixture-of-Experts Knowledge Graph Retrieval-Augmented Generation for Multi-Agent LLM-based Recommendation**|[2605.28175v2](http://arxiv.org/abs/2605.28175v2)| null|
@@ -578,7 +582,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2024-03-04**|**Pre-trained Language Model with Prompts for Temporal Knowledge Graph Completion**|[2305.07912v2](http://arxiv.org/abs/2305.07912v2)| null|
 |**2023-09-20**|**ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion**|[2305.06395v3](http://arxiv.org/abs/2305.06395v3)| null|
 
-<p align=right>(<a href=#Updated-on-20260604>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260605>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/bansky-cl/graphrag-arxiv-daily-paper.svg?style=for-the-badge
 [contributors-url]: https://github.com/bansky-cl/graphrag-arxiv-daily-paper/graphs/contributors
