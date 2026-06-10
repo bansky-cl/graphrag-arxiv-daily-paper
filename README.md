@@ -5,16 +5,18 @@
 
 This repository tracks the latest GraphRAG related papers from arXiv.
 
-## Updated on 2026.06.09
+## Updated on 2026.06.10
 
 ![Monthly Trend](imgs/trend.png)
 
 ## Recent Month Summary (2026-06)
 
-**11 paper(s)** submitted in 2026-06.
+**13 paper(s)** submitted in 2026-06.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-06-09**|**Agentic Hybrid RAG for Evidence-Grounded Muon Collider Analysis**|[2606.10381v1](http://arxiv.org/abs/2606.10381v1)| null|
+|**2026-06-09**|**When Metrics Disagree: A Meta-Analysis of Knowledge-Graph-Completion Model Benchmarking**|[2606.10287v1](http://arxiv.org/abs/2606.10287v1)| null|
 |**2026-06-08**|**PROBE-Web: An Interactive System for Probing Evaluation Landscapes of Knowledge Graph Completion Models**|[2606.08926v1](http://arxiv.org/abs/2606.08926v1)| null|
 |**2026-06-08**|**Generalized Rank-based Evaluation for Knowledge Graph Completion: Perspectives, Framework, and Analyses**|[2606.08921v1](http://arxiv.org/abs/2606.08921v1)| null|
 |**2026-06-05**|**PDE-Agents: An LLM-Orchestrated Multi-Agent Framework for Automated Finite Element Simulations with Knowledge Graph-Augmented Reasoning**|[2606.07850v1](http://arxiv.org/abs/2606.07850v1)| null|
@@ -31,6 +33,8 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-06-09**|**Agentic Hybrid RAG for Evidence-Grounded Muon Collider Analysis**|[2606.10381v1](http://arxiv.org/abs/2606.10381v1)| null|
+|**2026-06-09**|**When Metrics Disagree: A Meta-Analysis of Knowledge-Graph-Completion Model Benchmarking**|[2606.10287v1](http://arxiv.org/abs/2606.10287v1)| null|
 |**2026-06-08**|**PROBE-Web: An Interactive System for Probing Evaluation Landscapes of Knowledge Graph Completion Models**|[2606.08926v1](http://arxiv.org/abs/2606.08926v1)| null|
 |**2026-06-08**|**Generalized Rank-based Evaluation for Knowledge Graph Completion: Perspectives, Framework, and Analyses**|[2606.08921v1](http://arxiv.org/abs/2606.08921v1)| null|
 |**2026-06-05**|**PDE-Agents: An LLM-Orchestrated Multi-Agent Framework for Automated Finite Element Simulations with Knowledge Graph-Augmented Reasoning**|[2606.07850v1](http://arxiv.org/abs/2606.07850v1)| null|
@@ -173,7 +177,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2025-12-08**|**Subgoal Graph-Augmented Planning for LLM-Guided Open-World Reinforcement Learning**|[2511.20993v2](http://arxiv.org/abs/2511.20993v2)| null|
 |**2025-12-02**|**PersonaAgent with GraphRAG: Community-Aware Knowledge Graphs for Personalized LLM**|[2511.17467v2](http://arxiv.org/abs/2511.17467v2)| **[code](https://anonymous.4open.science/r/PersonaAgentwGraphRAG-DE6F)**|
 |**2025-12-10**|**PathMind: A Retrieve-Prioritize-Reason Framework for Knowledge Graph Reasoning with Large Language Models**|[2511.14256v2](http://arxiv.org/abs/2511.14256v2)| null|
-|**2025-11-26**|**Lost in Serialization: Invariance and Generalization of LLM Graph Reasoners**|[2511.10234v2](http://arxiv.org/abs/2511.10234v2)| null|
+|**2026-06-09**|**Lost in Serialization: Invariance and Generalization of LLM Graph Reasoners**|[2511.10234v3](http://arxiv.org/abs/2511.10234v3)| null|
 |**2026-03-10**|**Automatic Paper Reviewing with Heterogeneous Graph Reasoning over LLM-Simulated Reviewer-Author Debates**|[2511.08317v2](http://arxiv.org/abs/2511.08317v2)| null|
 |**2025-11-11**|**Multi-Agent GraphRAG: A Text-to-Cypher Framework for Labeled Property Graphs**|[2511.08274v1](http://arxiv.org/abs/2511.08274v1)| null|
 |**2025-11-11**|**DANS-KGC: Diffusion Based Adaptive Negative Sampling for Knowledge Graph Completion**|[2511.07901v1](http://arxiv.org/abs/2511.07901v1)| null|
@@ -590,7 +594,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2024-03-04**|**Pre-trained Language Model with Prompts for Temporal Knowledge Graph Completion**|[2305.07912v2](http://arxiv.org/abs/2305.07912v2)| null|
 |**2023-09-20**|**ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion**|[2305.06395v3](http://arxiv.org/abs/2305.06395v3)| null|
 
-<p align=right>(<a href=#Updated-on-20260609>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260610>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/bansky-cl/graphrag-arxiv-daily-paper.svg?style=for-the-badge
 [contributors-url]: https://github.com/bansky-cl/graphrag-arxiv-daily-paper/graphs/contributors
