@@ -5,16 +5,18 @@
 
 This repository tracks the latest GraphRAG related papers from arXiv.
 
-## Updated on 2026.06.11
+## Updated on 2026.06.12
 
 ![Monthly Trend](imgs/trend.png)
 
 ## Recent Month Summary (2026-06)
 
-**13 paper(s)** submitted in 2026-06.
+**15 paper(s)** submitted in 2026-06.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-06-11**|**Multi-Field Hybrid Retrieval-Augmented Generation for Maritime Accident Root Cause Analysis**|[2606.13249v1](http://arxiv.org/abs/2606.13249v1)| null|
+|**2026-06-11**|**G-Long: Graph-Enhanced Memory Management for Efficient Long-Term Dialogue Agents**|[2606.13115v1](http://arxiv.org/abs/2606.13115v1)| null|
 |**2026-06-09**|**Agentic Hybrid RAG for Evidence-Grounded Muon Collider Analysis**|[2606.10381v1](http://arxiv.org/abs/2606.10381v1)| null|
 |**2026-06-09**|**When Metrics Disagree: A Meta-Analysis of Knowledge-Graph-Completion Model Benchmarking**|[2606.10287v1](http://arxiv.org/abs/2606.10287v1)| null|
 |**2026-06-08**|**PROBE-Web: An Interactive System for Probing Evaluation Landscapes of Knowledge Graph Completion Models**|[2606.08926v1](http://arxiv.org/abs/2606.08926v1)| null|
@@ -33,6 +35,8 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-06-11**|**Multi-Field Hybrid Retrieval-Augmented Generation for Maritime Accident Root Cause Analysis**|[2606.13249v1](http://arxiv.org/abs/2606.13249v1)| null|
+|**2026-06-11**|**G-Long: Graph-Enhanced Memory Management for Efficient Long-Term Dialogue Agents**|[2606.13115v1](http://arxiv.org/abs/2606.13115v1)| null|
 |**2026-06-09**|**Agentic Hybrid RAG for Evidence-Grounded Muon Collider Analysis**|[2606.10381v1](http://arxiv.org/abs/2606.10381v1)| null|
 |**2026-06-09**|**When Metrics Disagree: A Meta-Analysis of Knowledge-Graph-Completion Model Benchmarking**|[2606.10287v1](http://arxiv.org/abs/2606.10287v1)| null|
 |**2026-06-08**|**PROBE-Web: An Interactive System for Probing Evaluation Landscapes of Knowledge Graph Completion Models**|[2606.08926v1](http://arxiv.org/abs/2606.08926v1)| null|
@@ -594,7 +598,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2024-03-04**|**Pre-trained Language Model with Prompts for Temporal Knowledge Graph Completion**|[2305.07912v2](http://arxiv.org/abs/2305.07912v2)| null|
 |**2023-09-20**|**ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion**|[2305.06395v3](http://arxiv.org/abs/2305.06395v3)| null|
 
-<p align=right>(<a href=#Updated-on-20260611>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260612>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/bansky-cl/graphrag-arxiv-daily-paper.svg?style=for-the-badge
 [contributors-url]: https://github.com/bansky-cl/graphrag-arxiv-daily-paper/graphs/contributors
