@@ -5,16 +5,18 @@
 
 This repository tracks the latest GraphRAG related papers from arXiv.
 
-## Updated on 2026.06.14
+## Updated on 2026.06.15
 
 ![Monthly Trend](imgs/trend.png)
 
 ## Recent Month Summary (2026-06)
 
-**15 paper(s)** submitted in 2026-06.
+**17 paper(s)** submitted in 2026-06.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-06-12**|**Recipe-Controlled Decoder Audit for Structural Knowledge-Graph Completion**|[2606.14492v1](http://arxiv.org/abs/2606.14492v1)| null|
+|**2026-06-12**|**Knowledge Graph Enhanced Memory-Augmented Retrieval for Long Context Modeling**|[2606.14047v1](http://arxiv.org/abs/2606.14047v1)| null|
 |**2026-06-11**|**Multi-Field Hybrid Retrieval-Augmented Generation for Maritime Accident Root Cause Analysis**|[2606.13249v1](http://arxiv.org/abs/2606.13249v1)| null|
 |**2026-06-11**|**G-Long: Graph-Enhanced Memory Management for Efficient Long-Term Dialogue Agents**|[2606.13115v1](http://arxiv.org/abs/2606.13115v1)| null|
 |**2026-06-09**|**Agentic Hybrid RAG for Evidence-Grounded Muon Collider Analysis**|[2606.10381v1](http://arxiv.org/abs/2606.10381v1)| null|
@@ -35,6 +37,8 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-06-12**|**Recipe-Controlled Decoder Audit for Structural Knowledge-Graph Completion**|[2606.14492v1](http://arxiv.org/abs/2606.14492v1)| null|
+|**2026-06-12**|**Knowledge Graph Enhanced Memory-Augmented Retrieval for Long Context Modeling**|[2606.14047v1](http://arxiv.org/abs/2606.14047v1)| null|
 |**2026-06-11**|**Multi-Field Hybrid Retrieval-Augmented Generation for Maritime Accident Root Cause Analysis**|[2606.13249v1](http://arxiv.org/abs/2606.13249v1)| null|
 |**2026-06-11**|**G-Long: Graph-Enhanced Memory Management for Efficient Long-Term Dialogue Agents**|[2606.13115v1](http://arxiv.org/abs/2606.13115v1)| null|
 |**2026-06-09**|**Agentic Hybrid RAG for Evidence-Grounded Muon Collider Analysis**|[2606.10381v1](http://arxiv.org/abs/2606.10381v1)| null|
@@ -70,7 +74,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2026-05-12**|**BadSKP: Backdoor Attacks on Knowledge Graph-Enhanced LLMs with Soft Prompts**|[2605.11996v1](http://arxiv.org/abs/2605.11996v1)| null|
 |**2026-05-11**|**CORE: Cyclic Orthotope Relation Embedding for Knowledge Graph Completion**|[2605.11159v1](http://arxiv.org/abs/2605.11159v1)| null|
 |**2026-05-11**|**EGL-SCA: Structural Credit Assignment for Co-Evolving Instructions and Tools in Graph Reasoning Agents**|[2605.10366v1](http://arxiv.org/abs/2605.10366v1)| null|
-|**2026-05-08**|**AdaTKG: Adaptive Memory for Temporal Knowledge Graph Reasoning**|[2605.07121v1](http://arxiv.org/abs/2605.07121v1)| **[code](https://github.com/seunghan96/AdaTKG)**|
+|**2026-06-11**|**AdaTKG: Adaptive Memory for Temporal Knowledge Graph Reasoning**|[2605.07121v2](http://arxiv.org/abs/2605.07121v2)| **[code](https://github.com/seunghan96/AdaTKG)**|
 |**2026-05-07**|**Tatarstan Toponyms: A Bilingual Dataset and Hybrid RAG System for Geospatial Question Answering**|[2605.05962v1](http://arxiv.org/abs/2605.05962v1)| null|
 |**2026-05-07**|**Sheet as Token: A Graph-Enhanced Representation for Multi-Sheet Spreadsheet Understanding**|[2605.05811v1](http://arxiv.org/abs/2605.05811v1)| null|
 |**2026-05-06**|**CHE-TKG: Collaborative Historical Evidence and Evolutionary Dynamics Learning for Temporal Knowledge Graph Reasoning**|[2605.04652v1](http://arxiv.org/abs/2605.04652v1)| null|
@@ -598,7 +602,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2024-03-04**|**Pre-trained Language Model with Prompts for Temporal Knowledge Graph Completion**|[2305.07912v2](http://arxiv.org/abs/2305.07912v2)| null|
 |**2023-09-20**|**ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion**|[2305.06395v3](http://arxiv.org/abs/2305.06395v3)| null|
 
-<p align=right>(<a href=#Updated-on-20260614>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260615>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/bansky-cl/graphrag-arxiv-daily-paper.svg?style=for-the-badge
 [contributors-url]: https://github.com/bansky-cl/graphrag-arxiv-daily-paper/graphs/contributors
