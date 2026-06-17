@@ -5,16 +5,17 @@
 
 This repository tracks the latest GraphRAG related papers from arXiv.
 
-## Updated on 2026.06.16
+## Updated on 2026.06.17
 
 ![Monthly Trend](imgs/trend.png)
 
 ## Recent Month Summary (2026-06)
 
-**20 paper(s)** submitted in 2026-06.
+**21 paper(s)** submitted in 2026-06.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-06-16**|**A Unified Framework for Context-Aware and Relation-Aware Graph Retrieval-Augmented Generation**|[2606.18075v1](http://arxiv.org/abs/2606.18075v1)| null|
 |**2026-06-15**|**Model Graph Inductive Learning for Knowledge Graph Completion**|[2606.16509v1](http://arxiv.org/abs/2606.16509v1)| null|
 |**2026-06-15**|**PathRouter: Aligning Rewards with Retrieval Quality in Agentic Graph Retrieval-Augmented Generation**|[2606.16409v1](http://arxiv.org/abs/2606.16409v1)| null|
 |**2026-06-14**|**Formalizing and Mitigating Structural Distortion in LLM Attention for Zero-Shot Graph Reasoning**|[2606.15633v1](http://arxiv.org/abs/2606.15633v1)| null|
@@ -40,6 +41,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-06-16**|**A Unified Framework for Context-Aware and Relation-Aware Graph Retrieval-Augmented Generation**|[2606.18075v1](http://arxiv.org/abs/2606.18075v1)| null|
 |**2026-06-15**|**Model Graph Inductive Learning for Knowledge Graph Completion**|[2606.16509v1](http://arxiv.org/abs/2606.16509v1)| null|
 |**2026-06-15**|**PathRouter: Aligning Rewards with Retrieval Quality in Agentic Graph Retrieval-Augmented Generation**|[2606.16409v1](http://arxiv.org/abs/2606.16409v1)| null|
 |**2026-06-14**|**Formalizing and Mitigating Structural Distortion in LLM Attention for Zero-Shot Graph Reasoning**|[2606.15633v1](http://arxiv.org/abs/2606.15633v1)| null|
@@ -608,7 +610,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2024-03-04**|**Pre-trained Language Model with Prompts for Temporal Knowledge Graph Completion**|[2305.07912v2](http://arxiv.org/abs/2305.07912v2)| null|
 |**2023-09-20**|**ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion**|[2305.06395v3](http://arxiv.org/abs/2305.06395v3)| null|
 
-<p align=right>(<a href=#Updated-on-20260616>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260617>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/bansky-cl/graphrag-arxiv-daily-paper.svg?style=for-the-badge
 [contributors-url]: https://github.com/bansky-cl/graphrag-arxiv-daily-paper/graphs/contributors
