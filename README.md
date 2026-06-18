@@ -5,20 +5,21 @@
 
 This repository tracks the latest GraphRAG related papers from arXiv.
 
-## Updated on 2026.06.17
+## Updated on 2026.06.18
 
 ![Monthly Trend](imgs/trend.png)
 
 ## Recent Month Summary (2026-06)
 
-**21 paper(s)** submitted in 2026-06.
+**22 paper(s)** submitted in 2026-06.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-06-17**|**ScholarSum: Student-Teacher Abstractive Summarization via Knowledge Graph Reasoning and Reflective Refinement**|[2606.18850v1](http://arxiv.org/abs/2606.18850v1)| **[code](https://github.com/Xiaoyu-Tao/ScholarSum)**|
 |**2026-06-16**|**A Unified Framework for Context-Aware and Relation-Aware Graph Retrieval-Augmented Generation**|[2606.18075v1](http://arxiv.org/abs/2606.18075v1)| null|
 |**2026-06-15**|**Model Graph Inductive Learning for Knowledge Graph Completion**|[2606.16509v1](http://arxiv.org/abs/2606.16509v1)| null|
 |**2026-06-15**|**PathRouter: Aligning Rewards with Retrieval Quality in Agentic Graph Retrieval-Augmented Generation**|[2606.16409v1](http://arxiv.org/abs/2606.16409v1)| null|
-|**2026-06-14**|**Formalizing and Mitigating Structural Distortion in LLM Attention for Zero-Shot Graph Reasoning**|[2606.15633v1](http://arxiv.org/abs/2606.15633v1)| null|
+|**2026-06-17**|**Formalizing and Mitigating Structural Distortion in LLM Attention for Graph Reasoning**|[2606.15633v2](http://arxiv.org/abs/2606.15633v2)| null|
 |**2026-06-12**|**Recipe-Controlled Decoder Audit for Structural Knowledge-Graph Completion**|[2606.14492v1](http://arxiv.org/abs/2606.14492v1)| null|
 |**2026-06-12**|**Knowledge Graph Enhanced Memory-Augmented Retrieval for Long Context Modeling**|[2606.14047v1](http://arxiv.org/abs/2606.14047v1)| null|
 |**2026-06-11**|**Multi-Field Hybrid Retrieval-Augmented Generation for Maritime Accident Root Cause Analysis**|[2606.13249v1](http://arxiv.org/abs/2606.13249v1)| null|
@@ -41,10 +42,11 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-06-17**|**ScholarSum: Student-Teacher Abstractive Summarization via Knowledge Graph Reasoning and Reflective Refinement**|[2606.18850v1](http://arxiv.org/abs/2606.18850v1)| **[code](https://github.com/Xiaoyu-Tao/ScholarSum)**|
 |**2026-06-16**|**A Unified Framework for Context-Aware and Relation-Aware Graph Retrieval-Augmented Generation**|[2606.18075v1](http://arxiv.org/abs/2606.18075v1)| null|
 |**2026-06-15**|**Model Graph Inductive Learning for Knowledge Graph Completion**|[2606.16509v1](http://arxiv.org/abs/2606.16509v1)| null|
 |**2026-06-15**|**PathRouter: Aligning Rewards with Retrieval Quality in Agentic Graph Retrieval-Augmented Generation**|[2606.16409v1](http://arxiv.org/abs/2606.16409v1)| null|
-|**2026-06-14**|**Formalizing and Mitigating Structural Distortion in LLM Attention for Zero-Shot Graph Reasoning**|[2606.15633v1](http://arxiv.org/abs/2606.15633v1)| null|
+|**2026-06-17**|**Formalizing and Mitigating Structural Distortion in LLM Attention for Graph Reasoning**|[2606.15633v2](http://arxiv.org/abs/2606.15633v2)| null|
 |**2026-06-12**|**Recipe-Controlled Decoder Audit for Structural Knowledge-Graph Completion**|[2606.14492v1](http://arxiv.org/abs/2606.14492v1)| null|
 |**2026-06-12**|**Knowledge Graph Enhanced Memory-Augmented Retrieval for Long Context Modeling**|[2606.14047v1](http://arxiv.org/abs/2606.14047v1)| null|
 |**2026-06-11**|**Multi-Field Hybrid Retrieval-Augmented Generation for Maritime Accident Root Cause Analysis**|[2606.13249v1](http://arxiv.org/abs/2606.13249v1)| null|
@@ -148,7 +150,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2026-02-09**|**SCOUT-RAG: Scalable and Cost-Efficient Unifying Traversal for Agentic Graph-RAG over Distributed Domains**|[2602.08400v1](http://arxiv.org/abs/2602.08400v1)| null|
 |**2026-02-09**|**MemAdapter: Fast Alignment across Agent Memory Paradigms via Generative Subgraph Retrieval**|[2602.08369v1](http://arxiv.org/abs/2602.08369v1)| null|
 |**2026-02-08**|**Graph-Enhanced Deep Reinforcement Learning for Multi-Objective Unrelated Parallel Machine Scheduling**|[2602.08052v1](http://arxiv.org/abs/2602.08052v1)| null|
-|**2026-02-06**|**Subgraph Reconstruction Attacks on Graph RAG Deployments with Practical Defenses**|[2602.06495v1](http://arxiv.org/abs/2602.06495v1)| null|
+|**2026-06-17**|**Graphs Don't Stay Secret: Practical Subgraph Reconstruction Attacks on Defended Graph RAG**|[2602.06495v2](http://arxiv.org/abs/2602.06495v2)| null|
 |**2026-02-02**|**Graph-Augmented Reasoning with Large Language Models for Tobacco Pest and Disease Management**|[2602.02635v1](http://arxiv.org/abs/2602.02635v1)| null|
 |**2026-02-03**|**WildGraphBench: Benchmarking GraphRAG with Wild-Source Corpora**|[2602.02053v2](http://arxiv.org/abs/2602.02053v2)| **[code](https://github.com/BstWPY/WildGraphBench)**|
 |**2025-11-27**|**Unlocking Electronic Health Records: A Hybrid Graph RAG Approach to Safe Clinical AI for Patient QA**|[2602.00009v1](http://arxiv.org/abs/2602.00009v1)| null|
@@ -610,7 +612,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2024-03-04**|**Pre-trained Language Model with Prompts for Temporal Knowledge Graph Completion**|[2305.07912v2](http://arxiv.org/abs/2305.07912v2)| null|
 |**2023-09-20**|**ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion**|[2305.06395v3](http://arxiv.org/abs/2305.06395v3)| null|
 
-<p align=right>(<a href=#Updated-on-20260617>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260618>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/bansky-cl/graphrag-arxiv-daily-paper.svg?style=for-the-badge
 [contributors-url]: https://github.com/bansky-cl/graphrag-arxiv-daily-paper/graphs/contributors
