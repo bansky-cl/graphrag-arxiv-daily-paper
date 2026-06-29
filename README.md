@@ -5,16 +5,17 @@
 
 This repository tracks the latest GraphRAG related papers from arXiv.
 
-## Updated on 2026.06.28
+## Updated on 2026.06.29
 
 ![Monthly Trend](imgs/trend.png)
 
 ## Recent Month Summary (2026-06)
 
-**29 paper(s)** submitted in 2026-06.
+**30 paper(s)** submitted in 2026-06.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-06-26**|**RelBall: Relation Ball with Quaternion Rotation for Knowledge Graph Completion**|[2606.27967v1](http://arxiv.org/abs/2606.27967v1)| null|
 |**2026-06-24**|**MKG-RAG-Bench: Benchmarking Retrieval in Multimodal Knowledge Graph-Augmented Generation**|[2606.26458v1](http://arxiv.org/abs/2606.26458v1)| null|
 |**2026-06-24**|**Is GraphRAG Needed? From Basic RAG to Graph-/Agentic Solutions with Context Optimization**|[2606.25656v1](http://arxiv.org/abs/2606.25656v1)| null|
 |**2026-06-22**|**Automated Semantic Fault Localization in SysML v2: A Human-in-the-Loop Framework Using Knowledge-Graph Augmented LLMs**|[2606.23395v1](http://arxiv.org/abs/2606.23395v1)| null|
@@ -49,6 +50,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-06-26**|**RelBall: Relation Ball with Quaternion Rotation for Knowledge Graph Completion**|[2606.27967v1](http://arxiv.org/abs/2606.27967v1)| null|
 |**2026-06-24**|**MKG-RAG-Bench: Benchmarking Retrieval in Multimodal Knowledge Graph-Augmented Generation**|[2606.26458v1](http://arxiv.org/abs/2606.26458v1)| null|
 |**2026-06-24**|**Is GraphRAG Needed? From Basic RAG to Graph-/Agentic Solutions with Context Optimization**|[2606.25656v1](http://arxiv.org/abs/2606.25656v1)| null|
 |**2026-06-22**|**Automated Semantic Fault Localization in SysML v2: A Human-in-the-Loop Framework Using Knowledge-Graph Augmented LLMs**|[2606.23395v1](http://arxiv.org/abs/2606.23395v1)| null|
@@ -626,7 +628,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2024-03-04**|**Pre-trained Language Model with Prompts for Temporal Knowledge Graph Completion**|[2305.07912v2](http://arxiv.org/abs/2305.07912v2)| null|
 |**2023-09-20**|**ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion**|[2305.06395v3](http://arxiv.org/abs/2305.06395v3)| null|
 
-<p align=right>(<a href=#Updated-on-20260628>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260629>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/bansky-cl/graphrag-arxiv-daily-paper.svg?style=for-the-badge
 [contributors-url]: https://github.com/bansky-cl/graphrag-arxiv-daily-paper/graphs/contributors
