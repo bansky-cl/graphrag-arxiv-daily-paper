@@ -5,51 +5,23 @@
 
 This repository tracks the latest GraphRAG related papers from arXiv.
 
-## Updated on 2026.07.01
+## Updated on 2026.07.02
 
 ![Monthly Trend](imgs/trend.png)
 
-## Recent Month Summary (2026-06)
+## Recent Month Summary (2026-07)
 
-**30 paper(s)** submitted in 2026-06.
+**1 paper(s)** submitted in 2026-07.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
-|**2026-06-26**|**RelBall: Relation Ball with Quaternion Rotation for Knowledge Graph Completion**|[2606.27967v1](http://arxiv.org/abs/2606.27967v1)| null|
-|**2026-06-24**|**MKG-RAG-Bench: Benchmarking Retrieval in Multimodal Knowledge Graph-Augmented Generation**|[2606.26458v1](http://arxiv.org/abs/2606.26458v1)| null|
-|**2026-06-24**|**Is GraphRAG Needed? From Basic RAG to Graph-/Agentic Solutions with Context Optimization**|[2606.25656v1](http://arxiv.org/abs/2606.25656v1)| null|
-|**2026-06-22**|**Automated Semantic Fault Localization in SysML v2: A Human-in-the-Loop Framework Using Knowledge-Graph Augmented LLMs**|[2606.23395v1](http://arxiv.org/abs/2606.23395v1)| null|
-|**2026-06-22**|**Graph-Enhanced Large Language Models for Spatial Search**|[2606.22909v1](http://arxiv.org/abs/2606.22909v1)| null|
-|**2026-06-21**|**SHACR: A Graph-Augmented Semi-Autonomous Framework for Multi-Class Conflict Resolution in Smart Home IoT Automation**|[2606.22312v1](http://arxiv.org/abs/2606.22312v1)| null|
-|**2026-06-24**|**GRAG: Generic Response-Augmented Generation Framework for Personalized Conversational Systems**|[2606.21097v2](http://arxiv.org/abs/2606.21097v2)| null|
-|**2026-04-27**|**Detecting Hallucinations for Large Language Model-based Knowledge Graph Reasoning**|[2606.19351v1](http://arxiv.org/abs/2606.19351v1)| null|
-|**2026-06-17**|**ScholarSum: Student-Teacher Abstractive Summarization via Knowledge Graph Reasoning and Reflective Refinement**|[2606.18850v1](http://arxiv.org/abs/2606.18850v1)| **[code](https://github.com/Xiaoyu-Tao/ScholarSum)**|
-|**2026-06-16**|**A Unified Framework for Context-Aware and Relation-Aware Graph Retrieval-Augmented Generation**|[2606.18075v1](http://arxiv.org/abs/2606.18075v1)| null|
-|**2026-06-15**|**Model Graph Inductive Learning for Knowledge Graph Completion**|[2606.16509v1](http://arxiv.org/abs/2606.16509v1)| null|
-|**2026-06-15**|**PathRouter: Aligning Rewards with Retrieval Quality in Agentic Graph Retrieval-Augmented Generation**|[2606.16409v1](http://arxiv.org/abs/2606.16409v1)| null|
-|**2026-06-17**|**Formalizing and Mitigating Structural Distortion in LLM Attention for Graph Reasoning**|[2606.15633v2](http://arxiv.org/abs/2606.15633v2)| null|
-|**2026-06-12**|**Recipe-Controlled Decoder Audit for Structural Knowledge-Graph Completion**|[2606.14492v1](http://arxiv.org/abs/2606.14492v1)| null|
-|**2026-06-12**|**Knowledge Graph Enhanced Memory-Augmented Retrieval for Long Context Modeling**|[2606.14047v1](http://arxiv.org/abs/2606.14047v1)| null|
-|**2026-06-11**|**Multi-Field Hybrid Retrieval-Augmented Generation for Maritime Accident Root Cause Analysis**|[2606.13249v1](http://arxiv.org/abs/2606.13249v1)| null|
-|**2026-06-11**|**G-Long: Graph-Enhanced Memory Management for Efficient Long-Term Dialogue Agents**|[2606.13115v1](http://arxiv.org/abs/2606.13115v1)| null|
-|**2026-06-09**|**Agentic Hybrid RAG for Evidence-Grounded Muon Collider Analysis**|[2606.10381v1](http://arxiv.org/abs/2606.10381v1)| null|
-|**2026-06-09**|**When Metrics Disagree: A Meta-Analysis of Knowledge-Graph-Completion Model Benchmarking**|[2606.10287v1](http://arxiv.org/abs/2606.10287v1)| null|
-|**2026-06-08**|**PROBE-Web: An Interactive System for Probing Evaluation Landscapes of Knowledge Graph Completion Models**|[2606.08926v1](http://arxiv.org/abs/2606.08926v1)| null|
-|**2026-06-08**|**Generalized Rank-based Evaluation for Knowledge Graph Completion: Perspectives, Framework, and Analyses**|[2606.08921v1](http://arxiv.org/abs/2606.08921v1)| null|
-|**2026-06-05**|**PDE-Agents: An LLM-Orchestrated Multi-Agent Framework for Automated Finite Element Simulations with Knowledge Graph-Augmented Reasoning**|[2606.07850v1](http://arxiv.org/abs/2606.07850v1)| null|
-|**2026-06-05**|**Pharmacogenomic Knowledge Graph Augmentation for Graph Neural Network-Based Drug-Drug Interaction Prediction**|[2606.07698v1](http://arxiv.org/abs/2606.07698v1)| null|
-|**2026-06-04**|**Beyond Vector Similarity: A Structural Analysis of Graph-Augmented Retrieval for Industrial Knowledge Graphs**|[2606.06003v1](http://arxiv.org/abs/2606.06003v1)| null|
-|**2026-06-04**|**Q-GNN: Query-Conditioned Graph Neural Networks with Type Awareness for Knowledge Graph Completion**|[2606.05639v1](http://arxiv.org/abs/2606.05639v1)| null|
-|**2026-06-01**|**TechGraphRAG: An Agentic Graph-Augmented RAG Framework for Technical Literature Reasoning**|[2606.01613v1](http://arxiv.org/abs/2606.01613v1)| null|
-|**2026-05-31**|**UniD$^3$: A Knowledge Graph-Enhanced RAG Framework for Drug-Disease Discovery and Reasoning**|[2606.01394v1](http://arxiv.org/abs/2606.01394v1)| null|
-|**2026-05-30**|**MemGraphRAG: Memory-based Multi-Agent System for Graph Retrieval-Augmented Generation**|[2606.00610v1](http://arxiv.org/abs/2606.00610v1)| **[code](https://github.com/XMUDeepLIT/MemGraphRAG)**|
-|**2026-05-30**|**EnergyMamba: An Uncertainty-Aware Graph-Enhanced Selective State Space Model for Energy Consumption Prediction**|[2606.00506v1](http://arxiv.org/abs/2606.00506v1)| null|
-|**2026-05-19**|**Graph-Augmented Retrieval for Cross-Entity Financial Sentiment Analysis: A Comparative Study**|[2606.00062v1](http://arxiv.org/abs/2606.00062v1)| null|
+|**2026-06-30**|**AGE: Adaptive-masking for Graph Embedding in Graph Retrieval-Augmented Generation**|[2607.00052v1](http://arxiv.org/abs/2607.00052v1)| null|
 
 ## graphrag
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-06-30**|**AGE: Adaptive-masking for Graph Embedding in Graph Retrieval-Augmented Generation**|[2607.00052v1](http://arxiv.org/abs/2607.00052v1)| null|
 |**2026-06-26**|**RelBall: Relation Ball with Quaternion Rotation for Knowledge Graph Completion**|[2606.27967v1](http://arxiv.org/abs/2606.27967v1)| null|
 |**2026-06-24**|**MKG-RAG-Bench: Benchmarking Retrieval in Multimodal Knowledge Graph-Augmented Generation**|[2606.26458v1](http://arxiv.org/abs/2606.26458v1)| null|
 |**2026-06-24**|**Is GraphRAG Needed? From Basic RAG to Graph-/Agentic Solutions with Context Optimization**|[2606.25656v1](http://arxiv.org/abs/2606.25656v1)| null|
@@ -628,7 +600,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2024-03-04**|**Pre-trained Language Model with Prompts for Temporal Knowledge Graph Completion**|[2305.07912v2](http://arxiv.org/abs/2305.07912v2)| null|
 |**2023-09-20**|**ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion**|[2305.06395v3](http://arxiv.org/abs/2305.06395v3)| null|
 
-<p align=right>(<a href=#Updated-on-20260701>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260702>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/bansky-cl/graphrag-arxiv-daily-paper.svg?style=for-the-badge
 [contributors-url]: https://github.com/bansky-cl/graphrag-arxiv-daily-paper/graphs/contributors
