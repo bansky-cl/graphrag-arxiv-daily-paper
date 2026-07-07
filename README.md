@@ -5,22 +5,26 @@
 
 This repository tracks the latest GraphRAG related papers from arXiv.
 
-## Updated on 2026.07.06
+## Updated on 2026.07.07
 
 ![Monthly Trend](imgs/trend.png)
 
 ## Recent Month Summary (2026-07)
 
-**1 paper(s)** submitted in 2026-07.
+**3 paper(s)** submitted in 2026-07.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-07-04**|**GRASP: Graph-Reasoning Aided Survey Planning for High-Fidelity Related Work Generation**|[2607.03709v1](http://arxiv.org/abs/2607.03709v1)| null|
+|**2026-07-03**|**Conditional Diffusion Guided Knowledge Transfer for Multi-Domain Knowledge Graph Completion**|[2607.03154v1](http://arxiv.org/abs/2607.03154v1)| null|
 |**2026-06-30**|**AGE: Adaptive-masking for Graph Embedding in Graph Retrieval-Augmented Generation**|[2607.00052v1](http://arxiv.org/abs/2607.00052v1)| null|
 
 ## graphrag
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-07-04**|**GRASP: Graph-Reasoning Aided Survey Planning for High-Fidelity Related Work Generation**|[2607.03709v1](http://arxiv.org/abs/2607.03709v1)| null|
+|**2026-07-03**|**Conditional Diffusion Guided Knowledge Transfer for Multi-Domain Knowledge Graph Completion**|[2607.03154v1](http://arxiv.org/abs/2607.03154v1)| null|
 |**2026-06-30**|**AGE: Adaptive-masking for Graph Embedding in Graph Retrieval-Augmented Generation**|[2607.00052v1](http://arxiv.org/abs/2607.00052v1)| null|
 |**2026-06-26**|**RelBall: Relation Ball with Quaternion Rotation for Knowledge Graph Completion**|[2606.27967v1](http://arxiv.org/abs/2606.27967v1)| null|
 |**2026-06-24**|**MKG-RAG-Bench: Benchmarking Retrieval in Multimodal Knowledge Graph-Augmented Generation**|[2606.26458v1](http://arxiv.org/abs/2606.26458v1)| null|
@@ -600,7 +604,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2024-03-04**|**Pre-trained Language Model with Prompts for Temporal Knowledge Graph Completion**|[2305.07912v2](http://arxiv.org/abs/2305.07912v2)| null|
 |**2023-09-20**|**ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion**|[2305.06395v3](http://arxiv.org/abs/2305.06395v3)| null|
 
-<p align=right>(<a href=#Updated-on-20260706>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260707>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/bansky-cl/graphrag-arxiv-daily-paper.svg?style=for-the-badge
 [contributors-url]: https://github.com/bansky-cl/graphrag-arxiv-daily-paper/graphs/contributors
