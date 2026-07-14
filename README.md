@@ -5,16 +5,19 @@
 
 This repository tracks the latest GraphRAG related papers from arXiv.
 
-## Updated on 2026.07.13
+## Updated on 2026.07.14
 
 ![Monthly Trend](imgs/trend.png)
 
 ## Recent Month Summary (2026-07)
 
-**4 paper(s)** submitted in 2026-07.
+**7 paper(s)** submitted in 2026-07.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-07-13**|**RAGU: A Multi-Step GraphRAG Engine with a Compact Domain-Adapted LLM**|[2607.11683v1](http://arxiv.org/abs/2607.11683v1)| **[code](https://huggingface.co/bond005/meno-lite-0.1)**|
+|**2026-07-13**|**FAIR GraphRAG: A Retrieval-Augmented Generation Approach for Semantic Data Analysis**|[2607.11464v1](http://arxiv.org/abs/2607.11464v1)| null|
+|**2026-07-11**|**GAE: Graph-Augmented Evolution for Scientific Discovery via Reinforcement Optimization**|[2607.10127v1](http://arxiv.org/abs/2607.10127v1)| null|
 |**2026-07-09**|**GATS: Graph-Augmented Tree Search with Layered World Models for Efficient Agent Planning**|[2607.08894v1](http://arxiv.org/abs/2607.08894v1)| null|
 |**2026-07-04**|**GRASP: Graph-Reasoning Aided Survey Planning for High-Fidelity Related Work Generation**|[2607.03709v1](http://arxiv.org/abs/2607.03709v1)| null|
 |**2026-07-03**|**Conditional Diffusion Guided Knowledge Transfer for Multi-Domain Knowledge Graph Completion**|[2607.03154v1](http://arxiv.org/abs/2607.03154v1)| null|
@@ -24,6 +27,9 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-07-13**|**RAGU: A Multi-Step GraphRAG Engine with a Compact Domain-Adapted LLM**|[2607.11683v1](http://arxiv.org/abs/2607.11683v1)| **[code](https://huggingface.co/bond005/meno-lite-0.1)**|
+|**2026-07-13**|**FAIR GraphRAG: A Retrieval-Augmented Generation Approach for Semantic Data Analysis**|[2607.11464v1](http://arxiv.org/abs/2607.11464v1)| null|
+|**2026-07-11**|**GAE: Graph-Augmented Evolution for Scientific Discovery via Reinforcement Optimization**|[2607.10127v1](http://arxiv.org/abs/2607.10127v1)| null|
 |**2026-07-09**|**GATS: Graph-Augmented Tree Search with Layered World Models for Efficient Agent Planning**|[2607.08894v1](http://arxiv.org/abs/2607.08894v1)| null|
 |**2026-07-04**|**GRASP: Graph-Reasoning Aided Survey Planning for High-Fidelity Related Work Generation**|[2607.03709v1](http://arxiv.org/abs/2607.03709v1)| null|
 |**2026-07-03**|**Conditional Diffusion Guided Knowledge Transfer for Multi-Domain Knowledge Graph Completion**|[2607.03154v1](http://arxiv.org/abs/2607.03154v1)| null|
@@ -606,7 +612,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2024-03-04**|**Pre-trained Language Model with Prompts for Temporal Knowledge Graph Completion**|[2305.07912v2](http://arxiv.org/abs/2305.07912v2)| null|
 |**2023-09-20**|**ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion**|[2305.06395v3](http://arxiv.org/abs/2305.06395v3)| null|
 
-<p align=right>(<a href=#Updated-on-20260713>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260714>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/bansky-cl/graphrag-arxiv-daily-paper.svg?style=for-the-badge
 [contributors-url]: https://github.com/bansky-cl/graphrag-arxiv-daily-paper/graphs/contributors
