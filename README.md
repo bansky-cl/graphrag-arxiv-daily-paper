@@ -11,10 +11,11 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 
 ## Recent Month Summary (2026-07)
 
-**8 paper(s)** submitted in 2026-07.
+**9 paper(s)** submitted in 2026-07.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-07-17**|**MGDT: MLLM-Guided Diffusion Transformer with Relation-Adaptive Mixture-of-Experts for Multimodal Knowledge Graph Completion**|[2607.15592v1](http://arxiv.org/abs/2607.15592v1)| null|
 |**2026-07-16**|**Reachability-Aware Pretraining for Efficient Target-Oriented Path Exploration in Temporal Knowledge Graph Reasoning**|[2607.14886v1](http://arxiv.org/abs/2607.14886v1)| null|
 |**2026-07-13**|**RAGU: A Multi-Step GraphRAG Engine with a Compact Domain-Adapted LLM**|[2607.11683v1](http://arxiv.org/abs/2607.11683v1)| **[code](https://huggingface.co/bond005/meno-lite-0.1)**|
 |**2026-07-13**|**FAIR GraphRAG: A Retrieval-Augmented Generation Approach for Semantic Data Analysis**|[2607.11464v1](http://arxiv.org/abs/2607.11464v1)| null|
@@ -28,6 +29,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-07-17**|**MGDT: MLLM-Guided Diffusion Transformer with Relation-Adaptive Mixture-of-Experts for Multimodal Knowledge Graph Completion**|[2607.15592v1](http://arxiv.org/abs/2607.15592v1)| null|
 |**2026-07-16**|**Reachability-Aware Pretraining for Efficient Target-Oriented Path Exploration in Temporal Knowledge Graph Reasoning**|[2607.14886v1](http://arxiv.org/abs/2607.14886v1)| null|
 |**2026-07-13**|**RAGU: A Multi-Step GraphRAG Engine with a Compact Domain-Adapted LLM**|[2607.11683v1](http://arxiv.org/abs/2607.11683v1)| **[code](https://huggingface.co/bond005/meno-lite-0.1)**|
 |**2026-07-13**|**FAIR GraphRAG: A Retrieval-Augmented Generation Approach for Semantic Data Analysis**|[2607.11464v1](http://arxiv.org/abs/2607.11464v1)| null|
