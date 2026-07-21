@@ -5,16 +5,18 @@
 
 This repository tracks the latest GraphRAG related papers from arXiv.
 
-## Updated on 2026.07.20
+## Updated on 2026.07.21
 
 ![Monthly Trend](imgs/trend.png)
 
 ## Recent Month Summary (2026-07)
 
-**9 paper(s)** submitted in 2026-07.
+**11 paper(s)** submitted in 2026-07.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-07-18**|**When Do Multimodal and Graph-Augmented RAG Help? A Controlled Evaluation for Document Question Answering**|[2607.16604v1](http://arxiv.org/abs/2607.16604v1)| **[code](https://github.com/sokistar24/multimodal-graph-rag)**|
+|**2026-05-09**|**ColGraphRAG: Late-Interaction Evidence Retrieval for Multimodal GraphRAG**|[2607.16208v1](http://arxiv.org/abs/2607.16208v1)| null|
 |**2026-07-17**|**MGDT: MLLM-Guided Diffusion Transformer with Relation-Adaptive Mixture-of-Experts for Multimodal Knowledge Graph Completion**|[2607.15592v1](http://arxiv.org/abs/2607.15592v1)| null|
 |**2026-07-16**|**Reachability-Aware Pretraining for Efficient Target-Oriented Path Exploration in Temporal Knowledge Graph Reasoning**|[2607.14886v1](http://arxiv.org/abs/2607.14886v1)| null|
 |**2026-07-13**|**RAGU: A Multi-Step GraphRAG Engine with a Compact Domain-Adapted LLM**|[2607.11683v1](http://arxiv.org/abs/2607.11683v1)| **[code](https://huggingface.co/bond005/meno-lite-0.1)**|
@@ -29,6 +31,8 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-07-18**|**When Do Multimodal and Graph-Augmented RAG Help? A Controlled Evaluation for Document Question Answering**|[2607.16604v1](http://arxiv.org/abs/2607.16604v1)| **[code](https://github.com/sokistar24/multimodal-graph-rag)**|
+|**2026-05-09**|**ColGraphRAG: Late-Interaction Evidence Retrieval for Multimodal GraphRAG**|[2607.16208v1](http://arxiv.org/abs/2607.16208v1)| null|
 |**2026-07-17**|**MGDT: MLLM-Guided Diffusion Transformer with Relation-Adaptive Mixture-of-Experts for Multimodal Knowledge Graph Completion**|[2607.15592v1](http://arxiv.org/abs/2607.15592v1)| null|
 |**2026-07-16**|**Reachability-Aware Pretraining for Efficient Target-Oriented Path Exploration in Temporal Knowledge Graph Reasoning**|[2607.14886v1](http://arxiv.org/abs/2607.14886v1)| null|
 |**2026-07-13**|**RAGU: A Multi-Step GraphRAG Engine with a Compact Domain-Adapted LLM**|[2607.11683v1](http://arxiv.org/abs/2607.11683v1)| **[code](https://huggingface.co/bond005/meno-lite-0.1)**|
@@ -96,7 +100,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2026-05-06**|**GEM: Graph-Enhanced Mixture-of-Experts with ReAct Agents for Dialogue State Tracking**|[2605.04449v1](http://arxiv.org/abs/2605.04449v1)| null|
 |**2026-05-05**|**CuraView: A Multi-Agent Framework for Medical Hallucination Detection with GraphRAG-Enhanced Knowledge Verification**|[2605.03476v1](http://arxiv.org/abs/2605.03476v1)| null|
 |**2026-04-29**|**SAGE: A Strategy-Aware Graph-Enhanced Generation Framework For Online Counseling**|[2604.26630v1](http://arxiv.org/abs/2604.26630v1)| null|
-|**2026-04-28**|**RADD: Retrieval-Augmented Discrete Diffusion for Multi-Modal Knowledge Graph Completion**|[2604.25693v1](http://arxiv.org/abs/2604.25693v1)| null|
+|**2026-07-20**|**RADD: Retrieval-Augmented Discrete Diffusion for Multi-Modal Knowledge Graph Completion**|[2604.25693v2](http://arxiv.org/abs/2604.25693v2)| null|
 |**2026-04-26**|**ComplianceNLP: Knowledge-Graph-Augmented RAG for Multi-Framework Regulatory Gap Detection**|[2604.23585v1](http://arxiv.org/abs/2604.23585v1)| null|
 |**2026-04-23**|**GS-Quant: Granular Semantic and Generative Structural Quantization for Knowledge Graph Completion**|[2604.21649v1](http://arxiv.org/abs/2604.21649v1)| **[code](https://github.com/mikumifa/GS-Quant)**|
 |**2026-04-23**|**WPGRec: Wavelet Packet Guided Graph Enhanced Sequential Recommendation**|[2604.21305v1](http://arxiv.org/abs/2604.21305v1)| null|
@@ -616,7 +620,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2024-03-04**|**Pre-trained Language Model with Prompts for Temporal Knowledge Graph Completion**|[2305.07912v2](http://arxiv.org/abs/2305.07912v2)| null|
 |**2023-09-20**|**ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion**|[2305.06395v3](http://arxiv.org/abs/2305.06395v3)| null|
 
-<p align=right>(<a href=#Updated-on-20260720>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260721>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/bansky-cl/graphrag-arxiv-daily-paper.svg?style=for-the-badge
 [contributors-url]: https://github.com/bansky-cl/graphrag-arxiv-daily-paper/graphs/contributors
