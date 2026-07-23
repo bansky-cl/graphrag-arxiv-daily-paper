@@ -5,16 +5,18 @@
 
 This repository tracks the latest GraphRAG related papers from arXiv.
 
-## Updated on 2026.07.22
+## Updated on 2026.07.23
 
 ![Monthly Trend](imgs/trend.png)
 
 ## Recent Month Summary (2026-07)
 
-**11 paper(s)** submitted in 2026-07.
+**13 paper(s)** submitted in 2026-07.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-07-04**|**HyGRL: Adaptive Hybrid Graph Reasoning for Multi-Entity Questions**|[2607.19398v1](http://arxiv.org/abs/2607.19398v1)| **[code](https://github.com/wjywjy123/HyGRL)**|
+|**2026-06-05**|**GraphContainer: A Unified Platform for Comparing and Debugging Graph RAG Methods**|[2607.19362v1](http://arxiv.org/abs/2607.19362v1)| **[code](https://youtu.be/O02eNJLwkU0)**|
 |**2026-07-18**|**When Do Multimodal and Graph-Augmented RAG Help? A Controlled Evaluation for Document Question Answering**|[2607.16604v1](http://arxiv.org/abs/2607.16604v1)| **[code](https://github.com/sokistar24/multimodal-graph-rag)**|
 |**2026-05-09**|**ColGraphRAG: Late-Interaction Evidence Retrieval for Multimodal GraphRAG**|[2607.16208v1](http://arxiv.org/abs/2607.16208v1)| null|
 |**2026-07-17**|**MGDT: MLLM-Guided Diffusion Transformer with Relation-Adaptive Mixture-of-Experts for Multimodal Knowledge Graph Completion**|[2607.15592v1](http://arxiv.org/abs/2607.15592v1)| null|
@@ -31,6 +33,8 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-07-04**|**HyGRL: Adaptive Hybrid Graph Reasoning for Multi-Entity Questions**|[2607.19398v1](http://arxiv.org/abs/2607.19398v1)| **[code](https://github.com/wjywjy123/HyGRL)**|
+|**2026-06-05**|**GraphContainer: A Unified Platform for Comparing and Debugging Graph RAG Methods**|[2607.19362v1](http://arxiv.org/abs/2607.19362v1)| **[code](https://youtu.be/O02eNJLwkU0)**|
 |**2026-07-18**|**When Do Multimodal and Graph-Augmented RAG Help? A Controlled Evaluation for Document Question Answering**|[2607.16604v1](http://arxiv.org/abs/2607.16604v1)| **[code](https://github.com/sokistar24/multimodal-graph-rag)**|
 |**2026-05-09**|**ColGraphRAG: Late-Interaction Evidence Retrieval for Multimodal GraphRAG**|[2607.16208v1](http://arxiv.org/abs/2607.16208v1)| null|
 |**2026-07-17**|**MGDT: MLLM-Guided Diffusion Transformer with Relation-Adaptive Mixture-of-Experts for Multimodal Knowledge Graph Completion**|[2607.15592v1](http://arxiv.org/abs/2607.15592v1)| null|
@@ -620,7 +624,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2024-03-04**|**Pre-trained Language Model with Prompts for Temporal Knowledge Graph Completion**|[2305.07912v2](http://arxiv.org/abs/2305.07912v2)| null|
 |**2023-09-20**|**ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion**|[2305.06395v3](http://arxiv.org/abs/2305.06395v3)| null|
 
-<p align=right>(<a href=#Updated-on-20260722>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260723>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/bansky-cl/graphrag-arxiv-daily-paper.svg?style=for-the-badge
 [contributors-url]: https://github.com/bansky-cl/graphrag-arxiv-daily-paper/graphs/contributors
