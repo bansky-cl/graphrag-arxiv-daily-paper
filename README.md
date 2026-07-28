@@ -5,16 +5,19 @@
 
 This repository tracks the latest GraphRAG related papers from arXiv.
 
-## Updated on 2026.07.27
+## Updated on 2026.07.28
 
 ![Monthly Trend](imgs/trend.png)
 
 ## Recent Month Summary (2026-07)
 
-**14 paper(s)** submitted in 2026-07.
+**17 paper(s)** submitted in 2026-07.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-07-27**|**A corrective agentic hybrid RAG and an operations-grounded evaluation for a scientific facility**|[2607.24663v1](http://arxiv.org/abs/2607.24663v1)| null|
+|**2026-07-21**|**SEGRA: Structured Experience-Guided Graph Reasoning Agent for Gremlin Based Question Answering**|[2607.22713v1](http://arxiv.org/abs/2607.22713v1)| null|
+|**2026-06-20**|**Evolving from Lessons: Skill-Augmented Table Graph Reasoning for Operation-wise Table Question Answering**|[2607.22633v1](http://arxiv.org/abs/2607.22633v1)| null|
 |**2026-07-24**|**MA-DAR: Manifold-Aligned Dynamic Adaptive Routing for Continual Temporal Knowledge Graph Reasoning**|[2607.21949v1](http://arxiv.org/abs/2607.21949v1)| null|
 |**2026-07-04**|**HyGRL: Adaptive Hybrid Graph Reasoning for Multi-Entity Questions**|[2607.19398v1](http://arxiv.org/abs/2607.19398v1)| **[code](https://github.com/wjywjy123/HyGRL)**|
 |**2026-06-05**|**GraphContainer: A Unified Platform for Comparing and Debugging Graph RAG Methods**|[2607.19362v1](http://arxiv.org/abs/2607.19362v1)| **[code](https://youtu.be/O02eNJLwkU0)**|
@@ -34,6 +37,9 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-07-27**|**A corrective agentic hybrid RAG and an operations-grounded evaluation for a scientific facility**|[2607.24663v1](http://arxiv.org/abs/2607.24663v1)| null|
+|**2026-07-21**|**SEGRA: Structured Experience-Guided Graph Reasoning Agent for Gremlin Based Question Answering**|[2607.22713v1](http://arxiv.org/abs/2607.22713v1)| null|
+|**2026-06-20**|**Evolving from Lessons: Skill-Augmented Table Graph Reasoning for Operation-wise Table Question Answering**|[2607.22633v1](http://arxiv.org/abs/2607.22633v1)| null|
 |**2026-07-24**|**MA-DAR: Manifold-Aligned Dynamic Adaptive Routing for Continual Temporal Knowledge Graph Reasoning**|[2607.21949v1](http://arxiv.org/abs/2607.21949v1)| null|
 |**2026-07-04**|**HyGRL: Adaptive Hybrid Graph Reasoning for Multi-Entity Questions**|[2607.19398v1](http://arxiv.org/abs/2607.19398v1)| **[code](https://github.com/wjywjy123/HyGRL)**|
 |**2026-06-05**|**GraphContainer: A Unified Platform for Comparing and Debugging Graph RAG Methods**|[2607.19362v1](http://arxiv.org/abs/2607.19362v1)| **[code](https://youtu.be/O02eNJLwkU0)**|
@@ -89,7 +95,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2026-05-26**|**RAGEAR: Retrieval-Augmented Graph-Enhanced Academic Recommender**|[2605.26819v1](http://arxiv.org/abs/2605.26819v1)| null|
 |**2026-05-21**|**Ex-GraphRAG: Interpretable Evidence Routing for Graph-Augmented LLMs**|[2605.21994v1](http://arxiv.org/abs/2605.21994v1)| null|
 |**2026-05-20**|**GraphRAG on Consumer Hardware: Benchmarking Local LLMs for Healthcare EHR Schema Retrieval**|[2605.20815v1](http://arxiv.org/abs/2605.20815v1)| null|
-|**2026-04-15**|**Agentic GraphRAG: Navigating Unstructured Financial Data with Collaborative AI**|[2605.18770v1](http://arxiv.org/abs/2605.18770v1)| null|
+|**2026-07-24**|**Agentic Graph Retrieval-Augmented Generation for Auditable Commercial Registry Analysis**|[2605.18770v2](http://arxiv.org/abs/2605.18770v2)| null|
 |**2026-04-11**|**STAR: Semantic-Tuned and Tail-Adaptive Retriever for Graph-Augmented Generation**|[2605.18765v1](http://arxiv.org/abs/2605.18765v1)| **[code](https://anonymous.4open.science/r/STAR-C583)**|
 |**2026-05-18**|**From Node2Vec to GPT-based GraphRAG: scientific impact prediction across graph and language models**|[2605.18410v1](http://arxiv.org/abs/2605.18410v1)| null|
 |**2026-05-14**|**Why Neighborhoods Matter: Traversal Context and Provenance in Agentic GraphRAG**|[2605.15109v1](http://arxiv.org/abs/2605.15109v1)| null|
@@ -626,7 +632,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2024-03-04**|**Pre-trained Language Model with Prompts for Temporal Knowledge Graph Completion**|[2305.07912v2](http://arxiv.org/abs/2305.07912v2)| null|
 |**2023-09-20**|**ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion**|[2305.06395v3](http://arxiv.org/abs/2305.06395v3)| null|
 
-<p align=right>(<a href=#Updated-on-20260727>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260728>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/bansky-cl/graphrag-arxiv-daily-paper.svg?style=for-the-badge
 [contributors-url]: https://github.com/bansky-cl/graphrag-arxiv-daily-paper/graphs/contributors
