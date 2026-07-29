@@ -5,16 +5,18 @@
 
 This repository tracks the latest GraphRAG related papers from arXiv.
 
-## Updated on 2026.07.28
+## Updated on 2026.07.29
 
 ![Monthly Trend](imgs/trend.png)
 
 ## Recent Month Summary (2026-07)
 
-**17 paper(s)** submitted in 2026-07.
+**19 paper(s)** submitted in 2026-07.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-07-26**|**HVM-GraphRAG: Holistic-View Multimodal Graph Retrieval-Augmented Generation on Complex Document**|[2607.24861v1](http://arxiv.org/abs/2607.24861v1)| null|
+|**2026-07-06**|**Multimodal Hybrid Retrieval-Augmented Generation for Scientific Document Understanding using Open-Source SLMs**|[2607.24799v1](http://arxiv.org/abs/2607.24799v1)| null|
 |**2026-07-27**|**A corrective agentic hybrid RAG and an operations-grounded evaluation for a scientific facility**|[2607.24663v1](http://arxiv.org/abs/2607.24663v1)| null|
 |**2026-07-21**|**SEGRA: Structured Experience-Guided Graph Reasoning Agent for Gremlin Based Question Answering**|[2607.22713v1](http://arxiv.org/abs/2607.22713v1)| null|
 |**2026-06-20**|**Evolving from Lessons: Skill-Augmented Table Graph Reasoning for Operation-wise Table Question Answering**|[2607.22633v1](http://arxiv.org/abs/2607.22633v1)| null|
@@ -37,6 +39,8 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-07-26**|**HVM-GraphRAG: Holistic-View Multimodal Graph Retrieval-Augmented Generation on Complex Document**|[2607.24861v1](http://arxiv.org/abs/2607.24861v1)| null|
+|**2026-07-06**|**Multimodal Hybrid Retrieval-Augmented Generation for Scientific Document Understanding using Open-Source SLMs**|[2607.24799v1](http://arxiv.org/abs/2607.24799v1)| null|
 |**2026-07-27**|**A corrective agentic hybrid RAG and an operations-grounded evaluation for a scientific facility**|[2607.24663v1](http://arxiv.org/abs/2607.24663v1)| null|
 |**2026-07-21**|**SEGRA: Structured Experience-Guided Graph Reasoning Agent for Gremlin Based Question Answering**|[2607.22713v1](http://arxiv.org/abs/2607.22713v1)| null|
 |**2026-06-20**|**Evolving from Lessons: Skill-Augmented Table Graph Reasoning for Operation-wise Table Question Answering**|[2607.22633v1](http://arxiv.org/abs/2607.22633v1)| null|
@@ -106,7 +110,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2026-05-11**|**EGL-SCA: Structural Credit Assignment for Co-Evolving Instructions and Tools in Graph Reasoning Agents**|[2605.10366v1](http://arxiv.org/abs/2605.10366v1)| null|
 |**2026-06-11**|**AdaTKG: Adaptive Memory for Temporal Knowledge Graph Reasoning**|[2605.07121v2](http://arxiv.org/abs/2605.07121v2)| **[code](https://github.com/seunghan96/AdaTKG)**|
 |**2026-05-07**|**Tatarstan Toponyms: A Bilingual Dataset and Hybrid RAG System for Geospatial Question Answering**|[2605.05962v1](http://arxiv.org/abs/2605.05962v1)| null|
-|**2026-05-07**|**Sheet as Token: A Graph-Enhanced Representation for Multi-Sheet Spreadsheet Understanding**|[2605.05811v1](http://arxiv.org/abs/2605.05811v1)| null|
+|**2026-07-27**|**Sheet As Token: A Graph-Enhanced Representation for Multi-Sheet Spreadsheet Understanding**|[2605.05811v2](http://arxiv.org/abs/2605.05811v2)| **[code](https://github.com/SHITIANYU-hue/SheetasToken)**|
 |**2026-05-06**|**CHE-TKG: Collaborative Historical Evidence and Evolutionary Dynamics Learning for Temporal Knowledge Graph Reasoning**|[2605.04652v1](http://arxiv.org/abs/2605.04652v1)| null|
 |**2026-05-06**|**Graph-Augmented LLMs for Swiss MP Ideology Prediction**|[2605.04643v1](http://arxiv.org/abs/2605.04643v1)| null|
 |**2026-05-06**|**GEM: Graph-Enhanced Mixture-of-Experts with ReAct Agents for Dialogue State Tracking**|[2605.04449v1](http://arxiv.org/abs/2605.04449v1)| null|
@@ -632,7 +636,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2024-03-04**|**Pre-trained Language Model with Prompts for Temporal Knowledge Graph Completion**|[2305.07912v2](http://arxiv.org/abs/2305.07912v2)| null|
 |**2023-09-20**|**ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion**|[2305.06395v3](http://arxiv.org/abs/2305.06395v3)| null|
 
-<p align=right>(<a href=#Updated-on-20260728>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260729>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/bansky-cl/graphrag-arxiv-daily-paper.svg?style=for-the-badge
 [contributors-url]: https://github.com/bansky-cl/graphrag-arxiv-daily-paper/graphs/contributors
