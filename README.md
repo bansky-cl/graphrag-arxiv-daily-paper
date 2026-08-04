@@ -5,42 +5,27 @@
 
 This repository tracks the latest GraphRAG related papers from arXiv.
 
-## Updated on 2026.08.03
+## Updated on 2026.08.04
 
 ![Monthly Trend](imgs/trend.png)
 
-## Recent Month Summary (2026-07)
+## Recent Month Summary (2026-08)
 
-**21 paper(s)** submitted in 2026-07.
+**3 paper(s)** submitted in 2026-08.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
-|**2026-07-30**|**OptGraph: Large Language Models Enhanced Evolutionary Optimization Via Graph Retrieval-Augmented Generation**|[2607.27918v1](http://arxiv.org/abs/2607.27918v1)| **[code](https://github.com/xianchaoxiu/OptGraph)**|
-|**2026-07-29**|**Dual-Path LLM Reasoning for Multimodal Few-Shot Knowledge Graph Completion**|[2607.26909v1](http://arxiv.org/abs/2607.26909v1)| null|
-|**2026-07-26**|**HVM-GraphRAG: Holistic-View Multimodal Graph Retrieval-Augmented Generation on Complex Document**|[2607.24861v1](http://arxiv.org/abs/2607.24861v1)| null|
-|**2026-07-06**|**Multimodal Hybrid Retrieval-Augmented Generation for Scientific Document Understanding using Open-Source SLMs**|[2607.24799v1](http://arxiv.org/abs/2607.24799v1)| null|
-|**2026-07-27**|**A corrective agentic hybrid RAG and an operations-grounded evaluation for a scientific facility**|[2607.24663v1](http://arxiv.org/abs/2607.24663v1)| null|
-|**2026-07-21**|**SEGRA: Structured Experience-Guided Graph Reasoning Agent for Gremlin Based Question Answering**|[2607.22713v1](http://arxiv.org/abs/2607.22713v1)| null|
-|**2026-06-20**|**Evolving from Lessons: Skill-Augmented Table Graph Reasoning for Operation-wise Table Question Answering**|[2607.22633v1](http://arxiv.org/abs/2607.22633v1)| null|
-|**2026-07-24**|**MA-DAR: Manifold-Aligned Dynamic Adaptive Routing for Continual Temporal Knowledge Graph Reasoning**|[2607.21949v1](http://arxiv.org/abs/2607.21949v1)| null|
-|**2026-07-04**|**HyGRL: Adaptive Hybrid Graph Reasoning for Multi-Entity Questions**|[2607.19398v1](http://arxiv.org/abs/2607.19398v1)| **[code](https://github.com/wjywjy123/HyGRL)**|
-|**2026-06-05**|**GraphContainer: A Unified Platform for Comparing and Debugging Graph RAG Methods**|[2607.19362v1](http://arxiv.org/abs/2607.19362v1)| **[code](https://youtu.be/O02eNJLwkU0)**|
-|**2026-07-18**|**When Do Multimodal and Graph-Augmented RAG Help? A Controlled Evaluation for Document Question Answering**|[2607.16604v1](http://arxiv.org/abs/2607.16604v1)| **[code](https://github.com/sokistar24/multimodal-graph-rag)**|
-|**2026-05-09**|**ColGraphRAG: Late-Interaction Evidence Retrieval for Multimodal GraphRAG**|[2607.16208v1](http://arxiv.org/abs/2607.16208v1)| null|
-|**2026-07-17**|**MGDT: MLLM-Guided Diffusion Transformer with Relation-Adaptive Mixture-of-Experts for Multimodal Knowledge Graph Completion**|[2607.15592v1](http://arxiv.org/abs/2607.15592v1)| null|
-|**2026-07-16**|**Reachability-Aware Pretraining for Efficient Target-Oriented Path Exploration in Temporal Knowledge Graph Reasoning**|[2607.14886v1](http://arxiv.org/abs/2607.14886v1)| null|
-|**2026-07-13**|**RAGU: A Multi-Step GraphRAG Engine with a Compact Domain-Adapted LLM**|[2607.11683v1](http://arxiv.org/abs/2607.11683v1)| **[code](https://huggingface.co/bond005/meno-lite-0.1)**|
-|**2026-07-13**|**FAIR GraphRAG: A Retrieval-Augmented Generation Approach for Semantic Data Analysis**|[2607.11464v1](http://arxiv.org/abs/2607.11464v1)| null|
-|**2026-07-11**|**GAE: Graph-Augmented Evolution for Scientific Discovery via Reinforcement Optimization**|[2607.10127v1](http://arxiv.org/abs/2607.10127v1)| null|
-|**2026-07-09**|**GATS: Graph-Augmented Tree Search with Layered World Models for Efficient Agent Planning**|[2607.08894v1](http://arxiv.org/abs/2607.08894v1)| null|
-|**2026-07-04**|**GRASP: Graph-Reasoning Aided Survey Planning for High-Fidelity Related Work Generation**|[2607.03709v1](http://arxiv.org/abs/2607.03709v1)| null|
-|**2026-07-03**|**Conditional Diffusion Guided Knowledge Transfer for Multi-Domain Knowledge Graph Completion**|[2607.03154v1](http://arxiv.org/abs/2607.03154v1)| null|
-|**2026-06-30**|**AGE: Adaptive-masking for Graph Embedding in Graph Retrieval-Augmented Generation**|[2607.00052v1](http://arxiv.org/abs/2607.00052v1)| null|
+|**2026-08-03**|**X-KGRank: A Knowledge Graph RAG Framework for Explainable Recommendations via Pattern Mining and LLM Re-Ranking**|[2608.01732v1](http://arxiv.org/abs/2608.01732v1)| null|
+|**2026-08-03**|**DocNavRAG: Document-Structured Graph RAG with Stateful Evidence Construction for Complex Document Question Answering**|[2608.01565v1](http://arxiv.org/abs/2608.01565v1)| null|
+|**2026-08-02**|**ACE-GraphRAG: Agentic Context Engineering for Hierarchical GraphRAG**|[2608.01269v1](http://arxiv.org/abs/2608.01269v1)| null|
 
 ## graphrag
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-08-03**|**X-KGRank: A Knowledge Graph RAG Framework for Explainable Recommendations via Pattern Mining and LLM Re-Ranking**|[2608.01732v1](http://arxiv.org/abs/2608.01732v1)| null|
+|**2026-08-03**|**DocNavRAG: Document-Structured Graph RAG with Stateful Evidence Construction for Complex Document Question Answering**|[2608.01565v1](http://arxiv.org/abs/2608.01565v1)| null|
+|**2026-08-02**|**ACE-GraphRAG: Agentic Context Engineering for Hierarchical GraphRAG**|[2608.01269v1](http://arxiv.org/abs/2608.01269v1)| null|
 |**2026-07-30**|**OptGraph: Large Language Models Enhanced Evolutionary Optimization Via Graph Retrieval-Augmented Generation**|[2607.27918v1](http://arxiv.org/abs/2607.27918v1)| **[code](https://github.com/xianchaoxiu/OptGraph)**|
 |**2026-07-29**|**Dual-Path LLM Reasoning for Multimodal Few-Shot Knowledge Graph Completion**|[2607.26909v1](http://arxiv.org/abs/2607.26909v1)| null|
 |**2026-07-26**|**HVM-GraphRAG: Holistic-View Multimodal Graph Retrieval-Augmented Generation on Complex Document**|[2607.24861v1](http://arxiv.org/abs/2607.24861v1)| null|
@@ -640,7 +625,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2024-03-04**|**Pre-trained Language Model with Prompts for Temporal Knowledge Graph Completion**|[2305.07912v2](http://arxiv.org/abs/2305.07912v2)| null|
 |**2023-09-20**|**ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion**|[2305.06395v3](http://arxiv.org/abs/2305.06395v3)| null|
 
-<p align=right>(<a href=#Updated-on-20260803>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260804>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/bansky-cl/graphrag-arxiv-daily-paper.svg?style=for-the-badge
 [contributors-url]: https://github.com/bansky-cl/graphrag-arxiv-daily-paper/graphs/contributors
