@@ -5,27 +5,29 @@
 
 This repository tracks the latest GraphRAG related papers from arXiv.
 
-## Updated on 2026.08.04
+## Updated on 2026.08.05
 
 ![Monthly Trend](imgs/trend.png)
 
 ## Recent Month Summary (2026-08)
 
-**3 paper(s)** submitted in 2026-08.
+**4 paper(s)** submitted in 2026-08.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-08-04**|**DocTrace: Towards Traceable Long Document VQA via Hierarchical Evidence Graph Reasoning**|[2608.03292v1](http://arxiv.org/abs/2608.03292v1)| null|
 |**2026-08-03**|**X-KGRank: A Knowledge Graph RAG Framework for Explainable Recommendations via Pattern Mining and LLM Re-Ranking**|[2608.01732v1](http://arxiv.org/abs/2608.01732v1)| null|
 |**2026-08-03**|**DocNavRAG: Document-Structured Graph RAG with Stateful Evidence Construction for Complex Document Question Answering**|[2608.01565v1](http://arxiv.org/abs/2608.01565v1)| null|
-|**2026-08-02**|**ACE-GraphRAG: Agentic Context Engineering for Hierarchical GraphRAG**|[2608.01269v1](http://arxiv.org/abs/2608.01269v1)| null|
+|**2026-08-04**|**ACE-GraphRAG: Agentic Context Engineering for Hierarchical GraphRAG**|[2608.01269v2](http://arxiv.org/abs/2608.01269v2)| null|
 
 ## graphrag
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-08-04**|**DocTrace: Towards Traceable Long Document VQA via Hierarchical Evidence Graph Reasoning**|[2608.03292v1](http://arxiv.org/abs/2608.03292v1)| null|
 |**2026-08-03**|**X-KGRank: A Knowledge Graph RAG Framework for Explainable Recommendations via Pattern Mining and LLM Re-Ranking**|[2608.01732v1](http://arxiv.org/abs/2608.01732v1)| null|
 |**2026-08-03**|**DocNavRAG: Document-Structured Graph RAG with Stateful Evidence Construction for Complex Document Question Answering**|[2608.01565v1](http://arxiv.org/abs/2608.01565v1)| null|
-|**2026-08-02**|**ACE-GraphRAG: Agentic Context Engineering for Hierarchical GraphRAG**|[2608.01269v1](http://arxiv.org/abs/2608.01269v1)| null|
+|**2026-08-04**|**ACE-GraphRAG: Agentic Context Engineering for Hierarchical GraphRAG**|[2608.01269v2](http://arxiv.org/abs/2608.01269v2)| null|
 |**2026-07-30**|**OptGraph: Large Language Models Enhanced Evolutionary Optimization Via Graph Retrieval-Augmented Generation**|[2607.27918v1](http://arxiv.org/abs/2607.27918v1)| **[code](https://github.com/xianchaoxiu/OptGraph)**|
 |**2026-07-29**|**Dual-Path LLM Reasoning for Multimodal Few-Shot Knowledge Graph Completion**|[2607.26909v1](http://arxiv.org/abs/2607.26909v1)| null|
 |**2026-07-26**|**HVM-GraphRAG: Holistic-View Multimodal Graph Retrieval-Augmented Generation on Complex Document**|[2607.24861v1](http://arxiv.org/abs/2607.24861v1)| null|
@@ -68,7 +70,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2026-06-09**|**When Metrics Disagree: A Meta-Analysis of Knowledge-Graph-Completion Model Benchmarking**|[2606.10287v1](http://arxiv.org/abs/2606.10287v1)| null|
 |**2026-06-08**|**PROBE-Web: An Interactive System for Probing Evaluation Landscapes of Knowledge Graph Completion Models**|[2606.08926v1](http://arxiv.org/abs/2606.08926v1)| null|
 |**2026-06-08**|**Generalized Rank-based Evaluation for Knowledge Graph Completion: Perspectives, Framework, and Analyses**|[2606.08921v1](http://arxiv.org/abs/2606.08921v1)| null|
-|**2026-06-05**|**PDE-Agents: An LLM-Orchestrated Multi-Agent Framework for Automated Finite Element Simulations with Knowledge Graph-Augmented Reasoning**|[2606.07850v1](http://arxiv.org/abs/2606.07850v1)| null|
+|**2026-08-04**|**PDE-Agents: An LLM-Orchestrated Multi-Agent Framework for Automated Finite Element Simulations with Knowledge Graph-Augmented Reasoning**|[2606.07850v2](http://arxiv.org/abs/2606.07850v2)| null|
 |**2026-06-05**|**Pharmacogenomic Knowledge Graph Augmentation for Graph Neural Network-Based Drug-Drug Interaction Prediction**|[2606.07698v1](http://arxiv.org/abs/2606.07698v1)| null|
 |**2026-06-04**|**Beyond Vector Similarity: A Structural Analysis of Graph-Augmented Retrieval for Industrial Knowledge Graphs**|[2606.06003v1](http://arxiv.org/abs/2606.06003v1)| null|
 |**2026-06-04**|**Q-GNN: Query-Conditioned Graph Neural Networks with Type Awareness for Knowledge Graph Completion**|[2606.05639v1](http://arxiv.org/abs/2606.05639v1)| null|
@@ -625,7 +627,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2024-03-04**|**Pre-trained Language Model with Prompts for Temporal Knowledge Graph Completion**|[2305.07912v2](http://arxiv.org/abs/2305.07912v2)| null|
 |**2023-09-20**|**ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion**|[2305.06395v3](http://arxiv.org/abs/2305.06395v3)| null|
 
-<p align=right>(<a href=#Updated-on-20260804>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260805>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/bansky-cl/graphrag-arxiv-daily-paper.svg?style=for-the-badge
 [contributors-url]: https://github.com/bansky-cl/graphrag-arxiv-daily-paper/graphs/contributors
