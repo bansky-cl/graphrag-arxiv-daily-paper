@@ -5,16 +5,17 @@
 
 This repository tracks the latest GraphRAG related papers from arXiv.
 
-## Updated on 2026.08.06
+## Updated on 2026.08.07
 
 ![Monthly Trend](imgs/trend.png)
 
 ## Recent Month Summary (2026-08)
 
-**4 paper(s)** submitted in 2026-08.
+**5 paper(s)** submitted in 2026-08.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-08-06**|**ViSR-KGC: Visual Subgraph Reasoning with Vision-Language Models for Multimodal Knowledge Graph Completion**|[2608.05833v1](http://arxiv.org/abs/2608.05833v1)| null|
 |**2026-08-04**|**DocTrace: Towards Traceable Long Document VQA via Hierarchical Evidence Graph Reasoning**|[2608.03292v1](http://arxiv.org/abs/2608.03292v1)| null|
 |**2026-08-03**|**X-KGRank: A Knowledge Graph RAG Framework for Explainable Recommendations via Pattern Mining and LLM Re-Ranking**|[2608.01732v1](http://arxiv.org/abs/2608.01732v1)| null|
 |**2026-08-03**|**DocNavRAG: Document-Structured Graph RAG with Stateful Evidence Construction for Complex Document Question Answering**|[2608.01565v1](http://arxiv.org/abs/2608.01565v1)| null|
@@ -24,6 +25,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-08-06**|**ViSR-KGC: Visual Subgraph Reasoning with Vision-Language Models for Multimodal Knowledge Graph Completion**|[2608.05833v1](http://arxiv.org/abs/2608.05833v1)| null|
 |**2026-08-04**|**DocTrace: Towards Traceable Long Document VQA via Hierarchical Evidence Graph Reasoning**|[2608.03292v1](http://arxiv.org/abs/2608.03292v1)| null|
 |**2026-08-03**|**X-KGRank: A Knowledge Graph RAG Framework for Explainable Recommendations via Pattern Mining and LLM Re-Ranking**|[2608.01732v1](http://arxiv.org/abs/2608.01732v1)| null|
 |**2026-08-03**|**DocNavRAG: Document-Structured Graph RAG with Stateful Evidence Construction for Complex Document Question Answering**|[2608.01565v1](http://arxiv.org/abs/2608.01565v1)| null|
@@ -627,7 +629,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2024-03-04**|**Pre-trained Language Model with Prompts for Temporal Knowledge Graph Completion**|[2305.07912v2](http://arxiv.org/abs/2305.07912v2)| null|
 |**2023-09-20**|**ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion**|[2305.06395v3](http://arxiv.org/abs/2305.06395v3)| null|
 
-<p align=right>(<a href=#Updated-on-20260806>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260807>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/bansky-cl/graphrag-arxiv-daily-paper.svg?style=for-the-badge
 [contributors-url]: https://github.com/bansky-cl/graphrag-arxiv-daily-paper/graphs/contributors
