@@ -178,7 +178,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2026-02-03**|**WildGraphBench: Benchmarking GraphRAG with Wild-Source Corpora**|[2602.02053v2](http://arxiv.org/abs/2602.02053v2)| **[code](https://github.com/BstWPY/WildGraphBench)**|
 |**2025-11-27**|**Unlocking Electronic Health Records: A Hybrid Graph RAG Approach to Safe Clinical AI for Patient QA**|[2602.00009v1](http://arxiv.org/abs/2602.00009v1)| null|
 |**2026-01-29**|**Bridging Graph Structure and Knowledge-Guided Editing for Interpretable Temporal Knowledge Graph Reasoning**|[2601.21978v1](http://arxiv.org/abs/2601.21978v1)| null|
-|**2026-01-26**|**FastInsight: Fast and Insightful Retrieval via Fusion Operators for Graph RAG**|[2601.18579v1](http://arxiv.org/abs/2601.18579v1)| null|
+|**2026-08-11**|**GraFine: Retrieval-Time Refinement for Efficient Graph RAG over Corpus Graphs**|[2601.18579v2](http://arxiv.org/abs/2601.18579v2)| **[code](https://github.com/asmath472/GraFine)**|
 |**2026-01-25**|**ProGraph-R1: Progress-aware Reinforcement Learning for Graph Retrieval Augmented Generation**|[2601.17755v1](http://arxiv.org/abs/2601.17755v1)| null|
 |**2026-01-23**|**MAGE-KT: Multi-Agent Graph-Enhanced Knowledge Tracing with Subgraph Retrieval and Asymmetric Fusion**|[2601.16886v1](http://arxiv.org/abs/2601.16886v1)| null|
 |**2026-04-20**|**Query-Efficient Agentic Graph Extraction Attacks on GraphRAG Systems**|[2601.14662v2](http://arxiv.org/abs/2601.14662v2)| **[code](https://github.com/shuashua0608/AGEA)**|
