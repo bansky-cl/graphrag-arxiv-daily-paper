@@ -5,16 +5,18 @@
 
 This repository tracks the latest GraphRAG related papers from arXiv.
 
-## Updated on 2026.08.13
+## Updated on 2026.08.14
 
 ![Monthly Trend](imgs/trend.png)
 
 ## Recent Month Summary (2026-08)
 
-**8 paper(s)** submitted in 2026-08.
+**10 paper(s)** submitted in 2026-08.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-08-13**|**Operationalizing Cyber Threat Intelligence with GraphRAG**|[2608.13050v1](http://arxiv.org/abs/2608.13050v1)| null|
+|**2026-08-02**|**Unified Multi-Dimensional Benchmark for Complex Graph Reasoning in Large Language Models**|[2608.12391v1](http://arxiv.org/abs/2608.12391v1)| null|
 |**2026-08-10**|**GALA: Graph-Augmented LLM Agents for Root Cause Analysis and Incident Response in Microservices**|[2608.08968v1](http://arxiv.org/abs/2608.08968v1)| null|
 |**2026-08-08**|**KGCache: Amortized Subgraph Retrieval for KG Reasoning with LLMs**|[2608.07954v1](http://arxiv.org/abs/2608.07954v1)| null|
 |**2026-08-08**|**GraphThink: Graph-Enhanced LLM Thinking for Long-Horizon Embodied Task Planning**|[2608.07905v1](http://arxiv.org/abs/2608.07905v1)| null|
@@ -28,6 +30,8 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-08-13**|**Operationalizing Cyber Threat Intelligence with GraphRAG**|[2608.13050v1](http://arxiv.org/abs/2608.13050v1)| null|
+|**2026-08-02**|**Unified Multi-Dimensional Benchmark for Complex Graph Reasoning in Large Language Models**|[2608.12391v1](http://arxiv.org/abs/2608.12391v1)| null|
 |**2026-08-10**|**GALA: Graph-Augmented LLM Agents for Root Cause Analysis and Incident Response in Microservices**|[2608.08968v1](http://arxiv.org/abs/2608.08968v1)| null|
 |**2026-08-08**|**KGCache: Amortized Subgraph Retrieval for KG Reasoning with LLMs**|[2608.07954v1](http://arxiv.org/abs/2608.07954v1)| null|
 |**2026-08-08**|**GraphThink: Graph-Enhanced LLM Thinking for Long-Horizon Embodied Task Planning**|[2608.07905v1](http://arxiv.org/abs/2608.07905v1)| null|
@@ -635,7 +639,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2024-03-04**|**Pre-trained Language Model with Prompts for Temporal Knowledge Graph Completion**|[2305.07912v2](http://arxiv.org/abs/2305.07912v2)| null|
 |**2023-09-20**|**ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion**|[2305.06395v3](http://arxiv.org/abs/2305.06395v3)| null|
 
-<p align=right>(<a href=#Updated-on-20260813>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260814>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/bansky-cl/graphrag-arxiv-daily-paper.svg?style=for-the-badge
 [contributors-url]: https://github.com/bansky-cl/graphrag-arxiv-daily-paper/graphs/contributors
