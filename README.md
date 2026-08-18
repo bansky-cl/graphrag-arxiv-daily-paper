@@ -5,16 +5,21 @@
 
 This repository tracks the latest GraphRAG related papers from arXiv.
 
-## Updated on 2026.08.17
+## Updated on 2026.08.18
 
 ![Monthly Trend](imgs/trend.png)
 
 ## Recent Month Summary (2026-08)
 
-**10 paper(s)** submitted in 2026-08.
+**15 paper(s)** submitted in 2026-08.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-08-17**|**LineageRAG: Harnessing GraphRAG by Constructing Evidence Lineages with Source Grounding**|[2608.16004v1](http://arxiv.org/abs/2608.16004v1)| null|
+|**2026-08-16**|**Noesis: Bidirectional Graph-RAG with Adaptive Parallelism and Cross-Knowledge-Base Semantic Discovery**|[2608.15919v1](http://arxiv.org/abs/2608.15919v1)| null|
+|**2026-08-16**|**Schema-Agnostic Graph Reasoning Agent for Hybrid Knowledge Graphs**|[2608.15834v1](http://arxiv.org/abs/2608.15834v1)| null|
+|**2026-08-15**|**GraphLoom: Reliability-Calibrated Graph Evidence Routing for Multimodal KG-RAG**|[2608.15056v1](http://arxiv.org/abs/2608.15056v1)| null|
+|**2026-06-12**|**Longitudinal and Graph-Augmented Prediction of Adolescent Substance Use Onset in the ABCD Study**|[2608.14578v1](http://arxiv.org/abs/2608.14578v1)| null|
 |**2026-08-13**|**Operationalizing Cyber Threat Intelligence with GraphRAG**|[2608.13050v1](http://arxiv.org/abs/2608.13050v1)| null|
 |**2026-08-02**|**Unified Multi-Dimensional Benchmark for Complex Graph Reasoning in Large Language Models**|[2608.12391v1](http://arxiv.org/abs/2608.12391v1)| null|
 |**2026-08-10**|**GALA: Graph-Augmented LLM Agents for Root Cause Analysis and Incident Response in Microservices**|[2608.08968v1](http://arxiv.org/abs/2608.08968v1)| null|
@@ -30,6 +35,11 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-08-17**|**LineageRAG: Harnessing GraphRAG by Constructing Evidence Lineages with Source Grounding**|[2608.16004v1](http://arxiv.org/abs/2608.16004v1)| null|
+|**2026-08-16**|**Noesis: Bidirectional Graph-RAG with Adaptive Parallelism and Cross-Knowledge-Base Semantic Discovery**|[2608.15919v1](http://arxiv.org/abs/2608.15919v1)| null|
+|**2026-08-16**|**Schema-Agnostic Graph Reasoning Agent for Hybrid Knowledge Graphs**|[2608.15834v1](http://arxiv.org/abs/2608.15834v1)| null|
+|**2026-08-15**|**GraphLoom: Reliability-Calibrated Graph Evidence Routing for Multimodal KG-RAG**|[2608.15056v1](http://arxiv.org/abs/2608.15056v1)| null|
+|**2026-06-12**|**Longitudinal and Graph-Augmented Prediction of Adolescent Substance Use Onset in the ABCD Study**|[2608.14578v1](http://arxiv.org/abs/2608.14578v1)| null|
 |**2026-08-13**|**Operationalizing Cyber Threat Intelligence with GraphRAG**|[2608.13050v1](http://arxiv.org/abs/2608.13050v1)| null|
 |**2026-08-02**|**Unified Multi-Dimensional Benchmark for Complex Graph Reasoning in Large Language Models**|[2608.12391v1](http://arxiv.org/abs/2608.12391v1)| null|
 |**2026-08-10**|**GALA: Graph-Augmented LLM Agents for Root Cause Analysis and Incident Response in Microservices**|[2608.08968v1](http://arxiv.org/abs/2608.08968v1)| null|
@@ -639,7 +649,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2024-03-04**|**Pre-trained Language Model with Prompts for Temporal Knowledge Graph Completion**|[2305.07912v2](http://arxiv.org/abs/2305.07912v2)| null|
 |**2023-09-20**|**ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion**|[2305.06395v3](http://arxiv.org/abs/2305.06395v3)| null|
 
-<p align=right>(<a href=#Updated-on-20260817>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260818>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/bansky-cl/graphrag-arxiv-daily-paper.svg?style=for-the-badge
 [contributors-url]: https://github.com/bansky-cl/graphrag-arxiv-daily-paper/graphs/contributors
