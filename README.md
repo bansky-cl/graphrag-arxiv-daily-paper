@@ -179,7 +179,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2026-03-18**|**The Reasoning Bottleneck in Graph-RAG: Structured Prompting and Context Compression for Multi-Hop QA**|[2603.14045v2](http://arxiv.org/abs/2603.14045v2)| null|
 |**2026-03-03**|**Suppressing Domain-Specific Hallucination in Construction LLMs: A Knowledge Graph Foundation for GraphRAG and QLoRA on River and Sediment Control Technical Standards**|[2603.13307v1](http://arxiv.org/abs/2603.13307v1)| null|
 |**2026-02-25**|**Federated Personal Knowledge Graph Completion with Lightweight Large Language Models for Personalized Recommendations**|[2603.13264v1](http://arxiv.org/abs/2603.13264v1)| null|
-|**2026-08-21**|**Agentic-Kube: A Graph-Enhanced Multi-Agent Reinforcement Learning Framework for Multi-Objective Kubernetes Scheduling**|[2603.12031v3](http://arxiv.org/abs/2603.12031v3)| null|
+|**2026-08-28**|**Agentic-Kube: A Graph-Enhanced Multi-Agent Reinforcement Learning Framework for Multi-Objective Kubernetes Scheduling**|[2603.12031v4](http://arxiv.org/abs/2603.12031v4)| null|
 |**2026-03-12**|**OMNIA: Closing the Loop by Leveraging LLMs for Knowledge Graph Completion**|[2603.11820v1](http://arxiv.org/abs/2603.11820v1)| null|
 |**2026-03-08**|**KCoEvo: A Knowledge Graph Augmented Framework for Evolutionary Code Generation**|[2603.07581v1](http://arxiv.org/abs/2603.07581v1)| **[code](https://github.com/kangjz1203/KCoEvo)**|
 |**2026-03-07**|**Retrieving Minimal and Sufficient Reasoning Subgraphs with Graph Foundation Models for Path-aware GraphRAG**|[2603.07179v1](http://arxiv.org/abs/2603.07179v1)| null|
