@@ -11,14 +11,16 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 
 ## Recent Month Summary (2026-08)
 
-**24 paper(s)** submitted in 2026-08.
+**26 paper(s)** submitted in 2026-08.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-08-31**|**Graph Evidence Is Not Enough: Diagnosing Native Decoder Use in Graph-Augmented LLMs**|[2608.30437v1](http://arxiv.org/abs/2608.30437v1)| null|
+|**2026-08-31**|**LLM-Based Knowledge Graph Completion Combining Discrete Structural Coding with Similar Entity Information**|[2608.30235v1](http://arxiv.org/abs/2608.30235v1)| null|
 |**2026-08-28**|**Beyond Vector Search: Comparing Classical RAG with Hybrid GraphRAG for Climate Science Q\&A**|[2608.28766v1](http://arxiv.org/abs/2608.28766v1)| null|
 |**2026-08-27**|**GRAIN: Bridging Name and Narrative Shifts in Real-World Graph Reasoning through Invariance-Rewarded Agentic RL**|[2608.27142v1](http://arxiv.org/abs/2608.27142v1)| null|
 |**2026-08-26**|**LivingRAG: Augmenting Graph RAG with Experience**|[2608.25960v1](http://arxiv.org/abs/2608.25960v1)| null|
-|**2026-08-14**|**post-graph-rag: A PostgreSQL-Native Graph RAG Engine**|[2608.24921v1](http://arxiv.org/abs/2608.24921v1)| **[code](https://github.com/crajah/post-graph)**|
+|**2026-08-31**|**post-graph-rag: A PostgreSQL-Native Bi-Temporal Graph RAG Engine with Temporal Grounding at Synthesis**|[2608.24921v2](http://arxiv.org/abs/2608.24921v2)| **[code](https://github.com/crajah/post-graph)**|
 |**2026-08-24**|**FashionKG-RAG: Knowledge Graph-Enhanced Retrieval-Augmented Generation for Fashion Question Answering**|[2608.22688v1](http://arxiv.org/abs/2608.22688v1)| null|
 |**2026-08-22**|**Search Broadly, Seek Evidence on Both Sides, Decide Narrowly: Evidence-Admissible GraphRAG for Longitudinal Clinical Event Verification**|[2608.22062v1](http://arxiv.org/abs/2608.22062v1)| null|
 |**2026-08-19**|**MissDiag: Diagnostic Evaluation of Incomplete-Knowledge Robustness in KGQA and KG-RAG**|[2608.18489v1](http://arxiv.org/abs/2608.18489v1)| null|
@@ -44,10 +46,12 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-08-31**|**Graph Evidence Is Not Enough: Diagnosing Native Decoder Use in Graph-Augmented LLMs**|[2608.30437v1](http://arxiv.org/abs/2608.30437v1)| null|
+|**2026-08-31**|**LLM-Based Knowledge Graph Completion Combining Discrete Structural Coding with Similar Entity Information**|[2608.30235v1](http://arxiv.org/abs/2608.30235v1)| null|
 |**2026-08-28**|**Beyond Vector Search: Comparing Classical RAG with Hybrid GraphRAG for Climate Science Q\&A**|[2608.28766v1](http://arxiv.org/abs/2608.28766v1)| null|
 |**2026-08-27**|**GRAIN: Bridging Name and Narrative Shifts in Real-World Graph Reasoning through Invariance-Rewarded Agentic RL**|[2608.27142v1](http://arxiv.org/abs/2608.27142v1)| null|
 |**2026-08-26**|**LivingRAG: Augmenting Graph RAG with Experience**|[2608.25960v1](http://arxiv.org/abs/2608.25960v1)| null|
-|**2026-08-14**|**post-graph-rag: A PostgreSQL-Native Graph RAG Engine**|[2608.24921v1](http://arxiv.org/abs/2608.24921v1)| **[code](https://github.com/crajah/post-graph)**|
+|**2026-08-31**|**post-graph-rag: A PostgreSQL-Native Bi-Temporal Graph RAG Engine with Temporal Grounding at Synthesis**|[2608.24921v2](http://arxiv.org/abs/2608.24921v2)| **[code](https://github.com/crajah/post-graph)**|
 |**2026-08-24**|**FashionKG-RAG: Knowledge Graph-Enhanced Retrieval-Augmented Generation for Fashion Question Answering**|[2608.22688v1](http://arxiv.org/abs/2608.22688v1)| null|
 |**2026-08-22**|**Search Broadly, Seek Evidence on Both Sides, Decide Narrowly: Evidence-Admissible GraphRAG for Longitudinal Clinical Event Verification**|[2608.22062v1](http://arxiv.org/abs/2608.22062v1)| null|
 |**2026-08-19**|**MissDiag: Diagnostic Evaluation of Incomplete-Knowledge Robustness in KGQA and KG-RAG**|[2608.18489v1](http://arxiv.org/abs/2608.18489v1)| null|
