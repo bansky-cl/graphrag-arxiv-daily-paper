@@ -5,48 +5,28 @@
 
 This repository tracks the latest GraphRAG related papers from arXiv.
 
-## Updated on 2026.09.01
+## Updated on 2026.09.02
 
 ![Monthly Trend](imgs/trend.png)
 
-## Recent Month Summary (2026-08)
+## Recent Month Summary (2026-09)
 
-**26 paper(s)** submitted in 2026-08.
+**3 paper(s)** submitted in 2026-09.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
-|**2026-08-31**|**Graph Evidence Is Not Enough: Diagnosing Native Decoder Use in Graph-Augmented LLMs**|[2608.30437v1](http://arxiv.org/abs/2608.30437v1)| null|
-|**2026-08-31**|**LLM-Based Knowledge Graph Completion Combining Discrete Structural Coding with Similar Entity Information**|[2608.30235v1](http://arxiv.org/abs/2608.30235v1)| null|
-|**2026-08-28**|**Beyond Vector Search: Comparing Classical RAG with Hybrid GraphRAG for Climate Science Q\&A**|[2608.28766v1](http://arxiv.org/abs/2608.28766v1)| null|
-|**2026-08-27**|**GRAIN: Bridging Name and Narrative Shifts in Real-World Graph Reasoning through Invariance-Rewarded Agentic RL**|[2608.27142v1](http://arxiv.org/abs/2608.27142v1)| null|
-|**2026-08-26**|**LivingRAG: Augmenting Graph RAG with Experience**|[2608.25960v1](http://arxiv.org/abs/2608.25960v1)| null|
-|**2026-08-31**|**post-graph-rag: A PostgreSQL-Native Bi-Temporal Graph RAG Engine with Temporal Grounding at Synthesis**|[2608.24921v2](http://arxiv.org/abs/2608.24921v2)| **[code](https://github.com/crajah/post-graph)**|
-|**2026-08-24**|**FashionKG-RAG: Knowledge Graph-Enhanced Retrieval-Augmented Generation for Fashion Question Answering**|[2608.22688v1](http://arxiv.org/abs/2608.22688v1)| null|
-|**2026-08-22**|**Search Broadly, Seek Evidence on Both Sides, Decide Narrowly: Evidence-Admissible GraphRAG for Longitudinal Clinical Event Verification**|[2608.22062v1](http://arxiv.org/abs/2608.22062v1)| null|
-|**2026-08-19**|**MissDiag: Diagnostic Evaluation of Incomplete-Knowledge Robustness in KGQA and KG-RAG**|[2608.18489v1](http://arxiv.org/abs/2608.18489v1)| null|
-|**2026-08-18**|**ClosureBench: A Constructive Benchmark for Compositional Graph Reasoning**|[2608.18242v1](http://arxiv.org/abs/2608.18242v1)| null|
-|**2026-08-18**|**Structure-Internalized Rule Language Model for Faithful Knowledge Graph Reasoning**|[2608.17443v1](http://arxiv.org/abs/2608.17443v1)| null|
-|**2026-08-17**|**LineageRAG: Harnessing GraphRAG by Constructing Evidence Lineages with Source Grounding**|[2608.16004v1](http://arxiv.org/abs/2608.16004v1)| null|
-|**2026-08-16**|**Noesis: Bidirectional Graph-RAG with Adaptive Parallelism and Cross-Knowledge-Base Semantic Discovery**|[2608.15919v1](http://arxiv.org/abs/2608.15919v1)| null|
-|**2026-08-16**|**Schema-Agnostic Graph Reasoning Agent for Hybrid Knowledge Graphs**|[2608.15834v1](http://arxiv.org/abs/2608.15834v1)| null|
-|**2026-08-15**|**GraphLoom: Reliability-Calibrated Graph Evidence Routing for Multimodal KG-RAG**|[2608.15056v1](http://arxiv.org/abs/2608.15056v1)| null|
-|**2026-06-12**|**Longitudinal and Graph-Augmented Prediction of Adolescent Substance Use Onset in the ABCD Study**|[2608.14578v1](http://arxiv.org/abs/2608.14578v1)| null|
-|**2026-08-13**|**Operationalizing Cyber Threat Intelligence with GraphRAG**|[2608.13050v1](http://arxiv.org/abs/2608.13050v1)| null|
-|**2026-08-02**|**Unified Multi-Dimensional Benchmark for Complex Graph Reasoning in Large Language Models**|[2608.12391v1](http://arxiv.org/abs/2608.12391v1)| null|
-|**2026-08-10**|**GALA: Graph-Augmented LLM Agents for Root Cause Analysis and Incident Response in Microservices**|[2608.08968v1](http://arxiv.org/abs/2608.08968v1)| null|
-|**2026-08-08**|**KGCache: Amortized Subgraph Retrieval for KG Reasoning with LLMs**|[2608.07954v1](http://arxiv.org/abs/2608.07954v1)| null|
-|**2026-08-08**|**GraphThink: Graph-Enhanced LLM Thinking for Long-Horizon Embodied Task Planning**|[2608.07905v1](http://arxiv.org/abs/2608.07905v1)| null|
-|**2026-08-09**|**ViSR-KGC: Visual Subgraph Reasoning with Vision-Language Models for Multimodal Knowledge Graph Completion**|[2608.05833v2](http://arxiv.org/abs/2608.05833v2)| null|
-|**2026-08-04**|**DocTrace: Towards Traceable Long Document VQA via Hierarchical Evidence Graph Reasoning**|[2608.03292v1](http://arxiv.org/abs/2608.03292v1)| null|
-|**2026-08-03**|**X-KGRank: A Knowledge Graph RAG Framework for Explainable Recommendations via Pattern Mining and LLM Re-Ranking**|[2608.01732v1](http://arxiv.org/abs/2608.01732v1)| null|
-|**2026-08-03**|**DocNavRAG: Document-Structured Graph RAG with Stateful Evidence Construction for Complex Document Question Answering**|[2608.01565v1](http://arxiv.org/abs/2608.01565v1)| null|
-|**2026-08-04**|**ACE-GraphRAG: Agentic Context Engineering for Hierarchical GraphRAG**|[2608.01269v2](http://arxiv.org/abs/2608.01269v2)| null|
+|**2026-09-01**|**Athena: Vulnerability-Affected Library Identification via Knowledge Graph Completion**|[2609.01187v1](http://arxiv.org/abs/2609.01187v1)| null|
+|**2026-09-01**|**Agent-Enhanced Heterogeneous Graph RAG for Academic Question Answering**|[2609.00761v1](http://arxiv.org/abs/2609.00761v1)| null|
+|**2026-08-31**|**SpecMind: Enabling Spectrum Intelligence via Multi-Agent Hybrid Retrieval-Augmented Generation**|[2609.00427v1](http://arxiv.org/abs/2609.00427v1)| null|
 
 ## graphrag
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
-|**2026-08-31**|**Graph Evidence Is Not Enough: Diagnosing Native Decoder Use in Graph-Augmented LLMs**|[2608.30437v1](http://arxiv.org/abs/2608.30437v1)| null|
+|**2026-09-01**|**Athena: Vulnerability-Affected Library Identification via Knowledge Graph Completion**|[2609.01187v1](http://arxiv.org/abs/2609.01187v1)| null|
+|**2026-09-01**|**Agent-Enhanced Heterogeneous Graph RAG for Academic Question Answering**|[2609.00761v1](http://arxiv.org/abs/2609.00761v1)| null|
+|**2026-08-31**|**SpecMind: Enabling Spectrum Intelligence via Multi-Agent Hybrid Retrieval-Augmented Generation**|[2609.00427v1](http://arxiv.org/abs/2609.00427v1)| null|
+|**2026-09-01**|**Graph Evidence Is Not Enough: Diagnosing Native Decoder Use in Graph-Augmented LLMs**|[2608.30437v2](http://arxiv.org/abs/2608.30437v2)| null|
 |**2026-08-31**|**LLM-Based Knowledge Graph Completion Combining Discrete Structural Coding with Similar Entity Information**|[2608.30235v1](http://arxiv.org/abs/2608.30235v1)| null|
 |**2026-08-28**|**Beyond Vector Search: Comparing Classical RAG with Hybrid GraphRAG for Climate Science Q\&A**|[2608.28766v1](http://arxiv.org/abs/2608.28766v1)| null|
 |**2026-08-27**|**GRAIN: Bridging Name and Narrative Shifts in Real-World Graph Reasoning through Invariance-Rewarded Agentic RL**|[2608.27142v1](http://arxiv.org/abs/2608.27142v1)| null|
@@ -671,7 +651,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2024-03-04**|**Pre-trained Language Model with Prompts for Temporal Knowledge Graph Completion**|[2305.07912v2](http://arxiv.org/abs/2305.07912v2)| null|
 |**2023-09-20**|**ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion**|[2305.06395v3](http://arxiv.org/abs/2305.06395v3)| null|
 
-<p align=right>(<a href=#Updated-on-20260901>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260902>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/bansky-cl/graphrag-arxiv-daily-paper.svg?style=for-the-badge
 [contributors-url]: https://github.com/bansky-cl/graphrag-arxiv-daily-paper/graphs/contributors
