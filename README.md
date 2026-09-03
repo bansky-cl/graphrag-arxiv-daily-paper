@@ -5,16 +5,19 @@
 
 This repository tracks the latest GraphRAG related papers from arXiv.
 
-## Updated on 2026.09.02
+## Updated on 2026.09.03
 
 ![Monthly Trend](imgs/trend.png)
 
 ## Recent Month Summary (2026-09)
 
-**3 paper(s)** submitted in 2026-09.
+**6 paper(s)** submitted in 2026-09.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-09-02**|**Spectral Initialization and Scheduled Graph Smoothness for Uncertain Knowledge Graph Completion**|[2609.02519v1](http://arxiv.org/abs/2609.02519v1)| null|
+|**2026-09-02**|**PEARL: Path-Entity Aligned Relational Learning with Contextual Subgraphs for Inductive Knowledge Graph Completion**|[2609.02216v1](http://arxiv.org/abs/2609.02216v1)| null|
+|**2026-06-30**|**Hybrid Retrieval-Augmented Generation with Knowledge Graph Expansion, RRF Fusion, and Per-Chunk Grounded Evaluation for Enterprise Document Search**|[2609.01617v1](http://arxiv.org/abs/2609.01617v1)| null|
 |**2026-09-01**|**Athena: Vulnerability-Affected Library Identification via Knowledge Graph Completion**|[2609.01187v1](http://arxiv.org/abs/2609.01187v1)| null|
 |**2026-09-01**|**Agent-Enhanced Heterogeneous Graph RAG for Academic Question Answering**|[2609.00761v1](http://arxiv.org/abs/2609.00761v1)| null|
 |**2026-08-31**|**SpecMind: Enabling Spectrum Intelligence via Multi-Agent Hybrid Retrieval-Augmented Generation**|[2609.00427v1](http://arxiv.org/abs/2609.00427v1)| null|
@@ -23,6 +26,9 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-09-02**|**Spectral Initialization and Scheduled Graph Smoothness for Uncertain Knowledge Graph Completion**|[2609.02519v1](http://arxiv.org/abs/2609.02519v1)| null|
+|**2026-09-02**|**PEARL: Path-Entity Aligned Relational Learning with Contextual Subgraphs for Inductive Knowledge Graph Completion**|[2609.02216v1](http://arxiv.org/abs/2609.02216v1)| null|
+|**2026-06-30**|**Hybrid Retrieval-Augmented Generation with Knowledge Graph Expansion, RRF Fusion, and Per-Chunk Grounded Evaluation for Enterprise Document Search**|[2609.01617v1](http://arxiv.org/abs/2609.01617v1)| null|
 |**2026-09-01**|**Athena: Vulnerability-Affected Library Identification via Knowledge Graph Completion**|[2609.01187v1](http://arxiv.org/abs/2609.01187v1)| null|
 |**2026-09-01**|**Agent-Enhanced Heterogeneous Graph RAG for Academic Question Answering**|[2609.00761v1](http://arxiv.org/abs/2609.00761v1)| null|
 |**2026-08-31**|**SpecMind: Enabling Spectrum Intelligence via Multi-Agent Hybrid Retrieval-Augmented Generation**|[2609.00427v1](http://arxiv.org/abs/2609.00427v1)| null|
@@ -651,7 +657,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2024-03-04**|**Pre-trained Language Model with Prompts for Temporal Knowledge Graph Completion**|[2305.07912v2](http://arxiv.org/abs/2305.07912v2)| null|
 |**2023-09-20**|**ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion**|[2305.06395v3](http://arxiv.org/abs/2305.06395v3)| null|
 
-<p align=right>(<a href=#Updated-on-20260902>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260903>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/bansky-cl/graphrag-arxiv-daily-paper.svg?style=for-the-badge
 [contributors-url]: https://github.com/bansky-cl/graphrag-arxiv-daily-paper/graphs/contributors
