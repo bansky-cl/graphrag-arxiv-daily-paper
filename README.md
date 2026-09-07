@@ -5,16 +5,17 @@
 
 This repository tracks the latest GraphRAG related papers from arXiv.
 
-## Updated on 2026.09.06
+## Updated on 2026.09.07
 
 ![Monthly Trend](imgs/trend.png)
 
 ## Recent Month Summary (2026-09)
 
-**7 paper(s)** submitted in 2026-09.
+**8 paper(s)** submitted in 2026-09.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-09-04**|**NS-ST-GraphRAG: Neuro-Symbolic Spatio-Temporal GraphRAG for Literary Knowledge Processing**|[2609.05139v1](http://arxiv.org/abs/2609.05139v1)| null|
 |**2026-07-01**|**R$^{2}$Adapter: A Routing and Rewriting Adapter for Efficient Hybrid RAG**|[2609.02894v1](http://arxiv.org/abs/2609.02894v1)| null|
 |**2026-09-02**|**Spectral Initialization and Scheduled Graph Smoothness for Uncertain Knowledge Graph Completion**|[2609.02519v1](http://arxiv.org/abs/2609.02519v1)| null|
 |**2026-09-02**|**PEARL: Path-Entity Aligned Relational Learning with Contextual Subgraphs for Inductive Knowledge Graph Completion**|[2609.02216v1](http://arxiv.org/abs/2609.02216v1)| null|
@@ -27,6 +28,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-09-04**|**NS-ST-GraphRAG: Neuro-Symbolic Spatio-Temporal GraphRAG for Literary Knowledge Processing**|[2609.05139v1](http://arxiv.org/abs/2609.05139v1)| null|
 |**2026-07-01**|**R$^{2}$Adapter: A Routing and Rewriting Adapter for Efficient Hybrid RAG**|[2609.02894v1](http://arxiv.org/abs/2609.02894v1)| null|
 |**2026-09-02**|**Spectral Initialization and Scheduled Graph Smoothness for Uncertain Knowledge Graph Completion**|[2609.02519v1](http://arxiv.org/abs/2609.02519v1)| null|
 |**2026-09-02**|**PEARL: Path-Entity Aligned Relational Learning with Contextual Subgraphs for Inductive Knowledge Graph Completion**|[2609.02216v1](http://arxiv.org/abs/2609.02216v1)| null|
@@ -43,7 +45,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2026-08-24**|**FashionKG-RAG: Knowledge Graph-Enhanced Retrieval-Augmented Generation for Fashion Question Answering**|[2608.22688v1](http://arxiv.org/abs/2608.22688v1)| null|
 |**2026-08-22**|**Search Broadly, Seek Evidence on Both Sides, Decide Narrowly: Evidence-Admissible GraphRAG for Longitudinal Clinical Event Verification**|[2608.22062v1](http://arxiv.org/abs/2608.22062v1)| null|
 |**2026-08-19**|**MissDiag: Diagnostic Evaluation of Incomplete-Knowledge Robustness in KGQA and KG-RAG**|[2608.18489v1](http://arxiv.org/abs/2608.18489v1)| null|
-|**2026-08-18**|**ClosureBench: A Constructive Benchmark for Compositional Graph Reasoning**|[2608.18242v1](http://arxiv.org/abs/2608.18242v1)| null|
+|**2026-09-04**|**ClosureBench: A Constructive Benchmark for Compositional Graph Reasoning**|[2608.18242v2](http://arxiv.org/abs/2608.18242v2)| null|
 |**2026-08-18**|**Structure-Internalized Rule Language Model for Faithful Knowledge Graph Reasoning**|[2608.17443v1](http://arxiv.org/abs/2608.17443v1)| null|
 |**2026-08-17**|**LineageRAG: Harnessing GraphRAG by Constructing Evidence Lineages with Source Grounding**|[2608.16004v1](http://arxiv.org/abs/2608.16004v1)| null|
 |**2026-08-16**|**Noesis: Bidirectional Graph-RAG with Adaptive Parallelism and Cross-Knowledge-Base Semantic Discovery**|[2608.15919v1](http://arxiv.org/abs/2608.15919v1)| null|
@@ -659,7 +661,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2024-03-04**|**Pre-trained Language Model with Prompts for Temporal Knowledge Graph Completion**|[2305.07912v2](http://arxiv.org/abs/2305.07912v2)| null|
 |**2023-09-20**|**ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion**|[2305.06395v3](http://arxiv.org/abs/2305.06395v3)| null|
 
-<p align=right>(<a href=#Updated-on-20260906>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260907>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/bansky-cl/graphrag-arxiv-daily-paper.svg?style=for-the-badge
 [contributors-url]: https://github.com/bansky-cl/graphrag-arxiv-daily-paper/graphs/contributors
