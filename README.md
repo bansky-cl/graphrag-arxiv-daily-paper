@@ -5,16 +5,17 @@
 
 This repository tracks the latest GraphRAG related papers from arXiv.
 
-## Updated on 2026.09.08
+## Updated on 2026.09.09
 
 ![Monthly Trend](imgs/trend.png)
 
 ## Recent Month Summary (2026-09)
 
-**8 paper(s)** submitted in 2026-09.
+**9 paper(s)** submitted in 2026-09.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-09-07**|**Does Syntax Matter? A Graph-Augmented Variational Topic Model for Computational Social Sciences**|[2609.07797v1](http://arxiv.org/abs/2609.07797v1)| null|
 |**2026-09-04**|**NS-ST-GraphRAG: Neuro-Symbolic Spatio-Temporal GraphRAG for Literary Knowledge Processing**|[2609.05139v1](http://arxiv.org/abs/2609.05139v1)| null|
 |**2026-07-01**|**R$^{2}$Adapter: A Routing and Rewriting Adapter for Efficient Hybrid RAG**|[2609.02894v1](http://arxiv.org/abs/2609.02894v1)| null|
 |**2026-09-02**|**Spectral Initialization and Scheduled Graph Smoothness for Uncertain Knowledge Graph Completion**|[2609.02519v1](http://arxiv.org/abs/2609.02519v1)| null|
@@ -28,6 +29,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-09-07**|**Does Syntax Matter? A Graph-Augmented Variational Topic Model for Computational Social Sciences**|[2609.07797v1](http://arxiv.org/abs/2609.07797v1)| null|
 |**2026-09-04**|**NS-ST-GraphRAG: Neuro-Symbolic Spatio-Temporal GraphRAG for Literary Knowledge Processing**|[2609.05139v1](http://arxiv.org/abs/2609.05139v1)| null|
 |**2026-07-01**|**R$^{2}$Adapter: A Routing and Rewriting Adapter for Efficient Hybrid RAG**|[2609.02894v1](http://arxiv.org/abs/2609.02894v1)| null|
 |**2026-09-02**|**Spectral Initialization and Scheduled Graph Smoothness for Uncertain Knowledge Graph Completion**|[2609.02519v1](http://arxiv.org/abs/2609.02519v1)| null|
@@ -41,7 +43,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2026-08-28**|**Beyond Vector Search: Comparing Classical RAG with Hybrid GraphRAG for Climate Science Q\&A**|[2608.28766v1](http://arxiv.org/abs/2608.28766v1)| null|
 |**2026-08-27**|**GRAIN: Bridging Name and Narrative Shifts in Real-World Graph Reasoning through Invariance-Rewarded Agentic RL**|[2608.27142v1](http://arxiv.org/abs/2608.27142v1)| null|
 |**2026-08-26**|**LivingRAG: Augmenting Graph RAG with Experience**|[2608.25960v1](http://arxiv.org/abs/2608.25960v1)| null|
-|**2026-08-31**|**post-graph-rag: A PostgreSQL-Native Bi-Temporal Graph RAG Engine with Temporal Grounding at Synthesis**|[2608.24921v2](http://arxiv.org/abs/2608.24921v2)| **[code](https://github.com/crajah/post-graph)**|
+|**2026-09-05**|**post-graph-rag: A PostgreSQL-Native Bi-Temporal Graph RAG Engine with Temporal Grounding at Synthesis**|[2608.24921v3](http://arxiv.org/abs/2608.24921v3)| **[code](https://github.com/crajah/post-graph)**|
 |**2026-08-24**|**FashionKG-RAG: Knowledge Graph-Enhanced Retrieval-Augmented Generation for Fashion Question Answering**|[2608.22688v1](http://arxiv.org/abs/2608.22688v1)| null|
 |**2026-08-22**|**Search Broadly, Seek Evidence on Both Sides, Decide Narrowly: Evidence-Admissible GraphRAG for Longitudinal Clinical Event Verification**|[2608.22062v1](http://arxiv.org/abs/2608.22062v1)| null|
 |**2026-08-19**|**MissDiag: Diagnostic Evaluation of Incomplete-Knowledge Robustness in KGQA and KG-RAG**|[2608.18489v1](http://arxiv.org/abs/2608.18489v1)| null|
@@ -661,7 +663,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2024-03-04**|**Pre-trained Language Model with Prompts for Temporal Knowledge Graph Completion**|[2305.07912v2](http://arxiv.org/abs/2305.07912v2)| null|
 |**2023-09-20**|**ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion**|[2305.06395v3](http://arxiv.org/abs/2305.06395v3)| null|
 
-<p align=right>(<a href=#Updated-on-20260908>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260909>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/bansky-cl/graphrag-arxiv-daily-paper.svg?style=for-the-badge
 [contributors-url]: https://github.com/bansky-cl/graphrag-arxiv-daily-paper/graphs/contributors
