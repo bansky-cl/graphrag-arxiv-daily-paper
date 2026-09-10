@@ -59,7 +59,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2026-08-10**|**GALA: Graph-Augmented LLM Agents for Root Cause Analysis and Incident Response in Microservices**|[2608.08968v1](http://arxiv.org/abs/2608.08968v1)| null|
 |**2026-08-08**|**KGCache: Amortized Subgraph Retrieval for KG Reasoning with LLMs**|[2608.07954v1](http://arxiv.org/abs/2608.07954v1)| null|
 |**2026-08-08**|**GraphThink: Graph-Enhanced LLM Thinking for Long-Horizon Embodied Task Planning**|[2608.07905v1](http://arxiv.org/abs/2608.07905v1)| null|
-|**2026-08-09**|**ViSR-KGC: Visual Subgraph Reasoning with Vision-Language Models for Multimodal Knowledge Graph Completion**|[2608.05833v2](http://arxiv.org/abs/2608.05833v2)| null|
+|**2026-09-09**|**ViSR-KGC: Visual Subgraph Reasoning with Vision-Language Models for Multimodal Knowledge Graph Completion**|[2608.05833v3](http://arxiv.org/abs/2608.05833v3)| null|
 |**2026-08-04**|**DocTrace: Towards Traceable Long Document VQA via Hierarchical Evidence Graph Reasoning**|[2608.03292v1](http://arxiv.org/abs/2608.03292v1)| null|
 |**2026-08-03**|**X-KGRank: A Knowledge Graph RAG Framework for Explainable Recommendations via Pattern Mining and LLM Re-Ranking**|[2608.01732v1](http://arxiv.org/abs/2608.01732v1)| null|
 |**2026-08-03**|**DocNavRAG: Document-Structured Graph RAG with Stateful Evidence Construction for Complex Document Question Answering**|[2608.01565v1](http://arxiv.org/abs/2608.01565v1)| null|
