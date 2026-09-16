@@ -5,16 +5,22 @@
 
 This repository tracks the latest GraphRAG related papers from arXiv.
 
-## Updated on 2026.09.15
+## Updated on 2026.09.16
 
 ![Monthly Trend](imgs/trend.png)
 
 ## Recent Month Summary (2026-09)
 
-**10 paper(s)** submitted in 2026-09.
+**16 paper(s)** submitted in 2026-09.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-09-13**|**Biquaternionic Space with Complex-valued Attention for Temporal Knowledge Graph Completion**|[2609.14279v1](http://arxiv.org/abs/2609.14279v1)| null|
+|**2026-09-12**|**ShopEase: A Generative AI-Based Multi-Agent Framework for Intelligent Enterprise Customer Support Using Hybrid Retrieval-Augmented Generation**|[2609.13856v1](http://arxiv.org/abs/2609.13856v1)| null|
+|**2026-09-10**|**Decoupling Error Attribution in Cloud-Native Graph-RAG: A Data Integrity Diagnostic Framework**|[2609.13324v1](http://arxiv.org/abs/2609.13324v1)| null|
+|**2026-09-11**|**Beyond Vector Similarity: Hierarchical Context-Aware Graph RAG vs Standard RAG in Enterprise Code Migration**|[2609.12464v1](http://arxiv.org/abs/2609.12464v1)| null|
+|**2026-09-10**|**GTA: Graph Theory Agent and Benchmark for Algorithmic Graph Reasoning with LLMs**|[2609.12265v1](http://arxiv.org/abs/2609.12265v1)| **[code](https://xzx34.github.io/gta/)**|
+|**2026-09-10**|**Repair Before Reinforce: Context-Augmented Knowledge Graph Reasoning for Multi-Hop Question Answering**|[2609.12230v1](http://arxiv.org/abs/2609.12230v1)| null|
 |**2026-09-10**|**MOSAIC: Query-Aware Exploration Policy Adaptation for GraphRAG**|[2609.11065v1](http://arxiv.org/abs/2609.11065v1)| null|
 |**2026-09-07**|**Does Syntax Matter? A Graph-Augmented Variational Topic Model for Computational Social Sciences**|[2609.07797v1](http://arxiv.org/abs/2609.07797v1)| null|
 |**2026-09-04**|**NS-ST-GraphRAG: Neuro-Symbolic Spatio-Temporal GraphRAG for Literary Knowledge Processing**|[2609.05139v1](http://arxiv.org/abs/2609.05139v1)| null|
@@ -30,6 +36,12 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-09-13**|**Biquaternionic Space with Complex-valued Attention for Temporal Knowledge Graph Completion**|[2609.14279v1](http://arxiv.org/abs/2609.14279v1)| null|
+|**2026-09-12**|**ShopEase: A Generative AI-Based Multi-Agent Framework for Intelligent Enterprise Customer Support Using Hybrid Retrieval-Augmented Generation**|[2609.13856v1](http://arxiv.org/abs/2609.13856v1)| null|
+|**2026-09-10**|**Decoupling Error Attribution in Cloud-Native Graph-RAG: A Data Integrity Diagnostic Framework**|[2609.13324v1](http://arxiv.org/abs/2609.13324v1)| null|
+|**2026-09-11**|**Beyond Vector Similarity: Hierarchical Context-Aware Graph RAG vs Standard RAG in Enterprise Code Migration**|[2609.12464v1](http://arxiv.org/abs/2609.12464v1)| null|
+|**2026-09-10**|**GTA: Graph Theory Agent and Benchmark for Algorithmic Graph Reasoning with LLMs**|[2609.12265v1](http://arxiv.org/abs/2609.12265v1)| **[code](https://xzx34.github.io/gta/)**|
+|**2026-09-10**|**Repair Before Reinforce: Context-Augmented Knowledge Graph Reasoning for Multi-Hop Question Answering**|[2609.12230v1](http://arxiv.org/abs/2609.12230v1)| null|
 |**2026-09-10**|**MOSAIC: Query-Aware Exploration Policy Adaptation for GraphRAG**|[2609.11065v1](http://arxiv.org/abs/2609.11065v1)| null|
 |**2026-09-07**|**Does Syntax Matter? A Graph-Augmented Variational Topic Model for Computational Social Sciences**|[2609.07797v1](http://arxiv.org/abs/2609.07797v1)| null|
 |**2026-09-04**|**NS-ST-GraphRAG: Neuro-Symbolic Spatio-Temporal GraphRAG for Literary Knowledge Processing**|[2609.05139v1](http://arxiv.org/abs/2609.05139v1)| null|
@@ -72,7 +84,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2026-07-06**|**Multimodal Hybrid Retrieval-Augmented Generation for Scientific Document Understanding using Open-Source SLMs**|[2607.24799v1](http://arxiv.org/abs/2607.24799v1)| null|
 |**2026-07-27**|**A corrective agentic hybrid RAG and an operations-grounded evaluation for a scientific facility**|[2607.24663v1](http://arxiv.org/abs/2607.24663v1)| null|
 |**2026-07-21**|**SEGRA: Structured Experience-Guided Graph Reasoning Agent for Gremlin Based Question Answering**|[2607.22713v1](http://arxiv.org/abs/2607.22713v1)| null|
-|**2026-06-20**|**Evolving from Lessons: Skill-Augmented Table Graph Reasoning for Operation-wise Table Question Answering**|[2607.22633v1](http://arxiv.org/abs/2607.22633v1)| null|
+|**2026-09-14**|**Evolving from Lessons: Skill-Augmented Table Graph Reasoning for Operation-wise Table Question Answering**|[2607.22633v2](http://arxiv.org/abs/2607.22633v2)| null|
 |**2026-07-24**|**MA-DAR: Manifold-Aligned Dynamic Adaptive Routing for Continual Temporal Knowledge Graph Reasoning**|[2607.21949v1](http://arxiv.org/abs/2607.21949v1)| null|
 |**2026-07-04**|**HyGRL: Adaptive Hybrid Graph Reasoning for Multi-Entity Questions**|[2607.19398v1](http://arxiv.org/abs/2607.19398v1)| **[code](https://github.com/wjywjy123/HyGRL)**|
 |**2026-06-05**|**GraphContainer: A Unified Platform for Comparing and Debugging Graph RAG Methods**|[2607.19362v1](http://arxiv.org/abs/2607.19362v1)| **[code](https://youtu.be/O02eNJLwkU0)**|
@@ -665,7 +677,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2024-03-04**|**Pre-trained Language Model with Prompts for Temporal Knowledge Graph Completion**|[2305.07912v2](http://arxiv.org/abs/2305.07912v2)| null|
 |**2023-09-20**|**ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion**|[2305.06395v3](http://arxiv.org/abs/2305.06395v3)| null|
 
-<p align=right>(<a href=#Updated-on-20260915>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260916>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/bansky-cl/graphrag-arxiv-daily-paper.svg?style=for-the-badge
 [contributors-url]: https://github.com/bansky-cl/graphrag-arxiv-daily-paper/graphs/contributors
