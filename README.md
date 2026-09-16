@@ -11,10 +11,11 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 
 ## Recent Month Summary (2026-09)
 
-**16 paper(s)** submitted in 2026-09.
+**17 paper(s)** submitted in 2026-09.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-09-15**|**PunGraph: Retrieval-Enhanced Phonetic-Semantic Graph Reasoning for Pun Understanding**|[2609.16557v1](http://arxiv.org/abs/2609.16557v1)| **[code](https://github.com/ysu132/PunGraph)**|
 |**2026-09-13**|**Biquaternionic Space with Complex-valued Attention for Temporal Knowledge Graph Completion**|[2609.14279v1](http://arxiv.org/abs/2609.14279v1)| null|
 |**2026-09-12**|**ShopEase: A Generative AI-Based Multi-Agent Framework for Intelligent Enterprise Customer Support Using Hybrid Retrieval-Augmented Generation**|[2609.13856v1](http://arxiv.org/abs/2609.13856v1)| null|
 |**2026-09-10**|**Decoupling Error Attribution in Cloud-Native Graph-RAG: A Data Integrity Diagnostic Framework**|[2609.13324v1](http://arxiv.org/abs/2609.13324v1)| null|
@@ -36,6 +37,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-09-15**|**PunGraph: Retrieval-Enhanced Phonetic-Semantic Graph Reasoning for Pun Understanding**|[2609.16557v1](http://arxiv.org/abs/2609.16557v1)| **[code](https://github.com/ysu132/PunGraph)**|
 |**2026-09-13**|**Biquaternionic Space with Complex-valued Attention for Temporal Knowledge Graph Completion**|[2609.14279v1](http://arxiv.org/abs/2609.14279v1)| null|
 |**2026-09-12**|**ShopEase: A Generative AI-Based Multi-Agent Framework for Intelligent Enterprise Customer Support Using Hybrid Retrieval-Augmented Generation**|[2609.13856v1](http://arxiv.org/abs/2609.13856v1)| null|
 |**2026-09-10**|**Decoupling Error Attribution in Cloud-Native Graph-RAG: A Data Integrity Diagnostic Framework**|[2609.13324v1](http://arxiv.org/abs/2609.13324v1)| null|
