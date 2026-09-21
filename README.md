@@ -11,10 +11,14 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 
 ## Recent Month Summary (2026-09)
 
-**17 paper(s)** submitted in 2026-09.
+**21 paper(s)** submitted in 2026-09.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-09-18**|**OpenMAS-GCom. A Diagnostic Benchmark for Graph-enhanced Multi-Agent Systems**|[2609.21527v1](http://arxiv.org/abs/2609.21527v1)| null|
+|**2026-09-18**|**Knowledge-Graph-Augmented Chronos-2 for HEC-RAS Surrogate Forecasting**|[2609.21381v1](http://arxiv.org/abs/2609.21381v1)| null|
+|**2026-09-18**|**M2G-LLM: Enhancing Clinical Prediction via Multimodal Graph Reasoning and LLM Context Injection**|[2609.21164v1](http://arxiv.org/abs/2609.21164v1)| null|
+|**2026-07-22**|**HERMES: Contrast-Aware Knowledge Graph Reasoning from Clinical Notes for Patient Outcome Prediction**|[2609.20825v1](http://arxiv.org/abs/2609.20825v1)| null|
 |**2026-09-15**|**PunGraph: Retrieval-Enhanced Phonetic-Semantic Graph Reasoning for Pun Understanding**|[2609.16557v1](http://arxiv.org/abs/2609.16557v1)| **[code](https://github.com/ysu132/PunGraph)**|
 |**2026-09-13**|**Biquaternionic Space with Complex-valued Attention for Temporal Knowledge Graph Completion**|[2609.14279v1](http://arxiv.org/abs/2609.14279v1)| null|
 |**2026-09-12**|**ShopEase: A Generative AI-Based Multi-Agent Framework for Intelligent Enterprise Customer Support Using Hybrid Retrieval-Augmented Generation**|[2609.13856v1](http://arxiv.org/abs/2609.13856v1)| null|
@@ -37,6 +41,10 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-09-18**|**OpenMAS-GCom. A Diagnostic Benchmark for Graph-enhanced Multi-Agent Systems**|[2609.21527v1](http://arxiv.org/abs/2609.21527v1)| null|
+|**2026-09-18**|**Knowledge-Graph-Augmented Chronos-2 for HEC-RAS Surrogate Forecasting**|[2609.21381v1](http://arxiv.org/abs/2609.21381v1)| null|
+|**2026-09-18**|**M2G-LLM: Enhancing Clinical Prediction via Multimodal Graph Reasoning and LLM Context Injection**|[2609.21164v1](http://arxiv.org/abs/2609.21164v1)| null|
+|**2026-07-22**|**HERMES: Contrast-Aware Knowledge Graph Reasoning from Clinical Notes for Patient Outcome Prediction**|[2609.20825v1](http://arxiv.org/abs/2609.20825v1)| null|
 |**2026-09-15**|**PunGraph: Retrieval-Enhanced Phonetic-Semantic Graph Reasoning for Pun Understanding**|[2609.16557v1](http://arxiv.org/abs/2609.16557v1)| **[code](https://github.com/ysu132/PunGraph)**|
 |**2026-09-13**|**Biquaternionic Space with Complex-valued Attention for Temporal Knowledge Graph Completion**|[2609.14279v1](http://arxiv.org/abs/2609.14279v1)| null|
 |**2026-09-12**|**ShopEase: A Generative AI-Based Multi-Agent Framework for Intelligent Enterprise Customer Support Using Hybrid Retrieval-Augmented Generation**|[2609.13856v1](http://arxiv.org/abs/2609.13856v1)| null|
