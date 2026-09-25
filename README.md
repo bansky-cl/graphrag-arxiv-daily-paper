@@ -11,10 +11,13 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 
 ## Recent Month Summary (2026-09)
 
-**25 paper(s)** submitted in 2026-09.
+**28 paper(s)** submitted in 2026-09.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-08-31**|**EvLink: Source-Grounded Evidence Linking for Graph RAG**|[2609.29695v1](http://arxiv.org/abs/2609.29695v1)| null|
+|**2026-08-26**|**BLADE: Distilled LLM Regularization for Calibrated Knowledge Graph Completion**|[2609.29487v1](http://arxiv.org/abs/2609.29487v1)| null|
+|**2026-09-24**|**Advancing the Physical Internet with GraphRAG: A New Way to Review and Integrate Existing Research**|[2609.29083v1](http://arxiv.org/abs/2609.29083v1)| null|
 |**2026-09-23**|**Automated Extraction of Records of Processing Activities (RoPA) Using Hybrid RAG and Locally Deployed Large Language Models**|[2609.27359v1](http://arxiv.org/abs/2609.27359v1)| null|
 |**2026-09-22**|**LEGO: Synergizing Expert GraphRAG and Expert Chain-of-Thought for Legal Reasoning**|[2609.27009v1](http://arxiv.org/abs/2609.27009v1)| **[code](https://github.com/BLK-WHT/LEGO)**|
 |**2026-08-12**|**ABAI at COLIEE 2026 Task 1: Multi-Stage Retrieval with GraphRAG-Enhanced Meta-Learning, and a Post-Hoc Study of the Cross-Validation-to-Test Gap**|[2609.26237v1](http://arxiv.org/abs/2609.26237v1)| null|
@@ -45,6 +48,9 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-08-31**|**EvLink: Source-Grounded Evidence Linking for Graph RAG**|[2609.29695v1](http://arxiv.org/abs/2609.29695v1)| null|
+|**2026-08-26**|**BLADE: Distilled LLM Regularization for Calibrated Knowledge Graph Completion**|[2609.29487v1](http://arxiv.org/abs/2609.29487v1)| null|
+|**2026-09-24**|**Advancing the Physical Internet with GraphRAG: A New Way to Review and Integrate Existing Research**|[2609.29083v1](http://arxiv.org/abs/2609.29083v1)| null|
 |**2026-09-23**|**Automated Extraction of Records of Processing Activities (RoPA) Using Hybrid RAG and Locally Deployed Large Language Models**|[2609.27359v1](http://arxiv.org/abs/2609.27359v1)| null|
 |**2026-09-22**|**LEGO: Synergizing Expert GraphRAG and Expert Chain-of-Thought for Legal Reasoning**|[2609.27009v1](http://arxiv.org/abs/2609.27009v1)| **[code](https://github.com/BLK-WHT/LEGO)**|
 |**2026-08-12**|**ABAI at COLIEE 2026 Task 1: Multi-Stage Retrieval with GraphRAG-Enhanced Meta-Learning, and a Post-Hoc Study of the Cross-Validation-to-Test Gap**|[2609.26237v1](http://arxiv.org/abs/2609.26237v1)| null|
