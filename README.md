@@ -11,10 +11,11 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 
 ## Recent Month Summary (2026-09)
 
-**28 paper(s)** submitted in 2026-09.
+**29 paper(s)** submitted in 2026-09.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-09-28**|**Signal or Noise? Modality Contribution and Cooperation in Multimodal GraphRAG**|[2609.35304v1](http://arxiv.org/abs/2609.35304v1)| null|
 |**2026-08-31**|**EvLink: Source-Grounded Evidence Linking for Graph RAG**|[2609.29695v1](http://arxiv.org/abs/2609.29695v1)| null|
 |**2026-08-26**|**BLADE: Distilled LLM Regularization for Calibrated Knowledge Graph Completion**|[2609.29487v1](http://arxiv.org/abs/2609.29487v1)| null|
 |**2026-09-24**|**Advancing the Physical Internet with GraphRAG: A New Way to Review and Integrate Existing Research**|[2609.29083v1](http://arxiv.org/abs/2609.29083v1)| null|
@@ -48,6 +49,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-09-28**|**Signal or Noise? Modality Contribution and Cooperation in Multimodal GraphRAG**|[2609.35304v1](http://arxiv.org/abs/2609.35304v1)| null|
 |**2026-08-31**|**EvLink: Source-Grounded Evidence Linking for Graph RAG**|[2609.29695v1](http://arxiv.org/abs/2609.29695v1)| null|
 |**2026-08-26**|**BLADE: Distilled LLM Regularization for Calibrated Knowledge Graph Completion**|[2609.29487v1](http://arxiv.org/abs/2609.29487v1)| null|
 |**2026-09-24**|**Advancing the Physical Internet with GraphRAG: A New Way to Review and Integrate Existing Research**|[2609.29083v1](http://arxiv.org/abs/2609.29083v1)| null|
@@ -140,7 +142,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2026-06-12**|**Knowledge Graph Enhanced Memory-Augmented Retrieval for Long Context Modeling**|[2606.14047v1](http://arxiv.org/abs/2606.14047v1)| null|
 |**2026-06-11**|**Multi-Field Hybrid Retrieval-Augmented Generation for Maritime Accident Root Cause Analysis**|[2606.13249v1](http://arxiv.org/abs/2606.13249v1)| null|
 |**2026-06-11**|**G-Long: Graph-Enhanced Memory Management for Efficient Long-Term Dialogue Agents**|[2606.13115v1](http://arxiv.org/abs/2606.13115v1)| null|
-|**2026-06-09**|**Agentic Hybrid RAG for Evidence-Grounded Muon Collider Analysis**|[2606.10381v1](http://arxiv.org/abs/2606.10381v1)| null|
+|**2026-09-28**|**Agentic Hybrid RAG for Evidence-Grounded Muon Collider Analysis**|[2606.10381v2](http://arxiv.org/abs/2606.10381v2)| **[code](https://github.com/AItutorialjrb/RAG_muon_JINST}{this)**|
 |**2026-06-09**|**When Metrics Disagree: A Meta-Analysis of Knowledge-Graph-Completion Model Benchmarking**|[2606.10287v1](http://arxiv.org/abs/2606.10287v1)| null|
 |**2026-08-21**|**PROBE-Web: An Interactive System for Probing Evaluation Landscapes of Knowledge Graph Completion Models**|[2606.08926v3](http://arxiv.org/abs/2606.08926v3)| null|
 |**2026-06-08**|**Generalized Rank-based Evaluation for Knowledge Graph Completion: Perspectives, Framework, and Analyses**|[2606.08921v1](http://arxiv.org/abs/2606.08921v1)| null|
