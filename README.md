@@ -11,10 +11,11 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 
 ## Recent Month Summary (2026-09)
 
-**29 paper(s)** submitted in 2026-09.
+**30 paper(s)** submitted in 2026-09.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-09-29**|**Corpus-Guided Dual-Path Propagation for Graph Retrieval-Augmented Generation**|[2609.37661v1](http://arxiv.org/abs/2609.37661v1)| **[code](https://github.com/Jacob-biu/NexusRAG)**|
 |**2026-09-28**|**Signal or Noise? Modality Contribution and Cooperation in Multimodal GraphRAG**|[2609.35304v1](http://arxiv.org/abs/2609.35304v1)| null|
 |**2026-08-31**|**EvLink: Source-Grounded Evidence Linking for Graph RAG**|[2609.29695v1](http://arxiv.org/abs/2609.29695v1)| null|
 |**2026-08-26**|**BLADE: Distilled LLM Regularization for Calibrated Knowledge Graph Completion**|[2609.29487v1](http://arxiv.org/abs/2609.29487v1)| null|
@@ -49,6 +50,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-09-29**|**Corpus-Guided Dual-Path Propagation for Graph Retrieval-Augmented Generation**|[2609.37661v1](http://arxiv.org/abs/2609.37661v1)| **[code](https://github.com/Jacob-biu/NexusRAG)**|
 |**2026-09-28**|**Signal or Noise? Modality Contribution and Cooperation in Multimodal GraphRAG**|[2609.35304v1](http://arxiv.org/abs/2609.35304v1)| null|
 |**2026-08-31**|**EvLink: Source-Grounded Evidence Linking for Graph RAG**|[2609.29695v1](http://arxiv.org/abs/2609.29695v1)| null|
 |**2026-08-26**|**BLADE: Distilled LLM Regularization for Calibrated Knowledge Graph Completion**|[2609.29487v1](http://arxiv.org/abs/2609.29487v1)| null|
@@ -166,7 +168,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2026-05-26**|**RAGEAR: Retrieval-Augmented Graph-Enhanced Academic Recommender**|[2605.26819v1](http://arxiv.org/abs/2605.26819v1)| null|
 |**2026-05-21**|**Ex-GraphRAG: Interpretable Evidence Routing for Graph-Augmented LLMs**|[2605.21994v1](http://arxiv.org/abs/2605.21994v1)| null|
 |**2026-05-20**|**GraphRAG on Consumer Hardware: Benchmarking Local LLMs for Healthcare EHR Schema Retrieval**|[2605.20815v1](http://arxiv.org/abs/2605.20815v1)| null|
-|**2026-07-24**|**Agentic Graph Retrieval-Augmented Generation for Auditable Commercial Registry Analysis**|[2605.18770v2](http://arxiv.org/abs/2605.18770v2)| null|
+|**2026-09-29**|**Agentic Graph Retrieval-Augmented Generation for Auditable Commercial Registry Analysis**|[2605.18770v3](http://arxiv.org/abs/2605.18770v3)| null|
 |**2026-04-11**|**STAR: Semantic-Tuned and Tail-Adaptive Retriever for Graph-Augmented Generation**|[2605.18765v1](http://arxiv.org/abs/2605.18765v1)| **[code](https://anonymous.4open.science/r/STAR-C583)**|
 |**2026-05-18**|**From Node2Vec to GPT-based GraphRAG: scientific impact prediction across graph and language models**|[2605.18410v1](http://arxiv.org/abs/2605.18410v1)| null|
 |**2026-05-14**|**Why Neighborhoods Matter: Traversal Context and Provenance in Agentic GraphRAG**|[2605.15109v1](http://arxiv.org/abs/2605.15109v1)| null|
