@@ -5,16 +5,17 @@
 
 This repository tracks the latest GraphRAG related papers from arXiv.
 
-## Updated on 2026.09.30
+## Updated on 2026.10.01
 
 ![Monthly Trend](imgs/trend.png)
 
 ## Recent Month Summary (2026-09)
 
-**30 paper(s)** submitted in 2026-09.
+**31 paper(s)** submitted in 2026-09.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-09-30**|**GraphCert: Bootstrap Agentic Graph Reasoning with Certified Evidence Rubrics**|[2609.38798v1](http://arxiv.org/abs/2609.38798v1)| null|
 |**2026-09-29**|**Corpus-Guided Dual-Path Propagation for Graph Retrieval-Augmented Generation**|[2609.37661v1](http://arxiv.org/abs/2609.37661v1)| **[code](https://github.com/Jacob-biu/NexusRAG)**|
 |**2026-09-28**|**Signal or Noise? Modality Contribution and Cooperation in Multimodal GraphRAG**|[2609.35304v1](http://arxiv.org/abs/2609.35304v1)| null|
 |**2026-08-31**|**EvLink: Source-Grounded Evidence Linking for Graph RAG**|[2609.29695v1](http://arxiv.org/abs/2609.29695v1)| null|
@@ -50,6 +51,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-09-30**|**GraphCert: Bootstrap Agentic Graph Reasoning with Certified Evidence Rubrics**|[2609.38798v1](http://arxiv.org/abs/2609.38798v1)| null|
 |**2026-09-29**|**Corpus-Guided Dual-Path Propagation for Graph Retrieval-Augmented Generation**|[2609.37661v1](http://arxiv.org/abs/2609.37661v1)| **[code](https://github.com/Jacob-biu/NexusRAG)**|
 |**2026-09-28**|**Signal or Noise? Modality Contribution and Cooperation in Multimodal GraphRAG**|[2609.35304v1](http://arxiv.org/abs/2609.35304v1)| null|
 |**2026-08-31**|**EvLink: Source-Grounded Evidence Linking for Graph RAG**|[2609.29695v1](http://arxiv.org/abs/2609.29695v1)| null|
@@ -705,7 +707,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2024-03-04**|**Pre-trained Language Model with Prompts for Temporal Knowledge Graph Completion**|[2305.07912v2](http://arxiv.org/abs/2305.07912v2)| null|
 |**2023-09-20**|**ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion**|[2305.06395v3](http://arxiv.org/abs/2305.06395v3)| null|
 
-<p align=right>(<a href=#Updated-on-20260930>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261001>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/bansky-cl/graphrag-arxiv-daily-paper.svg?style=for-the-badge
 [contributors-url]: https://github.com/bansky-cl/graphrag-arxiv-daily-paper/graphs/contributors
