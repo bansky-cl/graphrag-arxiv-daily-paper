@@ -9,48 +9,19 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 
 ![Monthly Trend](imgs/trend.png)
 
-## Recent Month Summary (2026-09)
+## Recent Month Summary (2026-10)
 
-**31 paper(s)** submitted in 2026-09.
+**1 paper(s)** submitted in 2026-10.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
-|**2026-09-30**|**GraphCert: Bootstrap Agentic Graph Reasoning with Certified Evidence Rubrics**|[2609.38798v1](http://arxiv.org/abs/2609.38798v1)| null|
-|**2026-09-29**|**Corpus-Guided Dual-Path Propagation for Graph Retrieval-Augmented Generation**|[2609.37661v1](http://arxiv.org/abs/2609.37661v1)| **[code](https://github.com/Jacob-biu/NexusRAG)**|
-|**2026-09-28**|**Signal or Noise? Modality Contribution and Cooperation in Multimodal GraphRAG**|[2609.35304v1](http://arxiv.org/abs/2609.35304v1)| null|
-|**2026-08-31**|**EvLink: Source-Grounded Evidence Linking for Graph RAG**|[2609.29695v1](http://arxiv.org/abs/2609.29695v1)| null|
-|**2026-08-26**|**BLADE: Distilled LLM Regularization for Calibrated Knowledge Graph Completion**|[2609.29487v1](http://arxiv.org/abs/2609.29487v1)| null|
-|**2026-09-24**|**Advancing the Physical Internet with GraphRAG: A New Way to Review and Integrate Existing Research**|[2609.29083v1](http://arxiv.org/abs/2609.29083v1)| null|
-|**2026-09-23**|**Automated Extraction of Records of Processing Activities (RoPA) Using Hybrid RAG and Locally Deployed Large Language Models**|[2609.27359v1](http://arxiv.org/abs/2609.27359v1)| null|
-|**2026-09-22**|**LEGO: Synergizing Expert GraphRAG and Expert Chain-of-Thought for Legal Reasoning**|[2609.27009v1](http://arxiv.org/abs/2609.27009v1)| **[code](https://github.com/BLK-WHT/LEGO)**|
-|**2026-08-12**|**ABAI at COLIEE 2026 Task 1: Multi-Stage Retrieval with GraphRAG-Enhanced Meta-Learning, and a Post-Hoc Study of the Cross-Validation-to-Test Gap**|[2609.26237v1](http://arxiv.org/abs/2609.26237v1)| null|
-|**2026-09-04**|**Knowledge Graph-Augmented Ambient AI for Clinical Note Generation**|[2609.22239v1](http://arxiv.org/abs/2609.22239v1)| null|
-|**2026-09-18**|**OpenMAS-GCom. A Diagnostic Benchmark for Graph-enhanced Multi-Agent Systems**|[2609.21527v1](http://arxiv.org/abs/2609.21527v1)| null|
-|**2026-09-18**|**Knowledge-Graph-Augmented Chronos-2 for HEC-RAS Surrogate Forecasting**|[2609.21381v1](http://arxiv.org/abs/2609.21381v1)| null|
-|**2026-09-18**|**M2G-LLM: Enhancing Clinical Prediction via Multimodal Graph Reasoning and LLM Context Injection**|[2609.21164v1](http://arxiv.org/abs/2609.21164v1)| null|
-|**2026-07-22**|**HERMES: Contrast-Aware Knowledge Graph Reasoning from Clinical Notes for Patient Outcome Prediction**|[2609.20825v1](http://arxiv.org/abs/2609.20825v1)| null|
-|**2026-09-15**|**PunGraph: Retrieval-Enhanced Phonetic-Semantic Graph Reasoning for Pun Understanding**|[2609.16557v1](http://arxiv.org/abs/2609.16557v1)| **[code](https://github.com/ysu132/PunGraph)**|
-|**2026-09-13**|**Biquaternionic Space with Complex-valued Attention for Temporal Knowledge Graph Completion**|[2609.14279v1](http://arxiv.org/abs/2609.14279v1)| null|
-|**2026-09-12**|**ShopEase: A Generative AI-Based Multi-Agent Framework for Intelligent Enterprise Customer Support Using Hybrid Retrieval-Augmented Generation**|[2609.13856v1](http://arxiv.org/abs/2609.13856v1)| null|
-|**2026-09-10**|**Decoupling Error Attribution in Cloud-Native Graph-RAG: A Data Integrity Diagnostic Framework**|[2609.13324v1](http://arxiv.org/abs/2609.13324v1)| null|
-|**2026-09-11**|**Beyond Vector Similarity: Hierarchical Context-Aware Graph RAG vs Standard RAG in Enterprise Code Migration**|[2609.12464v1](http://arxiv.org/abs/2609.12464v1)| null|
-|**2026-09-10**|**GTA: Graph Theory Agent and Benchmark for Algorithmic Graph Reasoning with LLMs**|[2609.12265v1](http://arxiv.org/abs/2609.12265v1)| **[code](https://xzx34.github.io/gta/)**|
-|**2026-09-10**|**Repair Before Reinforce: Context-Augmented Knowledge Graph Reasoning for Multi-Hop Question Answering**|[2609.12230v1](http://arxiv.org/abs/2609.12230v1)| null|
-|**2026-09-10**|**MOSAIC: Query-Aware Exploration Policy Adaptation for GraphRAG**|[2609.11065v1](http://arxiv.org/abs/2609.11065v1)| null|
-|**2026-09-07**|**Does Syntax Matter? A Graph-Augmented Variational Topic Model for Computational Social Sciences**|[2609.07797v1](http://arxiv.org/abs/2609.07797v1)| null|
-|**2026-09-04**|**NS-ST-GraphRAG: Neuro-Symbolic Spatio-Temporal GraphRAG for Literary Knowledge Processing**|[2609.05139v1](http://arxiv.org/abs/2609.05139v1)| null|
-|**2026-07-01**|**R$^{2}$Adapter: A Routing and Rewriting Adapter for Efficient Hybrid RAG**|[2609.02894v1](http://arxiv.org/abs/2609.02894v1)| null|
-|**2026-09-02**|**Spectral Initialization and Scheduled Graph Smoothness for Uncertain Knowledge Graph Completion**|[2609.02519v1](http://arxiv.org/abs/2609.02519v1)| null|
-|**2026-09-02**|**PEARL: Path-Entity Aligned Relational Learning with Contextual Subgraphs for Inductive Knowledge Graph Completion**|[2609.02216v1](http://arxiv.org/abs/2609.02216v1)| null|
-|**2026-06-30**|**Hybrid Retrieval-Augmented Generation with Knowledge Graph Expansion, RRF Fusion, and Per-Chunk Grounded Evaluation for Enterprise Document Search**|[2609.01617v1](http://arxiv.org/abs/2609.01617v1)| null|
-|**2026-09-01**|**Athena: Vulnerability-Affected Library Identification via Knowledge Graph Completion**|[2609.01187v1](http://arxiv.org/abs/2609.01187v1)| null|
-|**2026-09-01**|**Agent-Enhanced Heterogeneous Graph RAG for Academic Question Answering**|[2609.00761v1](http://arxiv.org/abs/2609.00761v1)| null|
-|**2026-08-31**|**SpecMind: Enabling Spectrum Intelligence via Multi-Agent Hybrid Retrieval-Augmented Generation**|[2609.00427v1](http://arxiv.org/abs/2609.00427v1)| null|
+|**2026-10-01**|**Hop-Decayed Influence: New Vulnerabilities of Structural Auxiliary Indexing in GraphRAG Pipelines with LLM**|[2610.02373v1](http://arxiv.org/abs/2610.02373v1)| **[code](https://github.com/Jisung-Pacific/HDI-GraphRAG-Attack)**|
 
 ## graphrag
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-10-01**|**Hop-Decayed Influence: New Vulnerabilities of Structural Auxiliary Indexing in GraphRAG Pipelines with LLM**|[2610.02373v1](http://arxiv.org/abs/2610.02373v1)| **[code](https://github.com/Jisung-Pacific/HDI-GraphRAG-Attack)**|
 |**2026-09-30**|**GraphCert: Bootstrap Agentic Graph Reasoning with Certified Evidence Rubrics**|[2609.38798v1](http://arxiv.org/abs/2609.38798v1)| null|
 |**2026-09-29**|**Corpus-Guided Dual-Path Propagation for Graph Retrieval-Augmented Generation**|[2609.37661v1](http://arxiv.org/abs/2609.37661v1)| **[code](https://github.com/Jacob-biu/NexusRAG)**|
 |**2026-09-28**|**Signal or Noise? Modality Contribution and Cooperation in Multimodal GraphRAG**|[2609.35304v1](http://arxiv.org/abs/2609.35304v1)| null|
