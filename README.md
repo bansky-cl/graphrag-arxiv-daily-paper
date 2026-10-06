@@ -5,7 +5,7 @@
 
 This repository tracks the latest GraphRAG related papers from arXiv.
 
-## Updated on 2026.10.05
+## Updated on 2026.10.06
 
 ![Monthly Trend](imgs/trend.png)
 
@@ -29,7 +29,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2026-08-26**|**BLADE: Distilled LLM Regularization for Calibrated Knowledge Graph Completion**|[2609.29487v1](http://arxiv.org/abs/2609.29487v1)| null|
 |**2026-09-24**|**Advancing the Physical Internet with GraphRAG: A New Way to Review and Integrate Existing Research**|[2609.29083v1](http://arxiv.org/abs/2609.29083v1)| null|
 |**2026-09-23**|**Automated Extraction of Records of Processing Activities (RoPA) Using Hybrid RAG and Locally Deployed Large Language Models**|[2609.27359v1](http://arxiv.org/abs/2609.27359v1)| null|
-|**2026-09-22**|**LEGO: Synergizing Expert GraphRAG and Expert Chain-of-Thought for Legal Reasoning**|[2609.27009v1](http://arxiv.org/abs/2609.27009v1)| **[code](https://github.com/BLK-WHT/LEGO)**|
+|**2026-10-04**|**LEGO: Synergizing Expert GraphRAG and Expert Chain-of-Thought for Legal Reasoning**|[2609.27009v2](http://arxiv.org/abs/2609.27009v2)| **[code](https://github.com/BLK-WHT/LEGO)**|
 |**2026-08-12**|**ABAI at COLIEE 2026 Task 1: Multi-Stage Retrieval with GraphRAG-Enhanced Meta-Learning, and a Post-Hoc Study of the Cross-Validation-to-Test Gap**|[2609.26237v1](http://arxiv.org/abs/2609.26237v1)| null|
 |**2026-09-04**|**Knowledge Graph-Augmented Ambient AI for Clinical Note Generation**|[2609.22239v1](http://arxiv.org/abs/2609.22239v1)| null|
 |**2026-09-18**|**OpenMAS-GCom. A Diagnostic Benchmark for Graph-enhanced Multi-Agent Systems**|[2609.21527v1](http://arxiv.org/abs/2609.21527v1)| null|
@@ -678,7 +678,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2024-03-04**|**Pre-trained Language Model with Prompts for Temporal Knowledge Graph Completion**|[2305.07912v2](http://arxiv.org/abs/2305.07912v2)| null|
 |**2023-09-20**|**ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion**|[2305.06395v3](http://arxiv.org/abs/2305.06395v3)| null|
 
-<p align=right>(<a href=#Updated-on-20261005>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261006>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/bansky-cl/graphrag-arxiv-daily-paper.svg?style=for-the-badge
 [contributors-url]: https://github.com/bansky-cl/graphrag-arxiv-daily-paper/graphs/contributors
