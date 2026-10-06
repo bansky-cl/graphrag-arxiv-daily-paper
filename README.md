@@ -11,16 +11,18 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 
 ## Recent Month Summary (2026-10)
 
-**1 paper(s)** submitted in 2026-10.
+**2 paper(s)** submitted in 2026-10.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-10-05**|**Proof-Grounded Patient-Specific Clinical Explanations from Knowledge-Graph Reasoning**|[2610.06549v1](http://arxiv.org/abs/2610.06549v1)| null|
 |**2026-10-01**|**Hop-Decayed Influence: New Vulnerabilities of Structural Auxiliary Indexing in GraphRAG Pipelines with LLM**|[2610.02373v1](http://arxiv.org/abs/2610.02373v1)| **[code](https://github.com/Jisung-Pacific/HDI-GraphRAG-Attack)**|
 
 ## graphrag
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-10-05**|**Proof-Grounded Patient-Specific Clinical Explanations from Knowledge-Graph Reasoning**|[2610.06549v1](http://arxiv.org/abs/2610.06549v1)| null|
 |**2026-10-01**|**Hop-Decayed Influence: New Vulnerabilities of Structural Auxiliary Indexing in GraphRAG Pipelines with LLM**|[2610.02373v1](http://arxiv.org/abs/2610.02373v1)| **[code](https://github.com/Jisung-Pacific/HDI-GraphRAG-Attack)**|
 |**2026-09-30**|**GraphCert: Bootstrap Agentic Graph Reasoning with Certified Evidence Rubrics**|[2609.38798v1](http://arxiv.org/abs/2609.38798v1)| null|
 |**2026-09-29**|**Corpus-Guided Dual-Path Propagation for Graph Retrieval-Augmented Generation**|[2609.37661v1](http://arxiv.org/abs/2609.37661v1)| **[code](https://github.com/Jacob-biu/NexusRAG)**|
