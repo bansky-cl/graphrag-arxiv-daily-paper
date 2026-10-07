@@ -11,10 +11,11 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 
 ## Recent Month Summary (2026-10)
 
-**2 paper(s)** submitted in 2026-10.
+**3 paper(s)** submitted in 2026-10.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-10-06**|**Foresight-over-Graph: Reasoning Beyond Local Horizons for Knowledge Base Question Answering**|[2610.08388v1](http://arxiv.org/abs/2610.08388v1)| **[code](https://github.com/yhong7/FoG)**|
 |**2026-10-05**|**Proof-Grounded Patient-Specific Clinical Explanations from Knowledge-Graph Reasoning**|[2610.06549v1](http://arxiv.org/abs/2610.06549v1)| null|
 |**2026-10-01**|**Hop-Decayed Influence: New Vulnerabilities of Structural Auxiliary Indexing in GraphRAG Pipelines with LLM**|[2610.02373v1](http://arxiv.org/abs/2610.02373v1)| **[code](https://github.com/Jisung-Pacific/HDI-GraphRAG-Attack)**|
 
@@ -22,6 +23,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-10-06**|**Foresight-over-Graph: Reasoning Beyond Local Horizons for Knowledge Base Question Answering**|[2610.08388v1](http://arxiv.org/abs/2610.08388v1)| **[code](https://github.com/yhong7/FoG)**|
 |**2026-10-05**|**Proof-Grounded Patient-Specific Clinical Explanations from Knowledge-Graph Reasoning**|[2610.06549v1](http://arxiv.org/abs/2610.06549v1)| null|
 |**2026-10-01**|**Hop-Decayed Influence: New Vulnerabilities of Structural Auxiliary Indexing in GraphRAG Pipelines with LLM**|[2610.02373v1](http://arxiv.org/abs/2610.02373v1)| **[code](https://github.com/Jisung-Pacific/HDI-GraphRAG-Attack)**|
 |**2026-09-30**|**GraphCert: Bootstrap Agentic Graph Reasoning with Certified Evidence Rubrics**|[2609.38798v1](http://arxiv.org/abs/2609.38798v1)| null|
