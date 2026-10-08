@@ -5,16 +5,19 @@
 
 This repository tracks the latest GraphRAG related papers from arXiv.
 
-## Updated on 2026.10.07
+## Updated on 2026.10.08
 
 ![Monthly Trend](imgs/trend.png)
 
 ## Recent Month Summary (2026-10)
 
-**3 paper(s)** submitted in 2026-10.
+**6 paper(s)** submitted in 2026-10.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-10-07**|**TopoGraphRAG-Bench: Evaluating Multimodal GraphRAG on Layout-Grounded Evidence Reasoning**|[2610.09360v1](http://arxiv.org/abs/2610.09360v1)| **[code](https://richardlrc.github.io/TopoGraphRAG-Bench/)**|
+|**2026-10-06**|**BEACON-SP: Ontology-Grounded GraphRAG Framework for Clinical Suicide Risk Assessment**|[2610.09026v1](http://arxiv.org/abs/2610.09026v1)| null|
+|**2026-10-06**|**GraphOPD: Graph-Augmented On-Policy Distillation for LLM Agents**|[2610.08959v1](http://arxiv.org/abs/2610.08959v1)| null|
 |**2026-10-06**|**Foresight-over-Graph: Reasoning Beyond Local Horizons for Knowledge Base Question Answering**|[2610.08388v1](http://arxiv.org/abs/2610.08388v1)| **[code](https://github.com/yhong7/FoG)**|
 |**2026-10-05**|**Proof-Grounded Patient-Specific Clinical Explanations from Knowledge-Graph Reasoning**|[2610.06549v1](http://arxiv.org/abs/2610.06549v1)| null|
 |**2026-10-01**|**Hop-Decayed Influence: New Vulnerabilities of Structural Auxiliary Indexing in GraphRAG Pipelines with LLM**|[2610.02373v1](http://arxiv.org/abs/2610.02373v1)| **[code](https://github.com/Jisung-Pacific/HDI-GraphRAG-Attack)**|
@@ -23,6 +26,9 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 
 |Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-10-07**|**TopoGraphRAG-Bench: Evaluating Multimodal GraphRAG on Layout-Grounded Evidence Reasoning**|[2610.09360v1](http://arxiv.org/abs/2610.09360v1)| **[code](https://richardlrc.github.io/TopoGraphRAG-Bench/)**|
+|**2026-10-06**|**BEACON-SP: Ontology-Grounded GraphRAG Framework for Clinical Suicide Risk Assessment**|[2610.09026v1](http://arxiv.org/abs/2610.09026v1)| null|
+|**2026-10-06**|**GraphOPD: Graph-Augmented On-Policy Distillation for LLM Agents**|[2610.08959v1](http://arxiv.org/abs/2610.08959v1)| null|
 |**2026-10-06**|**Foresight-over-Graph: Reasoning Beyond Local Horizons for Knowledge Base Question Answering**|[2610.08388v1](http://arxiv.org/abs/2610.08388v1)| **[code](https://github.com/yhong7/FoG)**|
 |**2026-10-05**|**Proof-Grounded Patient-Specific Clinical Explanations from Knowledge-Graph Reasoning**|[2610.06549v1](http://arxiv.org/abs/2610.06549v1)| null|
 |**2026-10-01**|**Hop-Decayed Influence: New Vulnerabilities of Structural Auxiliary Indexing in GraphRAG Pipelines with LLM**|[2610.02373v1](http://arxiv.org/abs/2610.02373v1)| **[code](https://github.com/Jisung-Pacific/HDI-GraphRAG-Attack)**|
@@ -682,7 +688,7 @@ This repository tracks the latest GraphRAG related papers from arXiv.
 |**2024-03-04**|**Pre-trained Language Model with Prompts for Temporal Knowledge Graph Completion**|[2305.07912v2](http://arxiv.org/abs/2305.07912v2)| null|
 |**2023-09-20**|**ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion**|[2305.06395v3](http://arxiv.org/abs/2305.06395v3)| null|
 
-<p align=right>(<a href=#Updated-on-20261007>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261008>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/bansky-cl/graphrag-arxiv-daily-paper.svg?style=for-the-badge
 [contributors-url]: https://github.com/bansky-cl/graphrag-arxiv-daily-paper/graphs/contributors
